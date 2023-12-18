@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30043">Jinteki: Restoring Humanity</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26040">Project Yagi-Uda</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda27005">La Costa Grid</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30044">Longevity Serum</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30047">Karunā</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30062">Ballista</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30074">Whitespace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31043">Eli 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31052">Nisei MK II</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+  </section>
+  <notes><![CDATA[WELCOME TO XAND&#039;S GUIDE
+========================
+
+Hello! My name is Xandorius. I&#039;ve published a series of decklists for newer players using Nisei&#039;s [Startup Format](https://nisei.net/blog/introducing-startup-format/ &quot;Startup&quot;). There is one decklist per faction, using the startup IDs. Each decklist will discuss some ideas about playing as and against the faction, an overview of a gameplan from early to late game, and a breakdown of why I chose each card in the list. These lists are meant to give players a place to get started and some things to think about as they continue on their Netrunner journey. Discussion and tweaking to your own playstyle/ideas is highly encouraged!
+
+You can find my other startup guides [here](https://netrunnerdb.com/en/decklists/find?faction=&amp;sort=popularity&amp;rotation_id=&amp;author=Xandorius&amp;title=Guide&amp;is_legal=&amp;mwl_code=&amp;packs%5B%5D=1&amp;packs%5B%5D=8&amp;packs%5B%5D=21&amp;packs%5B%5D=28&amp;packs%5B%5D=35&amp;packs%5B%5D=55&amp;packs%5B%5D=62&amp;packs%5B%5D=63&amp;packs%5B%5D=64&amp;packs%5B%5D=65&amp;packs%5B%5D=70&amp;packs%5B%5D=71&amp;packs%5B%5D=73&amp;packs%5B%5D=74&amp;packs%5B%5D=2&amp;packs%5B%5D=3&amp;packs%5B%5D=4&amp;packs%5B%5D=5&amp;packs%5B%5D=6&amp;packs%5B%5D=7&amp;packs%5B%5D=9&amp;packs%5B%5D=10&amp;packs%5B%5D=11&amp;packs%5B%5D=12&amp;packs%5B%5D=18&amp;packs%5B%5D=19&amp;packs%5B%5D=22&amp;packs%5B%5D=23&amp;packs%5B%5D=24&amp;packs%5B%5D=25&amp;packs%5B%5D=26&amp;packs%5B%5D=27&amp;packs%5B%5D=29&amp;packs%5B%5D=30&amp;packs%5B%5D=31&amp;packs%5B%5D=32&amp;packs%5B%5D=33&amp;packs%5B%5D=34&amp;packs%5B%5D=36&amp;packs%5B%5D=37&amp;packs%5B%5D=38&amp;packs%5B%5D=39&amp;packs%5B%5D=40&amp;packs%5B%5D=41&amp;packs%5B%5D=42&amp;packs%5B%5D=43&amp;packs%5B%5D=44&amp;packs%5B%5D=45&amp;packs%5B%5D=46&amp;packs%5B%5D=47&amp;packs%5B%5D=48&amp;packs%5B%5D=49&amp;packs%5B%5D=50&amp;packs%5B%5D=52&amp;packs%5B%5D=53&amp;packs%5B%5D=54&amp;packs%5B%5D=51&amp;packs%5B%5D=72&amp;packs%5B%5D=56&amp;packs%5B%5D=57&amp;packs%5B%5D=58&amp;packs%5B%5D=59&amp;packs%5B%5D=60&amp;packs%5B%5D=61&amp;packs%5B%5D=67&amp;packs%5B%5D=68&amp;packs%5B%5D=69 &quot;Xand&#039;s Guide&quot;)!
+
+EVERY ROSE HAS ITS THORN - PLAYING AS JINTEKI
+
+Jinteki is the home of spiky ICE, net damage traps, damaging agendas, and all the mind games that go along with pushing the runner into making the wrong choice. If you like bluffing, a death by a thousand cuts, or simply watching the runner wince as they lose yet another card from their hand, then Jinteki may be the faction for you!
+
+KEEP IT SECRET, KEEP IT SAFE - PLAYING AGAINST JINTEKI
+
+Although Jinteki can do a lot of damage, the trade-off is that they often cannot easily end the run. They might play out a bluff, hoping that you run their traps. This costs a lot of resources to do typically, so finding ways to read the board (or the player) and call those bluffs effectively is key to winning against Jinteki. Keep your hand size in mind, and utilize tools that draw you cards when you&#039;re damaged, or prevent that damage in the first place. Tools that expose or reveal can aid in knowing if you can safely make a run or if that facedown card on the board is worth checking out. Finally, their ICE can&#039;t hurt you if you bypass it and if they&#039;re spending all their resources setting their traps, then their centrals may be ripe for the picking.
+
+PLANTING THE SEEDS - EARLY TURNS
+
+The goal of this deck is to set up a spiky scoring server that taxes the runner and utilizes [La Costa Grid](/en/card/26112) to make scoring easier.  
+
+In the first few turns you want to ICE up centrals then begin to build a scoring server. Getting your ID online earlier then later can create a nice sustainable long term drip economy. Something like [Tithe](/en/card/30073) on Archives could be just enough cost to have the runner not bother taking the time to deny you a credit. Early [Marilyn Campaign](/en/card/31042) is useful, and if its behind something like [Engram Flush](/en/card/26108) the runner may not bother spending the time to trash it. [Spin Doctor](/en/card/30053) helps you draw your pieces, and helps deal with early agenda flood.
+
+NURTURING GROWTH - MIDGAME TURNS
+
+In the midgame you&#039;ll want to build up a taxing remote server and preferably score a [Nisei MK II](/en/card/31052) in order to secure an on-demand end the run effect. Your scoring remote will utilize [La Costa Grid](/en/card/26112) and [Anoetic Void](/en/card/30050) to hopefully create a server that is too expensive to run through multiple times. [Cyberdex Sandbox](/en/card/26128) is also valuable as it will maintain your tempo.
+
+REAP WHAT YOU SOW - ENDGAME CRUSH
+
+As you near the end game, you&#039;ll hopefully reach a point where you have a Nisei token ready, an Anoetic Void on the board, and some taxing ICE that prevents the runner from making multiple runs to steal the final agendas. Locking that all in place is the goal. Throwing down a Marilyn or a [Snare!](/en/card/31054) to bluff agendas can be a great way to bait the runner into wasting resources and giving you a window to close out the game.
+
+WELCOME TO THE GARDEN - CARD CHOICES
+
+Agendas - The Agenda suite here prioritizes ease of scoring when combined with [La Costa Grid](/en/card/26112). Cyberdex keeps your tempo moving forward as this deck may be a little too light on cash. Nisei helps guard your remote as you move to the end game or can disrupt high value runs that the runner is making.
+
+Assets - Easy to see here, your assets make you money, draw you cards, or hurt the runner. Keeping [Snare!](/en/card/31054) in hand can be valuable extra protection against HQ.
+
+Operations - Simply money.
+
+Upgrade - these two upgrades work well together to protect your scoring remote or help you score out from it.
+
+ICE - The ICE suite combines some spiky damage, with taxing ICE and decent end the run choices. Where you put your [Tollbooth](/en/card/31066) will depend largely on the matchup. 
+
+CURATING NATURE - FINAL THOUGHTS
+
+Thank you for taking a look at the list! There are lots of tweaks and options you can swap in to fit your style and meta. Consider [Trick of Light](/en/card/31058) to take advantage of extra [La Costa Grid](/en/card/26112) counters. Try out extra damage from [Ronin](/en/card/31053) or [Urtica Cipher](/en/card/30045). Perhaps include some more money with [Hansei Review](/en/card/30048). Or even try out using some 1 point agendas so that you can take advantage of powerful ICE like [Archer](/en/card/31075). Regardless of what you pick, Jinteki lets you create a deck that will make the runner fall flat.
+
+Take care and see you on the Net!
+
+
+![Xandorius](https://i.imgur.com/ZKvjlE3.jpg?1 &quot;Icon&quot;) -Xandorius]]></notes>
+</deck>

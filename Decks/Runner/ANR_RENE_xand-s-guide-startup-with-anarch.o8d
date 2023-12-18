@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30001">René &quot;Loup&quot; Arcemont: Party Animal</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26003">Chisel</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26004">Stargate</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30002">Wildcat Strike</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30003">Carnivore</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30009">Cookbook</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30034">Verbal Plasticity</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31008">Mimic</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+  </section>
+  <notes><![CDATA[WELCOME TO XAND&#039;S GUIDE
+========================
+
+Hello! My name is Xandorius. I&#039;ve published a series of decklists for newer players using Nisei&#039;s [Startup Format](https://nisei.net/blog/introducing-startup-format/ &quot;Startup&quot;). There is one decklist per faction, using the startup IDs. Each decklist will discuss some ideas about playing as and against the faction, an overview of a gameplan from early to late game, and a breakdown of why I chose each card in the list. These lists are meant to give players a place to get started and some things to think about as they continue on their Netrunner journey. Discussion and tweaking to your own playstyle/ideas is highly encouraged!
+
+You can find my other startup guides [here](https://netrunnerdb.com/en/decklists/find?faction=&amp;sort=popularity&amp;rotation_id=&amp;author=Xandorius&amp;title=Guide&amp;is_legal=&amp;mwl_code=&amp;packs%5B%5D=1&amp;packs%5B%5D=8&amp;packs%5B%5D=21&amp;packs%5B%5D=28&amp;packs%5B%5D=35&amp;packs%5B%5D=55&amp;packs%5B%5D=62&amp;packs%5B%5D=63&amp;packs%5B%5D=64&amp;packs%5B%5D=65&amp;packs%5B%5D=70&amp;packs%5B%5D=71&amp;packs%5B%5D=73&amp;packs%5B%5D=74&amp;packs%5B%5D=2&amp;packs%5B%5D=3&amp;packs%5B%5D=4&amp;packs%5B%5D=5&amp;packs%5B%5D=6&amp;packs%5B%5D=7&amp;packs%5B%5D=9&amp;packs%5B%5D=10&amp;packs%5B%5D=11&amp;packs%5B%5D=12&amp;packs%5B%5D=18&amp;packs%5B%5D=19&amp;packs%5B%5D=22&amp;packs%5B%5D=23&amp;packs%5B%5D=24&amp;packs%5B%5D=25&amp;packs%5B%5D=26&amp;packs%5B%5D=27&amp;packs%5B%5D=29&amp;packs%5B%5D=30&amp;packs%5B%5D=31&amp;packs%5B%5D=32&amp;packs%5B%5D=33&amp;packs%5B%5D=34&amp;packs%5B%5D=36&amp;packs%5B%5D=37&amp;packs%5B%5D=38&amp;packs%5B%5D=39&amp;packs%5B%5D=40&amp;packs%5B%5D=41&amp;packs%5B%5D=42&amp;packs%5B%5D=43&amp;packs%5B%5D=44&amp;packs%5B%5D=45&amp;packs%5B%5D=46&amp;packs%5B%5D=47&amp;packs%5B%5D=48&amp;packs%5B%5D=49&amp;packs%5B%5D=50&amp;packs%5B%5D=52&amp;packs%5B%5D=53&amp;packs%5B%5D=54&amp;packs%5B%5D=51&amp;packs%5B%5D=72&amp;packs%5B%5D=56&amp;packs%5B%5D=57&amp;packs%5B%5D=58&amp;packs%5B%5D=59&amp;packs%5B%5D=60&amp;packs%5B%5D=61&amp;packs%5B%5D=67&amp;packs%5B%5D=68&amp;packs%5B%5D=69 &quot;Xand&#039;s Guide&quot;)!
+
+TAKING NOTHING FOR GRANTED - PLAYING AS AN ANARCH
+
+Anarch&#039;s like to play fast, often trading late game sustainability for early game power. With many disruptive tools, Anarch players like to shake things up and force the Corp to patch up holes in their defenses while the Anarch is lighting something else on fire. If you like winning by messing up the Corp&#039;s ability to win, then Anarch may be the faction for you.
+
+[THOSE MEDDLING KIDS](https://pbs.twimg.com/media/DonrFKxUcAYSg8t.jpg &quot;scooby&quot;) - PLAYING AGAINST ANARCH
+
+If you&#039;re up against an Anarch player, you&#039;ll want to prepare for viruses and trash effects to disrupt your gameplan. One way to counter their plan is to use high strength ICE. Many of their breakers, such as [Mimic](/en/card/31008) really need strength reduction effects like [Leech](/en/card/30008). If you can keep ICE strength high, you can limit their ability to get in. Another option is to take advantage of their often not full hand. If an Anarch is trashing their own cards, say with [Moshing](/en/card/26067), then bait them to run into a damaging trap and flatline them while their cards are low. 
+
+GETTING DOWN WITH THE SICKNESS - EARLY TURNS WITH LOUP
+
+This deck&#039;s idea is to leverage the value of viruses to disrupt the corp&#039;s plan, while building up to an eventual lock with [Stargate](/en/card/26004). In the mulligan and early game you&#039;ll want to see some setup cards. [Cookbook](/en/card/30009), [DZMZ Optimizer](/en/card/30022), and [Verbal Plasticity](/en/card/30034) increase in value the earlier you play them, so they could be a priority. An early [Imp](/en/card/25013) can also help start firing Loup&#039;s ability quickly. [Botulus](/en/card/30004) can deal with early ICE that has few subroutines, and [Leech](/en/card/30008) can start generating virus value for your breakers.
+
+THROW IT ON THE GROUND - MIDGAME TRASHING
+
+As you enter the midgame the plan is to use [Carnivore](/en/card/30003) and [Imp](/en/card/25013) to trash the Corp&#039;s pieces, eventually throwing down a [Stargate](/en/card/26004) for a mid-to-late-game lock. [Chisel](/en/card/26003) can help get rid of difficult ICE with [Leech](/en/card/30008) support, and [Simulchip](/en/card/26085) can bring Imp and Chisel back for their next targets.
+
+REACH FOR THE STARS - LATEGAME SQUEEZE
+
+Once you&#039;re fully set up, the plan is to [Stargate](/en/card/26004) every turn, trashing key pieces as you go. If the corp tries to install an agenda, you&#039;ll run their remote and steal it or use [Imp](/en/card/20011) to throw it away too. Eventually, you may just have a win waiting for you in Archives.
+
+FUEL FOR THE FIRE - CARD CHOICES
+
+Events - [Sure Gamble](/en/card/30030) and [Dirty Laundry](/en/card/31037) are straight forward economy. [Wildcat Strike](/en/card/30002) can be money or cards, but assume that the corp is going to give you the worse (for you) of the two options.
+
+Hardware - [Carnivore](/en/card/30003) helps trigger Loup&#039;s ability, and gives you a means of trashing cards without a credit cost. This is particularly valuable for trashing difficult ICE, combo events, or agendas that you can&#039;t steal. [DZMZ Optimizer](/en/card/30022) will make all those viruses cheaper along with providing  support. The [Simulchip](/en/card/26085) let you bring back imp or chisel, along with protecting against program trashing.
+
+Resources - [Cookbook](/en/card/30009) supports your viruses, speeding up your plan. An extra Imp token can be very valuable. [Daily Casts](/en/card/26094) is simple money. [Verbal Plasticity](/en/card/30034) is a cheaper alternative to [Earthrise Hotel](/en/card/31039) and if you&#039;re drawing off Loup it may be a better choice.
+
+Programs - I&#039;ve commented on your support programs throughout this writeup. In this list we&#039;re using the Anarch breakers that benefit the most from strength reduction effects. Ideally you never want to boost [Buzzsaw](/en/card/30005) or [Cleaver](/en/card/30006). Chisel and Leech can provide that support, with Botulus being used for ICE that&#039;s too strong to reliably reduce. [Stargate](/en/card/26004) is a win condition on its own.
+
+PARTY WYLDE - FINAL THOUGHTS
+
+Thank you for taking a look at the list! There are lots of tweaks and options you can swap in to fit your style and meta. [Jailbreak](/en/card/30028) or [Docklands Pass](/en/card/30013) can help with extra HQ pressure. [Scrubber](/en/card/31011) can make asset spam decks easier to deal with. [Conduit](/en/card/30024) can pair with your viruses to put more pressure on R&amp;D. [Buffer Drive](/en/card/26093) can potentially pair with [Carnivore](/en/card/30003) and [Gachapon](/en/card/26069) could help speed up your setup. The companion resources could give you discounts, and [Aesop&#039;s Pawnshop](/en/card/31035) can sell those Imps that no longer have counters. Whichever way you go, you&#039;ll have a riot playing as an Anarch!
+
+Take care and see you on the Net!
+
+
+![Xandorius](https://i.imgur.com/ZKvjlE3.jpg?1 &quot;Icon&quot;) -Xandorius]]></notes>
+</deck>

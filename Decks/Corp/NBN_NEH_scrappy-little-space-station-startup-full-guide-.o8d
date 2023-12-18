@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31060">Near-Earth Hub: Broadcast Center</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26037">Red Level Clearance</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26047">Remastered Edition</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26048">Daily Quest</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26049">Tiered Subscription</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26064">CSR Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26098">Bass CH1R180G4</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26114">Bellona</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26116">Gold Farmer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30037">Nico Campaign</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30055">Ping</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30074">Whitespace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31062">Project Beale</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31063">Daily Business Show</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31069">SanSan City Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31080">PAD Campaign</card>
+  </section>
+  <notes><![CDATA[This is a tempo based [Near-Earth Hub: Broadcast Center](/en/card/06005) list that is designed to go wide and build a board state that is difficult for the runner to manage and essentially fork them into deciding on whether or not to bother with your assets, build their own board or get accesses. From the Corp point of view, your looking to draw 3 cards per turn, jam 3 cards per turn, every turn, unless your scoring an agenda. 
+
+I&#039;ve played 40 games of this exact iteration (32W 8L - 80% win rate) and around 50-60 games of some earlier iterations. When I first looked at [Near-Earth Hub: Broadcast Center](/en/card/31060) I wanted to use the 17 influence for something meaningful. First I tried value [Snare!](/en/card/31054) and whilst it was ok it wasn&#039;t helping me win. I decided to use the Asset based archetype and bring in fast advance tools with [Bass CH1R180G4](/en/card/26098) and pair that with [SanSan City Grid](/en/card/31069) and [Remastered Edition](/en/card/26047) and see how that fit and I can say, it works really well. 
+
+__Agenda Suite:__ You want to be able to score Agenda&#039;s in the turn that you draw them or from the board in a non-advanced state. Scoring [Project Beale](/en/card/31062) or [Tomorrow&#039;s Headline](/en/card/30052) from hand onto a [SanSan City Grid](/en/card/31069) or straight off the board is fine, but the real tempo comes when you can get a [Remastered Edition](/en/card/26047) scored. You can set this up to do from hand with a [SanSan City Grid](/en/card/31069) and a [Bass CH1R180G4](/en/card/26098) on the board, or even use the [Red Level Clearance](/en/card/26037) to get the [Bass CH1R180G4](/en/card/26098) onto the board, gain a . This won&#039;t be cheap, hence the large amount of economy assets (I&#039;ll talk to these below). 
+
+Once your at 4 points with a [Remastered Edition](/en/card/26047) token and a rezzed [SanSan City Grid](/en/card/31069) the threat of scoring a [Bellona](/en/card/26114) from hand is there and actually quite easy to do. Get a [Bass CH1R180G4](/en/card/26098) on the board and when you draw that [Bellona](/en/card/26114) rez the [Bass CH1R180G4](/en/card/26098), trash it and go to 4 clicks, install the [Bellona](/en/card/26114) onto the [SanSan City Grid](/en/card/31069), advance three times and then use the token off your scored [Remastered Edition](/en/card/26047) to win the game. This will usually shock your runner opponent quite a little bit because its a very sudden end to the game that seemed like it was just beginning to get interesting. 
+
+If you cant get that combo going, there&#039;s nothing wrong with just IAA the [Bellona](/en/card/26114) behind a [Tollbooth](/en/card/31066) with a [Gold Farmer](/en/card/26116) in front of it. Chances are the runner can&#039;t afford to get it or will be so poor after you can score out any of your other agendas. 
+
+__ICE:__ Pretty straight forward. Use your cheap ice like [Whitespace](/en/card/30074) and [Ping](/en/card/30055) to protect centrals early, [Palisade](/en/card/30072) for your first [Daily Quest](/en/card/26048), [Marilyn Campaign](/en/card/31042) or [Nico Campaign](/en/card/30037) and then you have enough [Gold Farmer](/en/card/26116) and [Tollbooth](/en/card/31066) for one for each central worth protecting and a remote to protect your [SanSan City Grid](/en/card/31069).
+
+Why no sentry ICE? I tried [F2P](/en/card/26115), it was ok but costs 4c to walk through anyway without a killer. If you want one bad enough, cut a [Whitespace](/en/card/30074) for it. 
+
+__Assets:__ Good stuff advertising assets, all pretty straight forward. Nothing really worth protecting with ICE except an early [Nico Campaign](/en/card/30037). [Daily Business Show](/en/card/31063) will help you keep your hand clean and bottom the points to protect against single accesses, [Legwork](/en/card/31019) paired with [Docklands Pass](/en/card/30013) or [The Maker&#039;s Eye](/en/card/31029) etc. The notable exception to the standard money and recursion assets here is [CSR Campaign](/en/card/26064). This is actually really important as without it you will have to draw cards at some point with an action, which is a loss of tempo. With [CSR Campaign](/en/card/26064) you draw 2 cards start of turn (Corp mandatory draw) and installing a new remote will draw a card through the [Near-Earth Hub: Broadcast Center](/en/card/31060) ID ability. Occasionally [Nico Campaign](/en/card/30037) will also draw you a card when it trashes itself. 
+
+One of the best things about [CSR Campaign](/en/card/26064) is it&#039;s a &quot;may&quot; ability. This is crucial on scoring turns to decline and not draw a card so that way your hand isn&#039;t over full and your not throwing perfectly good assets into the bin. The exception to the rule here is if you want to put some points in the bin and you have a [Spin Doctor](/en/card/30053) on the board. Agenda&#039;s are safer there than in your hand, but beware the [Spin Doctor](/en/card/30053) shuffling of R&amp;D if you have been bottoming agenda&#039;s with [Daily Business Show](/en/card/31063).
+
+__Additional Points:__ Firstly, your a bit fragile early. Just keep putting assets on the board, rezzing them at start of turn or end of turn if its a [Tiered Subscription](/en/card/26049) or a [Daily Quest](/en/card/26048) behind a [Palisade](/en/card/30072). Don&#039;t worry too much about single accesses, you will leak points over the game but don&#039;t be scared to install three cards facedown with one of them being a [Project Beale](/en/card/31062). If you swarm the board enough the runner has to give up to work on thier own board, or they have no tools to deal with your [SanSan City Grid](/en/card/31069) behind a [Tollbooth](/en/card/31066) and [Gold Farmer](/en/card/26116), so feel free to start building that remote well before you need it. 
+
+Why no tag punishment like [Exchange of Information](/en/card/10092) or [Public Trail](/en/card/30057)? These detract from your win condition of being faster than the runner and scoring agendas. Wasting time with tags from [Ping](/en/card/30055), [Funhouse](/en/card/30054) and [Public Trail](/en/card/30057) is clicks not spent towards winning. The tag from [Ping](/en/card/30055) is there purely as a gear check and to make the runner waste time and money clearing the tag. 
+
+__Weak matchups?:__ There&#039;s a few, but you can out tempo them if you don&#039;t lose to early multi access. [René &quot;Loup&quot; Arcemont: Party Animal](/en/card/30001) with an early [Cookbook](/en/card/30009) and [Imp](/en/card/25013) can be difficult to deal with, or [Zahya Sadeghi: Versatile Smuggler](/en/card/30010) [Pennyshaver](/en/card/30014) and multi access turn 1. 
+
+Best of luck with it and thanks for reading.]]></notes>
+</deck>

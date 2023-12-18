@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30010">Zahya Sadeghi: Versatile Smuggler</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26007">Fencer Fueno</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26016">Bukhgalter</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26018">The Class Act</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26074">Bravado</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30011">Mutual Favor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30014">Pennyshaver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30018">Red Team</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30024">Conduit</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31006">Corroder</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31023">Sneakdoor Beta</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31033">Gordian Blade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[WELCOME TO XAND&#039;S GUIDE
+========================
+
+Hello! My name is Xandorius. I&#039;ve published a series of decklists for newer players using Nisei&#039;s [Startup Format](https://nisei.net/blog/introducing-startup-format/ &quot;Startup&quot;). There is one decklist per faction, using the startup IDs. Each decklist will discuss some ideas about playing as and against the faction, an overview of a gameplan from early to late game, and a breakdown of why I chose each card in the list. These lists are meant to give players a place to get started and some things to think about as they continue on their Netrunner journey. Discussion and tweaking to your own playstyle/ideas is highly encouraged!
+
+You can find my other startup guides [here](https://netrunnerdb.com/en/decklists/find?faction=&amp;sort=popularity&amp;rotation_id=&amp;author=Xandorius&amp;title=Guide&amp;is_legal=&amp;mwl_code=&amp;packs%5B%5D=1&amp;packs%5B%5D=8&amp;packs%5B%5D=21&amp;packs%5B%5D=28&amp;packs%5B%5D=35&amp;packs%5B%5D=55&amp;packs%5B%5D=62&amp;packs%5B%5D=63&amp;packs%5B%5D=64&amp;packs%5B%5D=65&amp;packs%5B%5D=70&amp;packs%5B%5D=71&amp;packs%5B%5D=73&amp;packs%5B%5D=74&amp;packs%5B%5D=2&amp;packs%5B%5D=3&amp;packs%5B%5D=4&amp;packs%5B%5D=5&amp;packs%5B%5D=6&amp;packs%5B%5D=7&amp;packs%5B%5D=9&amp;packs%5B%5D=10&amp;packs%5B%5D=11&amp;packs%5B%5D=12&amp;packs%5B%5D=18&amp;packs%5B%5D=19&amp;packs%5B%5D=22&amp;packs%5B%5D=23&amp;packs%5B%5D=24&amp;packs%5B%5D=25&amp;packs%5B%5D=26&amp;packs%5B%5D=27&amp;packs%5B%5D=29&amp;packs%5B%5D=30&amp;packs%5B%5D=31&amp;packs%5B%5D=32&amp;packs%5B%5D=33&amp;packs%5B%5D=34&amp;packs%5B%5D=36&amp;packs%5B%5D=37&amp;packs%5B%5D=38&amp;packs%5B%5D=39&amp;packs%5B%5D=40&amp;packs%5B%5D=41&amp;packs%5B%5D=42&amp;packs%5B%5D=43&amp;packs%5B%5D=44&amp;packs%5B%5D=45&amp;packs%5B%5D=46&amp;packs%5B%5D=47&amp;packs%5B%5D=48&amp;packs%5B%5D=49&amp;packs%5B%5D=50&amp;packs%5B%5D=52&amp;packs%5B%5D=53&amp;packs%5B%5D=54&amp;packs%5B%5D=51&amp;packs%5B%5D=72&amp;packs%5B%5D=56&amp;packs%5B%5D=57&amp;packs%5B%5D=58&amp;packs%5B%5D=59&amp;packs%5B%5D=60&amp;packs%5B%5D=61&amp;packs%5B%5D=67&amp;packs%5B%5D=68&amp;packs%5B%5D=69 &quot;Xand&#039;s Guide&quot;)!
+
+
+PRECISION CRIME, PRECISION RUNS - PLAYING AS A CRIMINAL
+
+The criminal faction has a lot of tools for making money, getting accesses, and evading the Corp&#039;s defenses. As an overarching concept, criminal players run with precision. Many of their tools are single use which means that they reward players who pick their moments well and plan ahead to maximize the value out of a single run or turn. When you&#039;re playing as a criminal, you want to evaluate the board to look for where the Corp is weak and exploit it. Once they shore up defenses, you pivot to another area. If you like the idea of making surgical strikes against a Corp, then Criminal is the faction for you.
+
+NOT IN MY BACK YARD - PLAYING AGAINST CRIMINALS
+
+If you&#039;re a Corp and you&#039;re up against a criminal, you need to decide what&#039;s worth defending, what isn&#039;t, and how you&#039;ll punish their criminal arrogance. Keep in mind that a lot of their tools are single use or once per turn. Take advantage of that by baiting out inefficient runs, or doubling up your defenses to make that precision run not worth their time. Utilizing traps, layering your servers with different ICE types, and playing run punishment cards, are all effective ways to counter the Criminal&#039;s plan. If you want to beat a criminal, make their juiciest target the bait you set on your own terms. 
+
+TAKE A LITTLE LOOK - EARLY GAME WITH ZAHYA
+
+[Zahya&#039;s](/en/card/30010) ability is quintessential Criminal style: get paid once per turn for doing something you want to do and get paid more if you can do that thing better. Having her ability affect HQ and R&amp;D means that you already have two places that you can pressure the Corp. Forcing them to split their attention to both of these servers means that they will have to decide which is easier for you to access. If they defend both, then their scoring remote will be weak, which disrupts their plan on its own.
+
+With the mulligan and early game, you want to see some money and setup potential. Economy and card-draw are good priorities. [Career Fair](/en/card/31015) helps get your expensive draw resources such as [The Class Act](/en/card/26018) and [Earthrise Hotel](/en/card/31039) down easily. Both of those will help accelerate your setup plans. An early [Jailbreak](/en/card/30028) and [Boomerang](/en/card/26075) can help you poke those centrals and continue your setup. Don&#039;t be afraid to face-check ICE early. Pressure the corp to spend their early credits or let you make money from your ID ability. 
+
+DOORS AND CORNERS - MIDGAME PRESSURE
+
+During the midgame, you begin pressuring the corp through your multi access with [Docklands Pass](/en/card/30013) or [Conduit](/en/card/30024). Install one and pressure that central server. The Corp will likely try to shore up their defenses and can potentially overextend when they try to keep you out. That&#039;s when you pivot and install the other option and pressure that different server. As the Corp tries to juggle defending both centrals from this pressure, they won&#039;t have the clicks and credits to strengthen their remote and score. [Bravado](/en/card/26074) makes dealing with that defense cheaper, while [Fencer Fueno](/en/card/26007) helps you trash assets you find, giving you more access potential.
+
+PULLING OFF A HEIST - LATE GAME 
+
+Once the corp gets their feet back under them and strengthens HQ and R&amp;D against your multi-access, you pivot yet again and drop [Sneakdoor Beta](/en/card/31023). It&#039;s entirely possible that the corp hasn&#039;t even bothered with archives during the game as you have been creating so much pressure elsewhere. Now they have a 3rd central to worry about, along with trying to score out. You only have the  to handle having Conduit or Sneakdoor, not both, so you&#039;ll have to decide which one you want to use first and then switch gears with the other one once the Corp has exhausted enough resources keeping you out of a server you&#039;re no longer interested in. 
+
+A CRIMINAL IS ONLY AS GOOD AS THEIR TOOLS - CARD CHOICES
+
+Events - [Bravado](/en/card/26074), [Dirty Laundry](/en/card/31037), [Jailbreak](/en/card/30028) are all run events that combo well with Zahya&#039;s ID to get more money during a run on a central server. All three pair nicely with your multi access options. Bravado and Dirty Laundry can also help against remotes and this flexibility is valuable. [Sure Gamble](/en/card/30030) is important basic economy that has no requirements, [Career Fair](/en/card/31015) helps reduce the cost of your expensive resources and with the exception of Fueno, will always give you the 3 value. [Mutual Favor](/en/card/30011) is a flexible slot that can get you the pesky icebreaker that decided to be at the bottom of your deck.
+
+Hardware - [Boomerang](/en/card/26075) is a nice early pressure option and a great late game way to deal with expensive ICE. [Docklands Pass](/en/card/30013) is a key feature to your multi-access gameplan and strengthens Zahya&#039;s ability. [Pennyshaver](/en/card/30014) makes you money off all those runs, and provides you with your extra .
+
+Resources - [The Class Act](/en/card/26018) and [Earthrise Hotel](/en/card/31039) are your central draw options, and work particularly well if you can get the Class Act out first. [Daily Casts](/en/card/26094) is similar to Sure Gample in providing a risk free money choice. [Red Team](/en/card/30018) can help with early-mid game central pressure, but keep in mind that it doesn&#039;t pair well with [Conduit](/en/card/30024) or [Sneakdoor Beta](/en/card/31023) so you may wish to go with something else. [Fencer Fueno](/en/card/26007) helps with assets and corps that like to go wide.
+
+Icebreakers - you have the efficiency suite here, to try and make the best out of your high impact single runs.  Precision breakers for precision runs.
+
+CATCH ME IF YOU CAN - FINAL THOUGHTS
+
+Thank you for taking a look at the list! There are lots of tweaks and options you can swap in to fit your style and meta. [Inside Job](/en/card/31018) can help a lot against rushing corp&#039;s scoring behind gear check ICE. [Emergency Shutdown](/en/card/31016) and [Tread Lightly](/en/card/30012) can tackle high rez cost ICE effectively. Contemplate swapping in [Flip Switch](/en/card/26013) or [Networking](/en/card/31020) if tags are abundant. 
+
+Take care and see you on the Net!
+
+
+![Xandorius](https://i.imgur.com/ZKvjlE3.jpg?1 &quot;Icon&quot;) -Xandorius]]></notes>
+</deck>

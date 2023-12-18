@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30051">NBN: Reality Plus</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30038">Ansel 1.0</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30054">Funhouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30055">Ping</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30057">Public Trail</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30058">AMAZE Amusements</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30062">Ballista</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30063">Pharos</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30065">Retribution</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30068">Orbital Superiority</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31062">Project Beale</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31065">Pop-up Window</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31068">Psychographics</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31069">SanSan City Grid</card>
+  </section>
+  <notes><![CDATA[This is a Glacier-style deck that uses tags to boost its economy via the [ID ability](https://netrunnerdb.com/en/card/30051). [AMAZE Amusements](https://netrunnerdb.com/en/card/30058) makes it hard to avoid tags altogether, and if the Runner ever finds themselves unable to fully clear their tags, you can punish them with [Retribution](https://netrunnerdb.com/en/card/30065) or even try to snipe them with [Orbital Superiority](https://netrunnerdb.com/en/card/30068). If they ignore all the tags piling up, you can simply churn out agendas with a [recursed](https://netrunnerdb.com/en/card/30053) [Psychographics](https://netrunnerdb.com/en/card/31068) or outright win via [Project Beale](https://netrunnerdb.com/en/card/31062).]]></notes>
+</deck>

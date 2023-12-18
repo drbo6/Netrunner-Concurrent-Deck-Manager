@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30035">Haas-Bioroid: Precision Design</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26035">Hagen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26036">Fully Operational</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26097">Project Vacheron</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26101">Drafter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26105">Tranquility Home Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30037">Nico Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30038">Ansel 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31043">Eli 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+  </section>
+  <notes><![CDATA[Just the usual rush PD, similar to the one currently plaguing standard. This is only marginally slower and can win under 10 turns without issue.
+
+### card choices
+
+- Agenda suite: the deck is fast enough that Vacheron is rarely a liability. The rest are all tempo positive agendas.
+- Nico Campaign is nice as something to jam in the remote if you don&#039;t find agendas.
+- Fully Operational is the best card draw available even with a single iced remote. It is mostly used to draw cards to find an agenda to jam and provide Anoetic Void fuel.
+- Ice suite: pretty happy with it. Hagen feels like the weakest ice so I&#039;ll test it in the future with fewer copies. Magnet and Drafter are great gearchecks while the rest is relatively taxing.
+- Upgrades: you want to force runners to keep checking a horrible remote so many upgrades help. Skunkworks + Void is game winning so we play as many copies as possible. Tranquility Home Grid is there for HB&#039;s signature click efficiency.]]></notes>
+</deck>

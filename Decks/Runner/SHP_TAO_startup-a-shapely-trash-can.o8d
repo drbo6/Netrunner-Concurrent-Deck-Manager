@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30019">Tāo Salonga: Telepresence Magician</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26018">The Class Act</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26083">Harmony AR Therapy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26095">DreamNet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda27003">Cybertrooper Talut</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30017">Tranquilizer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31009">Ice Carver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31031">Chameleon</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31032">Egret</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31035">Aesop&#039;s Pawnshop</card>
+  </section>
+  <notes><![CDATA[This is my attempt at stubbornly wanting to use [Chameleon](/en/card/08069).
+
+[Cybertrooper Talut](/en/card/26091), [Leech](/en/card/30008), and [Ice Carver](/en/card/01015) for boosting strength should get through most ice, but [Tranquilizer](/en/card/30017) is there if you need it. [Egret](/en/card/31032) and Tāo&#039;s swap ability help create an ideal server to run, but [Imp](/en/card/31007), [Aesop&#039;s Pawnshop](/en/card/31035), [Simulchip](/en/card/26085), and [Self-modifying Code](/en/card/26090) are what give this deck it&#039;s trashy name.
+
+- Trash [Imp](/en/card/31007) and bring it back with [Simulchip](/en/card/26085) to reload it with virus counters.
+- Trash [Daily Casts](/en/card/26094) when they only have 2 credits left to get 3 instead.
+- Trash any of your programs since we&#039;re installing them for free with [DZMZ Optimizer](/en/card/30022).
+
+Just some general cards for credits, card draw, and [Harmony AR Therapy](/en/card/26083) if you need to get more stuff out of the heap and back into your stack.
+
+First time publishing a deck; feedback and suggestions are appreciated.]]></notes>
+</deck>

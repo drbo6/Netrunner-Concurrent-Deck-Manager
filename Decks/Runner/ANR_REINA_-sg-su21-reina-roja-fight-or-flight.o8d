@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31002">Reina Roja: Freedom Fighter</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30002">Wildcat Strike</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30007">Fermenter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30009">Cookbook</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30012">Tread Lightly</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30014">Pennyshaver</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30017">Tranquilizer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30031">T400 Memory Diamond</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30032">Mayfly</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30034">Verbal Plasticity</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31003">En Passant</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31004">Retrieval Run</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31006">Corroder</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31010">Liberated Account</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31012">Xanadu</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[While looking at [guiot](https://netrunnerdb.com/en/profile/4142/guiot)&#039;s [Naptime Reina](https://netrunnerdb.com/en/decklist/65348/naptime-reina-1st-at-italian-startup-gnk-), I thought to myself that Anarch in System Gateway + System Update 2021 doesn&#039;t feature enough card draw to properly feed [Carnivore](https://netrunnerdb.com/en/card/30003), so I thought that one should instead go all in on the economic warfare and swapped it for one [Pennyshaver](https://netrunnerdb.com/en/card/30014). The combination of [Reina&#039;s ID ability](https://netrunnerdb.com/en/card/31002), [Xanadu](https://netrunnerdb.com/en/card/31012), [Tranquilizer](https://netrunnerdb.com/en/card/30017) and [Tready Lightly](https://netrunnerdb.com/en/card/30012) makes hard for the corp to scrounge up all the credits to (repeatedly) rez their ice effectively, which you can follow up by killing their key ice with [En Passant](https://netrunnerdb.com/en/card/31003). Since this list is very light on icebreaker, there are two [Retrieval Run](https://netrunnerdb.com/en/card/31004) to recycle a [Botulus](https://netrunnerdb.com/en/card/30004) or a Tranquilizer from the heap, and if things get hairy, you can use a [Mayfly](https://netrunnerdb.com/en/card/30032) to slip into that remote.]]></notes>
+</deck>

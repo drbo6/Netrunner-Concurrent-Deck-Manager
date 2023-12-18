@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31025">Ayla &quot;Bios&quot; Rahim: Simulant Specialist</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26003">Chisel</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26021">Khusyuk</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26024">Gauss</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26028">Direct Access</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26068">Devil Charm</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26083">Harmony AR Therapy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda27002">Swift</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30021">VRcation</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30025">Echelon</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30026">Unity</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30031">T400 Memory Diamond</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31030">Atman</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31036">Professional Contacts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31038">Prepaid VoicePAD</card>
+  </section>
+  <notes><![CDATA[Yesterday, I was playing netrunner with a friend. He was playing an Ayla deck and kinda failing. However, he said something about his deck that provoked thought after finding one of his 3 Professional Contacts late. &quot;Finally! I found my ID.&quot; 
+
+If ProCo was straight up the ability on a shaper ID, that would be a good ID, right? If I did my math right, Ayla-ing and mulling for ProCo will give you a greater than 70% chance of having a ProCo available to you at the beginning of the game, which is fairly consistent. The question now is how to capitalize on that. 
+
+My friend&#039;s deck had a bunch of econ, but in our games my ice was good enough that running through anything for him was a pain in the ass, and his end game was maker&#039;s eye/conduit, the first of which was not impactful enough and the second of which required repeatable runs which against annoying ice is annoying. 
+
+The first step I took in improving his deck was taking out econ that doesn&#039;t synergize well with ProCo. This meant cutting Telework Contract, which is click intensive, leaving less clicks for ProCo, and Diesel, which never feels good alongside ProCo because it doesn&#039;t give you access to that many additional cards while making you take turns off of ProCo. I kept in VRcation, because its stronger burst card draw can dig you deeper towards a ProCo and it can get cheaper off of the prepaid voice pad I threw in. I also kept in all the T400 memory diamonds, which were smart inclusions on my friend&#039;s part because having the extra hand size allows you to be more flexible with your ProCo/VRcation turns, but in my version they also make holding late-game events like Khusyuk and Harmony AR Therapy in hand easier. 
+
+Now with the econ streamlined, I wanted to add more spice to the deck. I scrolled through start-up legal cards, and realized that shaper can play 3 devil charm/a chisel fetchable with SMC/ simulchip to get back chisel. This was what the deck needed: ways to deal with problematic ice permanently and efficiently. As for the endgame, Khusyuk seemed like it aligned most with what the deck wanted to do, which is build up strength throughout the game with ProCo, challenging the remote and other servers when advantageous, but not lock itself into running any server repeatedly in order to win. 
+
+Lastly, Harmony AR Therapy and spicy one ofs. In other ProCo decks, I&#039;ve found that ProCo&#039;s power goes down at the end of the game as the quality of the cards you&#039;re drawing into decreases. I think HART will solve that problem and give the deck more gas near the end. Boomerang was 2 or 3x in my friends deck, and I like it with ProCo to keep digging you closer to it while making money, but Boomerang is not always the best solution to ice, and if you&#039;re stuck with multiple and a breaker or two in hand when you have no reason to run it sucks, so I shaved it down to 1. Swift? Gives you a click after Khusyuk or Overclock or Jailbreak or... direct access for extra clicks which of course you use to ProCo. Direct Access with a Pad and Swift is a recuring free run that you get every so often that hampers the corp and never you, so I threw it in. 
+
+Now... I&#039;ve only actually played 1 game with this deck, which to my credit I won. But the theory of it is a hill I will die on. 
+
+Hope you enjoyed the writeup!]]></notes>
+</deck>

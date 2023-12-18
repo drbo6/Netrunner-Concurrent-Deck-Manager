@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31002">Reina Roja: Freedom Fighter</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26005">Utae</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26008">The Nihilist</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26069">Gachapon</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26073">Paladin Poemu</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26095">DreamNet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30003">Carnivore</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30007">Fermenter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30009">Cookbook</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30012">Tread Lightly</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30017">Tranquilizer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30032">Mayfly</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31006">Corroder</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31010">Liberated Account</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31012">Xanadu</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[Yet another take on Naptime Reina. Compared to [the previous version](https://netrunnerdb.com/en/decklist/65031/shhhh-it-s-naptime-2nd-at-ysengrin-s-), this cuts one [Tranquilizer](/en/card/30017) for two [Career Fair](/en/card/08023)s and a [Tread Lightly](/en/card/30012), and is generally a little bit richer. It also removes an [Odore](/en/card/26071) (good against [Saisentan](/en/card/26044) and not much else) for a [Mayfly](/en/card/30032), which helps fight [Magnet](/en/card/31044) locks and is very appealing with all the money the deck has now.
+
+Slots still feel very fluid and it&#039;s fun to play around with them! A [Stargate](/en/card/26004) would be fun to try out, given how much this tournament relied on rnd pressure.
+
+I brought this to an Italian Startup tournament and it went 4-0. Most of the games felt really close and fun :) 
+
+
+
+Game 1 was against a very fast [Haas-Bioroid: Precision Design](/en/card/30035) that started a little bit slowly. I had to force a bunch of rezzes to slow it down more and pressure R&amp;D a lot. Somehow we got to a point where we were 6-6, there were only 4 cards in R&amp;D and the only agendas remaining were two [Project Vacheron](/en/card/26097). I was able to get through the remote with Mayfly and trash the Vacheron with [Carnivore](/en/card/30003), securing the win.
+
+Game 2 was against [Weyland Consortium: Built to Last](/en/card/30059) glacier. Lots of [Cayambe Grid](/en/card/26127), [Anoetic Void](/en/card/30050), etc. I applied pressure here and there, and after being locked out by a glacial remote I was able to dig deep into R&amp;D with [Carnivore](/en/card/30003) to get the last [Hostile Takeover](/en/card/01094) just before losing. This involved installing 2 [Botuli](/en/card/30004) on an [Hortum](/en/card/31076).
+
+Game 3 was against another [Weyland Consortium: Built to Last](/en/card/30059) with 3 [SDS Drone Deployment](/en/card/26056). It went similarly, except that at the last turn I remembered I could get through a 10-strength [Colossus](/en/card/26124) protecting the remote and then [Simulchip](/en/card/26085) my [Mayfly](/en/card/30032) for the win. Super clutch.
+
+Game 4 was against an NEH deck that, despite surprising me with [Snare!](/en/card/31054)s, drew poorly and was unable to rez ICE as I snatched their agendas. I didn&#039;t have much money and couldn&#039;t contest their board but they still had no way to protect their stuff.
+
+Replays: [Game 1](https://www.jinteki.net/replay/3663e165-8812-47b7-96e9-87884e173ceb)
+[Game 2](https://www.jinteki.net/replay/1bbdfa6a-ec46-4b23-aded-eb0a690db813)
+[Game 4](https://www.jinteki.net/replay/9aa76ea1-18c5-4e08-9a57-bdf9f8360d28)]]></notes>
+</deck>

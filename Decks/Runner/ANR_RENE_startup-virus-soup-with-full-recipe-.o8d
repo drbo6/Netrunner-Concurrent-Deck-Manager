@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30001">René &quot;Loup&quot; Arcemont: Party Animal</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26003">Chisel</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26029">Rejig</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26068">Devil Charm</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26069">Gachapon</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26070">Keiko</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26073">Paladin Poemu</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26083">Harmony AR Therapy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26095">DreamNet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30002">Wildcat Strike</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30007">Fermenter</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30009">Cookbook</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31004">Retrieval Run</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+  </section>
+  <notes><![CDATA[Loup doesn&#039;t want to maths all day to see if he can break into corp server, he&#039;d rather be either partying, cooking something, or breaking something! And so Loup has prepared this big pot of viral soup to share (100% breaker free!). He&#039;ll stir it and season it until tastes just right and then pour it all over your nice servers until nothing works no more. 
+
+This deck was born out me being too lazy to maths through ice with breakers and wanting to trash as much stuff as possible. Yes it does have it weaknesses but it can be very flexible and can launch surprise attacks on servers when you want it to. I may have no breakers and your remote may be clean, but no it is most definitely not safe.
+ 
+**Soup Ingredients:**
+
+*	[Botulus](https://netrunnerdb.com/en/card/30004 &quot;Botulus&quot;): Your main way of gaining access. The most flavorful of ingredients, you either love it or hate it.
+*	[Chisel](https://netrunnerdb.com/en/card/26003 &quot;Chisel&quot;)/[Devil Charm](https://netrunnerdb.com/en/card/26068 &quot;Devil Charm&quot;): Try to Chisel small ice away without using your Devil Charms as this will make the Chisels go further. Watch your teeth on this one because it will break them.
+*	[Imp](https://netrunnerdb.com/en/card/31007 &quot;Imp&quot;): Use liberally and try get a trash in each turn to fire Loups ability. Also try to trash the cards that are key to your opponents victory.
+*	[Fermenter](https://netrunnerdb.com/en/card/30007 &quot;Fermenter&quot;): a nice suprise if you add it to the mix early, forget about it and then realise later to get a nice 10 credit boost. 
+	
+**Sides:**
+
+*	[Boomerang](https://netrunnerdb.com/en/card/26075 &quot;Boomerang&quot;): Good for dipping in and out of the soup and also for when Magnets show up.
+*	[Docklands Pass](https://netrunnerdb.com/en/card/30013 &quot;Docklands Pass&quot;): Will help provide some central pressure and give you lots of targets to trash with Imp.
+*	[Cookbook](https://netrunnerdb.com/en/card/30009 &quot;Cookbook&quot;): Adds extra spice to all your viruses!
+	
+**Kitchen Hands:**
+
+*	[Keiko](https://netrunnerdb.com/en/card/26070 &quot;Keiko&quot;) and [Paladin Poemu](https://netrunnerdb.com/en/card/26073 &quot;Paladin Poemu&quot;): If you can get these 2 installed early then you are going to make a great soup!
+*	[Gachapon](https://netrunnerdb.com/en/card/26069 &quot;Gachapon&quot;): Helps find that pesky ingredient you can&#039;t quite find at the back of the pantry.
+*	[DreamNet](https://netrunnerdb.com/en/card/26095 &quot;DreamNet&quot;): Gives that extra bit of draw and can also be found with Gachapon.
+
+![Stirring the Soup](https://64.media.tumblr.com/841fe85ffa2b8fafe0df37da54eee7c5/tumblr_o5gu13HVgd1uxvvvzo1_500.gifv &quot;soup&quot;)
+
+**How to play**
+
+ This deck can run on very few credits if you get set up well. To do this, try get [Keiko](https://netrunnerdb.com/en/card/26070 &quot;Keiko&quot;) and [Paladin Poemu](https://netrunnerdb.com/en/card/26073 &quot;Paladin Poemu&quot;) out as early as possible. There are no installables that cost more than 3 credits so installs with these 2 out will cost either 1, 0 or even give you a credit!  Having a [Fermenter](https://netrunnerdb.com/en/card/30007 &quot;Fermenter&quot;) out ticking away also helps but is not always needed. I find I am often trashing Sure Gamble :P 
+ 
+ Throw your [Boomerang](https://netrunnerdb.com/en/card/26075 &quot;Boomerang&quot;), [Botulus](https://netrunnerdb.com/en/card/30004 &quot;Botulus&quot;), or [Chisel](https://netrunnerdb.com/en/card/26003 &quot;Chisel&quot;)/[Devil Charm](https://netrunnerdb.com/en/card/26068 &quot;Devil Charm&quot;) down on unrezzed ice and do not be afraid of running, a 2 token [Botulus](https://netrunnerdb.com/en/card/30004 &quot;Botulus&quot;) seems to get me through or bounce off most ice without incurring much trouble and a [Chisel](https://netrunnerdb.com/en/card/26003 &quot;Chisel&quot;)/[Devil Charm](https://netrunnerdb.com/en/card/26068 &quot;Devil Charm&quot;) is just asking for that ice to be rezzed.  Try to have a loaded [Imp](https://netrunnerdb.com/en/card/31007 &quot;Imp&quot;) out during every run to be able to trash any nasty looking card, or a Bellona, and trigger Loups ability. Keep in mind that his ability effectively reduces the card trash costs by 1!  
+ 
+ This deck gets really fun when using [Simulchip](https://netrunnerdb.com/en/card/26085 &quot;Simulchip&quot;), [Rejig](https://netrunnerdb.com/en/card/26029 &quot;Rejig&quot;) and [Retrieval Run](https://netrunnerdb.com/en/card/31004 &quot;Retrieval Run&quot;) to move your viruses around the field (mid run too!) or setup suprise attacks on servers that are safe one turn and then crawling with viruses the next. [Harmony AR Therapy](https://netrunnerdb.com/en/card/26083 &quot;Harmony AR Therapy&quot;) gives even more recursion (usually near the end game) to get back another copy of your viruses, [Simulchip](https://netrunnerdb.com/en/card/26085 &quot;Simulchip&quot;), [Boomerang](https://netrunnerdb.com/en/card/26075 &quot;Boomerangs&quot;) or any one of cards that may have been trashed. 
+ 
+ Try to contest at least one central (often HQ with Docklands) while having a plan to be able to attack the remote when you need too. Be careful about focusing too much on the remote as this can lead to you investing too many of your programs that can only be moved or recurred so many times. 
+
+ Between [DreamNet](https://netrunnerdb.com/en/card/26095 &quot;DreamNet&quot;), Loups ability, [Gachapon](https://netrunnerdb.com/en/card/26069 &quot;Gachapon&quot;) and often [Wildcat Strike](https://netrunnerdb.com/en/card/30002 &quot;Wildcat Strike&quot;) (giving draw is not the best choice because this deck runs on low credits!) I feel like card draw is in a good place. I tried including Nihilist, Verbal Plasticity and the Earthrise Hotel but found they were too expense and didn&#039;t work so well on the low credits this deck runs on. 
+ 
+ Also you can&#039;t lose money if you don&#039;t have any! Make the most of running through ice that deducts money, like Gold Farmer, when you don&#039;t have any money to lose!
+
+
+**Match ups**
+
+*	**NBN**: It does really well against this corp especially against asset spam. Low ice strength makes for easy [Chisel](https://netrunnerdb.com/en/card/26003 &quot;Chisel&quot;) destructions letting you save your [Devil Charm](https://netrunnerdb.com/en/card/26068 &quot;Devil Charm&quot;)s for later. Asset spam results in alot of trashes sometimes with multiple [Imps](https://netrunnerdb.com/en/card/31007 &quot;Imp&quot;) on the field for extra trashes per turn. Just remember to protect your [Paladin Poemu](https://netrunnerdb.com/en/card/26073 &quot;Paladin Poemu&quot;) from being trashed by removing any tags you get and try to have a loaded [Imp](https://netrunnerdb.com/en/card/31007 &quot;Imp&quot;) to trash Bellonas and then save up those big dollars to steal them from archives.	
+
+*	**Jinteki**: Similar to NBN with [Botulus](https://netrunnerdb.com/en/card/30004 &quot;Botulus&quot;)/[Boomerang](https://netrunnerdb.com/en/card/26075 &quot;Boomerang&quot;) being able to get through most ice. Your card draw can struggle to keep up with the net damage. [Imps](https://netrunnerdb.com/en/card/31007 &quot;Imp&quot;) can help wth dodging nasty agendas and taking damage until you are ready to.	
+
+*	**Weyland**: More difficult that Jinteki, the 3rd or 4th subroutine your [Botulus](https://netrunnerdb.com/en/card/30004 &quot;Botulus&quot;)/[Boomerang](https://netrunnerdb.com/en/card/26075 &quot;Boomerang&quot;) can&#039;t quite break often don&#039;t end up being too bad. [Chisel](https://netrunnerdb.com/en/card/26003 &quot;Chisel&quot;) and trash your way to victory! If they trash a program on their turn, hopefully you have a [Simulchip](https://netrunnerdb.com/en/card/26085 &quot;Simulchip&quot;) installed to instantly bring it back!
+
+*	**HB**: This matchup is easily the hardest as after moving your cards around servers you only have 1 or 2 clicks to run on which means not enough clicks to help get through some of the bioroids and defensive upgrades. It can be easy to focus too much on contesting the remote and neglecting the centrals. Their efficiency means you need to be aggresive! Find those Seamless Launches and defense upgrades and bin them (until they come back anyway :( ) Good luck!
+	
+**Cards that leave a bad taste in your mouth:**
+
+*	[Magnet](https://netrunnerdb.com/en/card/31044 &quot;Magnet&quot;): Actually not too bad as you can trash your programs and bring them back easily enough, and then Boomerang through the Magnet if you must get through.
+*	[Punitive Counterstrike](https://netrunnerdb.com/en/card/31078 &quot;Punitive Counterstrike&quot;): Look out for double punitive as you most likely do not have the money to beat the trace. Try find the Punitives in HQ and trash them first before stealing large agendas
+*	[Cyberdex Sandbox](https://netrunnerdb.com/en/card/26128 &quot;Cyberdex Sandbox&quot;): Also not too bad as your viruses will quickly grow back in strength. Worse once it is scored but oh so sweet to steal!
+*	[NEXT Activation Command](https://netrunnerdb.com/en/card/26103 &quot;NEXT Activation Command&quot;): This card essentially removes you from the game for a turn (FIND THEM AND BURN THEM!)
+
+I&#039;ve had a lot of fun with this deck and I hope you do too. This is my first proper deck I&#039;ve published so please send me your feedback, let me know how you find playing it,  and enjoy your soup!
+
+UPDATE: I&#039;ve been thinking of replacing the Sure Gambles with more on tempo cards for this deck as I&#039;m finding that if I&#039;m running on low credits, which I often am, saving up for Sure Gamble is significant loss of tempo and it is kind of a dead card at times. I am thinking of replacing with either another Wildcat Strike (this might end in too much draw), another Daily Cast, or a couple of Dirty Laundry (as this deck runs aggressively!). 
+
+UPDATE 2: Consider adding a single Buzzsaw to help get through Magnets, use Rejig, Retrieval Run or Simulchip to install for a reduced cost and from the heap if needed.
+
+
+![Delicious](https://media4.giphy.com/media/SFK0E6kYjfIlI4xwEr/giphy-downsized-large.gif &quot;soup&quot;)]]></notes>
+</deck>

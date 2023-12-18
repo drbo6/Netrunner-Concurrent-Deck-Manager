@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31050">Jinteki: Personal Evolution</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30037">Nico Campaign</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30044">Longevity Serum</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30045">Urtica Cipher</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30046">Diviner</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30047">Karunā</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30054">Funhouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30068">Orbital Superiority</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30070">Superconducting Hub</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31043">Eli 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31051">House of Knives</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31052">Nisei MK II</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31053">Ronin</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31057">Celebrity Gift</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31058">Trick of Light</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31059">Hokusai Grid</card>
+  </section>
+  <notes><![CDATA[Jinteki&#039;s [Personal Evolution](https://netrunnerdb.com/en/card/31050) often likes to play shell games, which is represented in this list. There are many low-point agendas in this deck that together with [Snare!](https://netrunnerdb.com/en/card/31054) punish multiaccess, while out on the board are [Urtica Cipher](https://netrunnerdb.com/en/card/30045)s waiting to be sprung. If the runner is ever careless enough to end their turn with less than three cards in their grip, a well placed [Ronin](https://netrunnerdb.com/en/card/31053) will make short work of them. The ice in this deck aims to be cheap, but efficient; while there is no way in this deck to leverage [Funhouse](https://netrunnerdb.com/en/card/30054)&#039;s tags other than [Orbital Superiority](https://netrunnerdb.com/en/card/30068), this threat alone should suffice to make them either waste credits and clicks to clear them or risk getting sniped.]]></notes>
+</deck>

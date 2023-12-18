@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26039">Hyoubu Institute: Absolute Clarity</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26044">Saisentan</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26063">Vulnerability Audit</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26106">Flower Sermon</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26110">Hyoubu Precog Manifold</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda27006">Digital Rights Management</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30044">Longevity Serum</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31052">Nisei MK II</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31057">Celebrity Gift</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31081">Enigma</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+  </section>
+  <notes><![CDATA[**Intro**
+
+Y&#039;all should know first and foremost that this is Oddball&#039;s deck. This started with his [Pickup Flower, Subtle Smile](https://netrunnerdb.com/en/decklist/67261/-startup-pickup-flower-subtle-smile), itself inspired by ThanosPKC&#039;s [JintekB: Not PErfect](https://netrunnerdb.com/en/decklist/66655/-startup-jintekb-not-perfect-guide-). Oddball pointed me to it shortly after creating the original version and I&#039;ve been playing the hell out of it ever since while chatting with him on the Green Level Clearance discord as we refined it. I can say without reservation that I&#039;ve never been into a Netrunner deck as much as I&#039;m into this one.
+
+But thats not all! By all appearances, a small handful of us have been bitten by the [Hyoubu](https://netrunnerdb.com/en/card/26039) bug and seeing what it can do for us in the Startup format. Notably, Gaxeco created a [cool variant](https://netrunnerdb.com/en/decklist/67824/-startup-loot-boxes-are-not-for-kids) making use of [Loot Boxes](https://netrunnerdb.com/en/card/26051) and [Rimes](https://netrunnerdb.com/en/card/26065). And then this week, the latest [JNet Data Dump](https://github.com/jwarwick/netrunner_stats/blob/main/20211208_games.csv) showed something exciting:
+
+![Well Lookie There!](https://media.discordapp.net/attachments/726401853327278111/918555231887958056/Startup_Overview_Corp.png &quot;Startup Corp Graph&quot;)
+
+Yup. Turns out this deck has some gas.
+
+My current version here is essentially identical to Oddball&#039;s current version, the only differences being in the number of [Celebrity Gifts](https://netrunnerdb.com/en/card/31057)/[Hansei Reviews](https://netrunnerdb.com/en/card/30048)/[Subliminal Messagings](https://netrunnerdb.com/en/card/31082), and frankly, I&#039;m not married to my distribution of those. Since the initial publishing, we dropped [Red Level Clearance](https://netrunnerdb.com/en/card/26037) and [Sprint](https://netrunnerdb.com/en/card/30041) for Hansei Review and a 1x [DRM](https://netrunnerdb.com/en/card/26117), freeing up a little influence for a stronger ice package (definitely Jinteki&#039;s biggest faction weakness in Startup.)
+
+**Agendas**
+
+Simply: The [Vulnerability Audits](https://netrunnerdb.com/en/card/26063) are there for value and lower agenda density. The [Longevity Serum](https://netrunnerdb.com/en/card/30044) for the same reason, plus fixing/recursion. The [Niseis](https://netrunnerdb.com/en/card/31052) are the last line of defense for stopping a critical run (kind of - more on this later). And the [Flower Sermons](https://netrunnerdb.com/en/card/26106) win you the game.
+
+This isn&#039;t hyperbole, really. If you remember the [Titan Transnational deck](https://netrunnerdb.com/en/decklist/24824/fascism-three-ways-to-win) that effectively won once it scored its first Project Atlas, you&#039;ve got a similar situation here. This deck can win without a scored Flower Sermon, but roughly every time I&#039;ve lost, it&#039;s because I didn&#039;t score one. That&#039;s because in Hyoubu, played correctly, Flower Sermon is the most tempo-positive agenda in all of the Startup format.
+
+For illustration, let&#039;s compare it to [Bellona](https://netrunnerdb.com/en/card/26114), which defends itself and gives you 5 credits upon scoring it. That&#039;s super-good, yes. Flower Sermon, in Hyoubu, gives you a 5-credit drip once scored, a 5-card drip, and *protects your future agendas.* The downside is that the first one doesn&#039;t defend itself, which makes scoring that first one the key to winning with this deck.
+
+Vulnerability Audit hurts to get stolen, and Longevity Serum is too useful here to be very cavalier about, but you can be comfortable about getting the Nisei&#039;s stolen. Their functionality is basically redundancy. If you&#039;re going to risk sacrificing an agenda, try to make it one of those.
+
+The DRM is key here because in the early turns it&#039;s your fourth copy of Flower Sermon, and in the end-game, your third copy of Vulnerability Audit. Every agenda in this deck requires 4 advancements (except for Longevity Serum) and the deck has no Fast-Advance or Never-Advance tools. You&#039;re scoring everything out the hard way. Moreover, while this deck absolutely wins off of flatlines a good amount of the time, that&#039;s not its gameplan. It is built to score out, and if the Runner just happens to crash upon its rocks in their attempts to stop that from happening, well...
+
+**Defensive Cards**
+
+So how does it score out without [Biotic Labor](https://netrunnerdb.com/en/card/31048) or [Seamless Launch](https://netrunnerdb.com/en/card/30040) or [SanSan](https://netrunnerdb.com/en/card/31069)? The Classic Jinteki Way™, of course! [Anoetic Void](https://netrunnerdb.com/en/card/30050), Nisei Mk. II and [Hyoubu Precog Manifold](https://netrunnerdb.com/en/card/26110) all provide ways to end the run outside of Ice, which is important because all of your agendas are going to be hanging out in your scoring remote for at least one of the Runner&#039;s turns. &quot;Install, Advance, HPM&quot; isn&#039;t an uncommon turn here, and it&#039;s pretty common for my centrals to only be one-deep on protection while my remote is three or four ice deep. I&#039;ve never once had more than one protected remote with this deck, because the only assets are [Spin Doctor](https://netrunnerdb.com/en/card/30053) and [Snare!](https://netrunnerdb.com/en/card/31054), and Snare! is basically never going into a remote here.
+
+**Ice**
+
+One of the benefits of the Startup format is that nothing is banned, which is good because this deck *loves* [Engram Flush](https://netrunnerdb.com/en/card/26108). It&#039;ll probably only land its subs once, maybe twice a game (and hey, free credit when it does!) but mostly it&#039;s a cheap way to tax the runner. This means that it goes on a central server, if possible. [Palisade](https://netrunnerdb.com/en/card/30072) obviously goes on your remote. [Saisentan](https://netrunnerdb.com/en/card/26044) can go wherever you need it to, as can [Bran](https://netrunnerdb.com/en/card/30039). [Enigma](https://netrunnerdb.com/en/card/31081) is nice for early gear-check, which means it&#039;ll likely go on your scoring remote, because cheap gear-check ice is how you&#039;re scoring your first Flower Sermon.
+
+The pipe-dream, of course, is to have an unrezzed Saisentan sitting behind an unrezzed Engram Flush and use the combo to flatline the Runner. Go for that achievement if you want, but it has about as likely a chance of success as the [Complete Image](https://netrunnerdb.com/en/card/26045) kill-concept that made Hyoubu into a joke to begin with. Realistically, if a Runner is coming at your 2-deep unrezzed Jinteki server with no way to deal with code gates or sentries, you were going to win against them anyway. Lesson: EF goes on centrals. It&#039;s taxing but porous, and you *want* the Runner getting into your centrals. Saisentan goes wherever it&#039;s going to be most useful. It&#039;s mostly a potentially brutal facecheck that&#039;ll keep runners out until they get their Killer down, but once they&#039;ve got [Bukhgalter](https://netrunnerdb.com/en/card/26016) out, it doesn&#039;t do a ton of work.
+
+Bran is expensive but nice if it does the work for you, which is getting its first sub to fire. Magnet is [Magnet](https://netrunnerdb.com/en/card/31044) - gearcheck unless you&#039;re facing a [Botulus](https://netrunnerdb.com/en/card/30004)/[Chisel](https://netrunnerdb.com/en/card/26003) deck, but very nice to have there.
+
+**Economy**
+
+Hyoubu is an Econ ID, and the question before this deck has been whether it&#039;s worthwhile, since it requires specific things to happen in order to trigger, and those reveal effects aren&#039;t all that common. In this deck, the ID ability fires off of:
+
+• Celebrity Gift
+
+• Engram Flush
+
+• Flower Sermon
+
+• Subliminal Messaging
+
+• Itself
+
+The best two of these, by far, are Flower Sermon (firing on the Runner&#039;s turn) and Subliminal Messaging (firing at the beginning of your turn.) Subliminal does this by revealing itself when it returns to HQ if the runner didn&#039;t initiate any runs the previous turn. This interaction wasn&#039;t even implemented on JNet when Oddball published his initial list, but it thankfully is now. Celebrity Gift is great here because its only real downside is being a double. I never find myself afraid to show off what I&#039;ve got in HQ, especially once a Flower Sermon is scored, because I want the Runner coming after my centrals and staying away from my big taxing remote with the ETR effects all over it.
+
+Hansei doesn&#039;t trigger the ID ability, but is solid in-faction econ and tossing a card into Archives usually isn&#039;t much of a downside. [Predictive Planogram](https://netrunnerdb.com/en/card/30056) is, of course, wonderful and flexible and gives you something to do with tags once the runner starts floating them. Because...
+
+**Snare!**
+
+Again, this doesn&#039;t play as a kill deck, and that&#039;s important. You are aiming to score out. The cute trick of this deck is that it makes centrals the most viable way for the runner to win, and then makes it so that they&#039;re running into a seemingly inexhaustible number of Snare!s in those centrals. If you&#039;ve got a Flower Sermon scored, the runner effectively can&#039;t hit R&amp;D without multiaccess, specifically [Stargate](https://netrunnerdb.com/en/card/26004) or [Khusyuk](https://netrunnerdb.com/en/card/26021), and even there it still helps out. HQ runs become much less reliable as well, and dependent on Multiaccess (and Multiaccess against Jinteki&#039;s HQ is never the best idea in the world.) Spin Doctors and Longevity Serum help you keep your Snare!s coming back. It&#039;s up to you to keep yourself rich enough to always make them a threat.
+
+**Final Thoughts**
+
+Once you&#039;ve got a Flower Sermon scored, a run on HQ means that the runner is taxed coming in, you get a free draw, credit, and get to move something to the top of R&amp;D if you want to protect it. A run on R&amp;D means the runner is taxed coming in, you get a free draw, credit, and get to serve them up a Snare! for funsies. But the under-appreciated combo comes with the Runner realizing, at game-point, that they need to take the scoring remote with your Anoetic Void in it. Flower Sermon has a delightful way of throwing off their math about how many runs on the remote will run you out of cards and/or credits for scoring out.
+
+A note on using Hyoubu Precog Manifold: It fires at a weird point in the run structure, after 4(e) - the final Paid Ability Window where you can act before the run is declared successful - but before 5(a) - where the run is actually declared successful. This means that you can&#039;t wait and see whether it will work, and then rely on a Nisei token if it doesn&#039;t. 4(e) is your last chance to use the Nisei token. It&#039;s also your last chance to rez Anoetic Void, and while Void and HPM have the same trigger, in practice I feel like Anoetic goes first (I&#039;m not sure if this is a JNet implementation, a case of Runner Priority causing that to be the order, or me simply misremembering a situation that honestly hasn&#039;t come up as much as you might expect.) In any case, consider HPM to be the actual Last Line of Defense for your scoring remote, and if you&#039;re uncomfortable with your skill at Psi games, just use the JNet RNG to decide. Your Nisei token should be a failsafe - a way to make sure they have to run the remote one more time than they can afford, or to stop a potentially game-winning Stargate or Khusy run. You&#039;ll likely only score one Nisei in the game at most anyway, so hold onto that token to make sure the Runner can&#039;t pull off a last-turn glory-run.
+
+Oh, and if you&#039;re gong to give this a try, don&#039;t be ashamed of having to &quot;click for credits&quot; every now and then. As I understand it, Oddball plays this very much as a &quot;Rush&quot; deck, and is better at playing it fast than I am. I&#039;m perhaps more comfortable laying back with it and making it more of a glaciery thing, in part because it loses when it&#039;s too poor to set up its engine, which means not being able to score its first Flower Sermon. Just remember that if you haven&#039;t gotten your ID credit for your turn yet, don&#039;t simply *actually* &quot;click&quot; for a credit, but click your ID and find a little hidden information for your trouble as well. It makes your Engrams a little spicier and lets you prepare for their [Boomerangs](https://netrunnerdb.com/en/card/26075). Oh, and don&#039;t forget that your ETR effects can help make Boomerangs stay gone.
+
+I can talk about this deck forever. It&#039;s my favorite deck. Much thanks to Oddball for crafting it, for letting me collaborate with him on it, and for asking me to write up this current version of the list. Hopefully laying out our secrets like this won&#039;t kill it.]]></notes>
+</deck>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30010">Zahya Sadeghi: Versatile Smuggler</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26016">Bukhgalter</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26018">The Class Act</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26074">Bravado</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30011">Mutual Favor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30014">Pennyshaver</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30016">Marjanah</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31018">Inside Job</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31024">Security Testing</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31029">The Maker&#039;s Eye</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31030">Atman</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[This list is evolved from my [deckbuilding video](https://youtu.be/3T3tG5UQ8j8) and I played it a bit [here](https://youtu.be/1D_sQzlygl4).
+
+This list is not optimized, and I go back and forth on whether Atman is worth a slot at all. But I think this list is reasonably well positioned against the current glacier heavy startup meta.
+
+I&#039;ve dropped down to 2 [Atman](/en/card/31030) due to the fact that cards fall into a pretty binary distribution of strengths in startup, [Boomerang](/en/card/26075) gets you through a lot of things early and late, and [Inside Job](/en/card/31018) makes is hard to make a good scoring remote early. 
+
+Generally I would recommend [Atman](/en/card/31030) at 4:
+
+* [Eli 1.0](/en/card/31043) and [Ansel 1.0](/en/card/30038)) 
+* [F2P](/en/card/26115)
+* [Ballista](/en/card/30062)
+* [Lotus Field](/en/card/31055) (jk nobody is trying to make Jinteki glacier work)
+
+But 5 is also good for hitting an advanced [Akhet](/en/card/26123), [Tollbooth](/en/card/31066), [Funhouse](/en/card/30054), [Engram Flush](/en/card/26108), and an unadvanced [Pharos](/en/card/30063).
+
+Your other Atman should probably be at 0/1/3 strength depending on what ICE you see the corp running. The influence could definitely be adjusted, I&#039;m not sure you need 3 Leech (and you probably want 3x [The Class Act](/en/card/26018)), but this list feels reasonable enough, even though it probably won&#039;t define the meta.]]></notes>
+</deck>

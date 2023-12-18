@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33048">Pravdivost Consulting: Political Solutions</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26049">Tiered Subscription</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26114">Bellona</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26115">F2P</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26116">Gold Farmer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26130">NAPD Cordon</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30070">Superconducting Hub</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31058">Trick of Light</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31062">Project Beale</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31064">Reversed Accounts</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31081">Enigma</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33046">Mitosis</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33052">Ubiquitous Vig</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33053">Mestnichestvo</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33056">Vladisibirsk City Grid</card>
+  </section>
+  <notes><![CDATA[Played this deck to a 2-2 finish at our [July GNK](https://alwaysberunning.net/tournaments/3331/leisure-games-gnk-july-2022), ending in third place overall.
+
+My Runner deck was [Core Values](https://netrunnerdb.com/en/deck/view/65ba27d1-1360-4c86-810e-ef9b1e0440cd) which went 3-1.
+
+**The Truth of the Matter**
+
+I honestly had a lot of fun playing this deck, but there were a tonne of &#039;off&#039; turns. I think I&#039;m trying to do two things here, which is reduced from the three things it was trying to do before, but still needs to be focused more.
+
+We have [Subliminal Messaging](/en/card/31082) here as a &quot;damned if you do, damned if you don&#039;t&quot; sort of thing. The runner&#039;s options are to either not run and give me back Subliminal, run and give me Prav, or run and jack out to simply lose a click. All of these sounds good to me personally, so it&#039;s an interesting position to put them in, even though the outcome often doesn&#039;t matter. 
+
+The play I want to make is [Mitosis](/en/card/33046) on [Bellona](/en/card/26114) and any other card, play [NAPD Cordon](/en/card/26130). An Agenda in this state costs 8c to steal. if Prav gives it a counter, 10. A Bellona in this state costs 13c to steal, with Prav, 15. FIFTEEN. If they made a run and didn&#039;t steal, you can then score both a 5/3 and a 3/X off it.
+
+This didn&#039;t happen once. :crying_emoji:
+
+Mitosis was a fine card. I managed to get some [Vlads](/en/card/33056) with counters on for essentially the same price, and they came with another install. I installed [Spin Doctors](/en/card/30053), [Ubiquitous Vigs](/en/card/33052), even just Ice ready to install something behind. I really enjoyed playing it. There were a lot of turns where I couldn&#039;t. [Seamless Launch](/en/card/30040) and [Trick of Light](/en/card/31058) are here to try to create this weird fork. If they decide to leave double advanced cards on the table, I can Trick of Light them. I can also use that trick of light on [Mestnichestvos](/en/card/33053) they simply don&#039;t want to run into but keep being given counters. If I Install, Advance, NAPD Cordon on a Bellona and they simply don&#039;t trigger Prav, I need Seamless to actually score it. This whole set of things are all interconnected, but take up quite a few slots.
+
+Combine all of these things together with simply having enough Ice to protect centrals and make a reasonably strong server they don&#039;t want to run _every_ turn, and just [Hedge Fund](/en/card/30075) and [Spin Doctor](/en/card/30053), and you end up with only about 10 slots left over. Vlad takes some of these, Vig has some others, and now I&#039;ve got just 4 cards slots left. 3 [Reversed Accounts](/en/card/31064) as more powerful advanceable cards, putting us up to just 9 non-Agendas that can be advanced, and then a [Tiered Subscription](/en/card/26049). It leaves you constantly holding lots of different parts of the deck which hint at each other, but need a connecting piece to make them work. Mitosis + NAPD in hand requires 2 installables, Seamless needs a server that can be annoying and sometimes NAPD Cordon, ToL needs something already advanced. Everything seems to come with a condition, I even had turns where my opponent didn&#039;t run, I get back a Subliminal, then draw another. That Subliminal doesn&#039;t do anything now. It can next turn if they shut off the one in the bin, and they&#039;re okay to draw then, but it&#039;s _yet another_ thing that just interferes with trying to assemble together a combination of cards which is powerful, but doesn&#039;t actually win you the game.
+
+As an aside here, there&#039;s also the [Superconducting Hub](/en/card/30070) which sticks out like a sore thumb. I do not have a good card slot for this. Maybe it should just be another [OffOff](/en/card/30067), them stealing Bellona, Hub, and an X/2 is about as likely as it is for me to have that same awkward scoring pattern. Having the credit forward Agenda could be nice. On the flip side, drawing 2 cards is also really nice, so it&#039;s not like it&#039;s a bad effect.
+
+**The Day Today**
+
+_Round 1_
+
+My round 1 was against AceEmpress on [Artemis&#039; Blessing](https://netrunnerdb.com/en/decklist/d3fb1e43-e867-4f17-bf58-2de411e3524a). I got quite rich. I had 44 credits even through getting PAN-Weaved every turn for _some time_. I had the ability to IAA into a remote they were checking pretty consistently, and Vlad Grid gave me the option to advance into it without losing points even if they checked it. This eventually was the final play of the game I made. They didn&#039;t run, I scored a 3/2. A nice easy start to the day.
+
+_Round 2_
+
+My second game was against Finnbar on [Midrange Aesop&#039;s](https://netrunnerdb.com/en/decklist/e76dbe6c-aa15-4123-b471-8977d1dcd5ce). This was just a tonne of economy cards, some like Paricia which were really good against what I am trying to do here. In this game I did manage to Mitosis a Bellona and I think a Vlad Grid, but they fetched an Imp. Imp and Simulchip in play with Clot in the bin held off a lot of the lines I could try to take, and eventually destroyed my economy as well. Vlads and Vigs got put in the bin left and right, Paricia helping with that a lot. Eventually I got a little overwhelmed by everything. I had a Reversed on 4 counters at one point and put them to zero to try to force open a scoring window, but could only make 2 points out of it with a Beale. A Deep Dive snatched some points from R&amp;D, then they just kept up the pressure. Pretty straightforward on my side of the table, as there weren&#039;t a lot of good plays I _could_ make. ]]></notes>
+</deck>

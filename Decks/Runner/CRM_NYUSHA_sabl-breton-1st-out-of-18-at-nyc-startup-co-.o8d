@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33011">Nyusha &quot;Sable&quot; Sintashta: Symphonic Prodigy</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26016">Bukhgalter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26018">The Class Act</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26074">Bravado</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda27002">Swift</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30011">Mutual Favor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31006">Corroder</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31018">Inside Job</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31019">Legwork</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31024">Security Testing</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda32003">Deep Dive</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33010">The Twinning</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33012">Carpe Diem</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33013">Pinhole Threading</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33014">PAN-Weave</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33016">Cat&#039;s Cradle</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33017">Cezve</card>
+  </section>
+  <notes><![CDATA[![Sable Breton](https://assets.marthastewart.com/styles/wmax-750/d56/sables-bretons-cookies-s9e14-france-1821-v2-d113210-0118/sables-bretons-cookies-s9e14-france-1821-v2-d113210-0118_horiz.jpg?itok=rk9L3XXa)
+
+### Sablé Breton (1st out of 18 at NYC Startup CO)
+
+Now that I live in France, I will adopt the European deck naming convention to name this deck after a delicious regional pastry. And what is more buttery and delicious than scoring 5 points off a [Deep Dive](/en/card/33022) with a click left over to take a sip of coffee.
+
+The idea of this deck is straightforward: directly and indirectly pressure centrals to either slow the corp down defending or let you get massive value, camp the remote a bit with the classic crim tools, and close with some combination of [Deep Dive](/en/card/33022) and [The Twinning](/en/card/33010). It ain&#039;t rocket science, it&#039;s good ol&#039; fashioned Netrunner.
+
+There are a few changes I have already made to this deck (inspired by conversations with Zane who ended up 3rd): -2 [Swift](/en/card/26078) -2 [Earthrise Hotel](/en/card/25063) + 2 [Pennyshaver](/en/card/30014) +2 [DreamNet](/en/card/26095). The deck as-is runs a little poor in some draws and you can struggle to leverage the Swift click well if you aren&#039;t already ahead on tempo. Earthrise vs. DreamNet is a closer call and probably requires the corp meta to settle a bit before it&#039;s clear which is better.
+
+MS has brought centrals pressure back to Netrunner, and perhaps more importantly brought centrals pressure to Startup. My opinion is that this Startup meta is looking very good so far, we get a lot more wincons on the corp side, and a lot more centrals pressure on the runner side. The cut at this event featured every runner faction and every corp faction except Jinteki.
+
+It was great to get to see the NYC Netrunner crew again, and I was so happy to see how the community continues to grow. Thanks to @kysra for running a fantastic event and to @Ysengrin for developing the single-sided swiss format so I could meet so many folks over the course of a single event.]]></notes>
+</deck>

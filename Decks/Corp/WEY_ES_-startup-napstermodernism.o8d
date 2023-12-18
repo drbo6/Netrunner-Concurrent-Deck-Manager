@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26120">Earth Station: SEA Headquarters</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26057">Roughneck Repair Squad</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26058">Afshar</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26061">Secure and Protect</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26063">Vulnerability Audit</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26117">Digital Rights Management</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26122">Wall to Wall</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26130">NAPD Cordon</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30063">Pharos</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30066">Malapert Data Vault</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31047">Archived Memories</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31071">Hostile Takeover</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31075">Archer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31078">Punitive Counterstrike</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31079">Crisium Grid</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+  </section>
+  <notes><![CDATA[Let&#039;s show the runner what happens to people who download music illegally
+
+Digital Rights Management can get a Vulnerability Audit into your remote. Advance it, and play a NAPD Cordon. Now if your ID is flipped, the runner has to pay 12 in addition to breaking the ice to steal that agenda. If they do, you can send two copies of Punitive Counterstrike at them (Archived Memories can substitute for a second copy of Counterstrike, but has many other options in this deck)
+
+If they don&#039;t, you get 3 points and possibly trigger Malapert. It can&#039;t find agendas, but it can find DRM, which can find agendas. Once this deck is ready, you can score 7 pretty quickly
+
+You can also use DRM to grab your two Hostile Takeovers. You can&#039;t install and score these right away, but your HQ should be safe enough for a turn. This makes it harder for the runner to get to 7, and you can use your spare Takeover to rez Archer (otherwise, Send a Message can rez it without forfeiting an agenda)
+
+Crisium prevents your ID from flipping back if the runner runs your HQ. Wall to Wall can advance your Pharos, which you can search up with Secure and Protect if you want to put it on a central server. Icing every server will give you extra money from Subliminal Messaging, and the second copy of that can be discarded to Hansei Review]]></notes>
+</deck>

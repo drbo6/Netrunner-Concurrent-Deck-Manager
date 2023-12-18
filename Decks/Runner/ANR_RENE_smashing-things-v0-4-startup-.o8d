@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30001">René &quot;Loup&quot; Arcemont: Party Animal</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26002">Demolisher</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26003">Chisel</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26004">Stargate</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26068">Devil Charm</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30002">Wildcat Strike</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30009">Cookbook</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30024">Conduit</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30033">Smartware Distributor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31004">Retrieval Run</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31009">Ice Carver</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31023">Sneakdoor Beta</card>
+  </section>
+  <notes><![CDATA[I want to iterate on a theme of &#039;smashing all the corps toys&#039;.  It&#039;s simplistic, but simple will serve til I get back up to speed with the game. 
+
+---
+v0.4
+
+After a number of games this weekend, I&#039;m thinking I&#039;m building this deck more cautiously than I want to run it.  The standard breakers aren&#039;t that well supported for what I want to actually be doing, which is trashing ice and threatening everything cheaply.
+
+* [Buzzsaw](/en/card/30005), [Cleaver](/en/card/30006), [Mimic](/en/card/31008) all get binned along with [Self Modifying Code](/en/card/26090) to make way for more of the cards I want to be playing that aren&#039;t as situational; more Botulus, Imp, Chisel, and their supporting cards like Devil Charm and Cookbook.
+* Stargate being the only multi-access was obnoxious, so dropping [Aesop&#039;s Pawnshop](/en/card/01047) and the above SMC frees up enough influence to add Docklands Pass and Conduit.  
+* [Liberated Account](/en/card/31010) and [Scrubber](/en/card/31011) drop in favor of the slower but steadier trickly of Smartware Distro. This is the part I&#039;m least sure of, and suspect I&#039;ll be tweaking next.
+
+---
+v0.3
+
+* [En Passant](/en/card/31003) isn&#039;t working as often or as well as I&#039;d imagined it would.  Too many conditionals.  Swapping in some [Devil Charms](/en/card/26068) for a more reliable same effect, on my own terms.
+* I&#039;m seriously considering going above 40 cards to add in a couple [Jailbreaks](/en/card/30028) just to capitalize on flush HQ turns.
+
+---
+v0.2
+
+* Reduced the number of some supporting cards that were only serving to soak net damage. 
+* Added in [Botulus](/en/card/30004) to take further advantage of cookbook and increase the number of icebreakers, and [Self-modifying Code](/en/card/03046) to further shore up their scant number.
+* Replaced the [T400 Memory Diamond](/en/card/30031) with [DZMZ Optimizer](/en/card/30022) for the econ
+* Added [Aesop&#039;s Pawnshop](/en/card/01047) to better adapt mid game and [Sneakdoor Beta](/en/card/01028) for the surprise element]]></notes>
+</deck>

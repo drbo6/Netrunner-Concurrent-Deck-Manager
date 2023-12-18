@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31001">Quetzal: Free Spirit</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26004">Stargate</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26022">Spec Work</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26069">Gachapon</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26070">Keiko</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26073">Paladin Poemu</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31006">Corroder</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31008">Mimic</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31010">Liberated Account</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

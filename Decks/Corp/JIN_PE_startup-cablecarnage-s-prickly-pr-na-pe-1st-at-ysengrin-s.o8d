@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31050">Jinteki: Personal Evolution</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26040">Project Yagi-Uda</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26041">Sting!</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26044">Saisentan</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26107">Prāna Condenser</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26116">Gold Farmer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26129">False Lead</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30044">Longevity Serum</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30046">Diviner</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30070">Superconducting Hub</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31051">House of Knives</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31075">Archer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31081">Enigma</card>
+  </section>
+  <notes><![CDATA[This was the Corp deck I took to the February 2022 Startup tournament. It&#039;s a PE deck designed by [CableCarnage](https://netrunnerdb.com/en/profile/31627/cableCarnage), that blew my mind when I happened to see it in action. I’ve had a lot of fun playing it casually and in the GLC startup league. This month we had six participants and played four rounds of single-sided swiss. PE went 2-0 against Ken and Tao.
+
+The goal of the deck is to flatline the runner with [Prāna Condenser](/en/card/26107), but in one of the games I scored out in my Prāna remote! 
+
+Use [House of Knives](/en/card/31051) triggers, [Snare!](/en/card/31054) and agenda scores/steals to build up your Prana. [Archer](/en/card/31075) and [Gold Farmer](/en/card/26116) surprise and tax the runner that eventually tries to clear the Prāna once you’re in flatline range. We also have tools like [False Lead](/en/card/26129), or [Anoetic Void](/en/card/30050) to make sure you can land the kill.
+
+Prāna refunds all of our agendas scores. Special shout out to [Sting!](/en/card/26041) which has two separate triggers to double charge the Prāna (and might still do a little damage).
+
+Thanks again Ysengrin for bringing back these monthly events. I had a blast!]]></notes>
+</deck>

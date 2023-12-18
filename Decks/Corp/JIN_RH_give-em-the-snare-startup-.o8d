@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30043">Jinteki: Restoring Humanity</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26059">Sandstone</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda27005">La Costa Grid</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30044">Longevity Serum</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30046">Diviner</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30047">Karunā</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31052">Nisei MK II</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+  </section>
+  <notes><![CDATA[Took 1st and went 3-0 at a SF round robin Startup event. Game plan is to build a remote with beefy barriers and then when the runner ignores it, win off of snares in centrals. ID ability might not be as easy to proc as Palana but it&#039;s still free money most of the time.]]></notes>
+</deck>

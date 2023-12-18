@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31040">Haas-Bioroid: Architects of Tomorrow</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26036">Fully Operational</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26048">Daily Quest</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26097">Project Vacheron</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26101">Drafter</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26102">Týr</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30037">Nico Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30038">Ansel 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31043">Eli 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31045">Ravana 1.0</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31047">Archived Memories</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31078">Punitive Counterstrike</card>
+  </section>
+  <notes><![CDATA[Seems good. 3-1 in a Bay Area meta Startup tourney.]]></notes>
+</deck>

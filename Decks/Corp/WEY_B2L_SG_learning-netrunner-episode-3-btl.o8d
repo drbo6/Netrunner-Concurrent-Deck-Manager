@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30059">Weyland Consortium: Built to Last</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30045">Urtica Cipher</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30054">Funhouse</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30057">Public Trail</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30058">AMAZE Amusements</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30060">Above the Law</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30061">Clearinghouse</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30062">Ballista</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30063">Pharos</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30065">Retribution</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30066">Malapert Data Vault</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30068">Orbital Superiority</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30070">Superconducting Hub</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30074">Whitespace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+  </section>
+  <notes><![CDATA[This deck aims to feel similar to the SG Booster decks, but introduces the concept of IDs and influence, and introduces a lot of new cards, including tags.
+
+[Watch an explanation of the cards and see the decks in action here](https://www.youtube.com/watch?v=vtLcH1JIjqQ&amp;t)]]></notes>
+</deck>

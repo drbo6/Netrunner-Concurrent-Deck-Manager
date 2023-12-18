@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30059">Weyland Consortium: Built to Last</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26056">SDS Drone Deployment</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26058">Afshar</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26060">Trebuchet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26123">Akhet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda27007">Cayambe Grid</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30045">Urtica Cipher</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30049">Neurospike</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30061">Clearinghouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30066">Malapert Data Vault</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31075">Archer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31076">Hortum</card>
+  </section>
+  <notes><![CDATA[About
+[Clearinghouse](/en/card/30061) + [Urtica Cipher](/en/card/30045) + [Neurospike](/en/card/30049) = FUN!
+I adore the headspace these cards enhance. That drove me to put them all into one deck. Testing this deck out has been very fun and tense. If you enjoy threatening a win with every single remote push, then this is the deck for you. This is not the same as the [Mushin No Shin](/en/card/05015) into [Project Junebug](/en/card/25089)/Agenda &quot;fork&quot; which I&#039;ll explain below.
+
+Kill to Win
+These are your main win conditions:
+1. Flatline with [Neurospike](/en/card/30049)/[Malapert Data Vault](/en/card/30066) (Spike)
+Double Spikes need 7creds (1adv, Spike, Spike). Malapert needs 8creds. Remember, a single Spike can kill a Runner on 2 cards.
+2. Flatline with [Clearinghouse](/en/card/30061). (Clear)
+Consider [Trebuchet](/en/card/26060)&#039;s trace subroutine as a cost when relevant. Remember, watch for the Runner to go low on cards.
+Flatline with [Urtica Cipher](/en/card/30045) is possible but NOT considered a goal.
+
+Sometimes relevant:
+3. Kill Programs with [SDS Drone Deployment](/en/card/26056), [Trebuchet](/en/card/26060), and [Archer](/en/card/31075). This can open a window to achieve your first two goals.
+4. Scoring 3x 3/5s is a last resort.
+
+[Urtica Cipher](/en/card/30045) In Depth
+Reckless runners will flatline to Urtica. However, we are focused on playing runners who know the corp deck completely and/or play around Urtica. Unfortunately, Urtica&#039;s lethality is only a shadow of [Project Junebug](/en/card/25089):
+
+Adv, Urtica (dmg), Junebug (dmg)
+0 adv, 2, 0
+1 adv, 3, 2
+2 adv, 4, 4
+3 adv, 5, 6
+4 adv, 6, 8
+5 adv, 7, 10
+6 adv, 8, 12
+
+&amp;bull; [Mushin No Shin](/en/card/05015) enabled a 4adv card in one turn. Runners have a hard time drawing to 9 and running in one turn. The Runner contemplates possibly losing the game to stealing one agenda.
+&amp;bull; In contrast, it takes 2 turns to setup a 4adv Urtica. The Runner contemplates drawing/losing cards to steal one agenda.
+&amp;bull; When you add [Neurospike](/en/card/30049) to the equation, the Runner now contemplates drawing/losing cards to not lose the game.
+&amp;bull; When you add [Clearinghouse](/en/card/30061) to the equation, at 4adv the Runner must remember keep 4 cards at end of turn. At 6adv the Runner faces a large decision.
+&amp;bull; With the above in mind, Runner counter play should be clearing out Urtica&#039;s before they get to 4adv. If they wait for 4+adv, they only dig themselves deeper.
+Urtica&#039;s existence should force the runner through your remote more often, even with 0adv or 1adv. If Urtica does end up scaring runners into leaving your remote alone, then your win cons will be a lot easier to achieve.
+
+Advancement Patterns
+Turn 1, 2, 3, 4 - Threatens on T1,T2...
+A. IAA, AA, AA - Score, Spike, Clear
+B. IA, AAA, AA - None, Spike, Clear - Runner knows deck
+C. I, AAA, AAA - None, Score, Clear
+D. I, AAA, A, AA - None, Spike, Clear - Ahket trigger
+
+&amp;bull; Pattern A. Classic 3/5 score threat. Main pattern until you score 1 agenda. If you are bluffing an Urtica, you can decide if you want to follow through more investment.
+&amp;bull; Pattern B. Most efficient pattern into Spike threat, after you have scored 1 agenda. Your 2nd agenda is for Neurospike. If the runner doesn&#039;t know your deck, you can also use this to bluff 2/4s.
+&amp;bull; Pattern C. Most efficient pattern into Clear threat.
+&amp;bull; Pattern D. Mixing it up. Use only when the Runner understands pattern C. You telegraph the Clear. They decide not to run now, and wait for 6 adv. You don&#039;t go up to 6adv on the next turn. Instead you wait for an Ahket trigger from centrals to bump it into Spike threat.
+&amp;bull; Our ID ability will save us creds through all this advancement.
+
+Timeline
+&amp;bull; Early Game: Establish Economy, Setup Remote
+Rely on low agenda density and [SDS Drone Deployment](/en/card/26056) for delaying central Ice. Prioritize playing [Government Subsidy](/en/card/30064) or protecting a [Regolith Mining License](/en/card/30071). After that, R&amp;D needs at least one ice, and protecting HQ is situational. Hopefully, you are able to get a [Trebuchet](/en/card/26060) or [Archer](/en/card/31075) onto the table at first or second position(preferred) on the remote. This will allow you to get value from an eventual [Send a Message](/en/card/30069) steal. The second position is preferred since [Boomerang](/en/card/26075) and [Botulus](/en/card/30004) target 1st position ice fairly often.
+
+&amp;bull; Mid Game: Force Runs, Score an Agenda, Look for the Kill.
+Make the runner run by threatening with [Cayambe Grid](/en/card/26127), Clearinghouses, Urtica&#039;s, and Agendas. Find a window to score or Kill.
+Even if we aren&#039;t looking to score out, scoring one Agenda increases win probability. The Runner will have to find 3 of the 5 remaining agendas, scoring an [SDS Drone Deployment](/en/card/26056) or [Send a Message](/en/card/30069) is impactful, and enables surprise [Archer](/en/card/31075). 
+
+&amp;bull; Late Game: Same Plan as Mid Game
+Bad publicity from [Trebuchet](/en/card/26060) translates into a poor end game, so we&#039;d rather not be here. Although, consider that Runner cards get low around this time. Hopefully, you have one Urtica left to force a tough decision.
+
+Ice
+&amp;bull; [Akhet](/en/card/26123) - R&amp;D or Remote - The advancement subroutine can make Urtica&#039;s hurt more and/or bring the number of advancements to 4 or 6. It&#039;s even worth 3adv with a Botulus on it.
+&amp;bull; [Trebuchet](/en/card/26060), [Archer](/en/card/31075) - Remote first, R&amp;D maybe - Main remote defense. While 2nd layer is preferred, sometimes getting one down quickly will allow you to capitalize on a Send a Message trigger. Could possibly run a 2/2 ratio.
+&amp;bull; [Hortum](/en/card/31076) - R&amp;D or Remote, HQ maybe - Another solid ice. No reason to 3adv this unless AI is involved.
+&amp;bull; [Afshar](/en/card/26058) - HQ or Archives - Good value on HQ, not so much else where. Be careful around Tao. May consider cutting 1 Afshar for a different ice.
+&amp;bull; [Palisade](/en/card/30072) - Remote - Additional early remote setup option, for lack of better options. May consider cutting for something different.
+&amp;bull; General Note: Try not to trash your Ice with Botulus or Tranquilizers. [Cayambe Grid](/en/card/26127) still gets value from them. The only exception would be to save an SDS.
+
+
+Update 1:
++1 Archer, -1 Trebuchet: wanted more chances to get an archer up.
++1 Palisade, -1 Cayambe Grid: ice felt a bit light and Cayambe works better with more ice.
++2 Sprint, -1 Urtica Cipher, -1 Clearing House: I usually want these cards after I&#039;m setup a bit, so adding 2 sprints will help with setting up faster or finding the key cards when you are setup.
+
+
+If you&#039;ve made it this far, thanks for reading =)]]></notes>
+</deck>

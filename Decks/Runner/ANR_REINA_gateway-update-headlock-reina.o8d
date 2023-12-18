@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31002">Reina Roja: Freedom Fighter</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31012">Xanadu</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30012">Tread Lightly</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30034">Verbal Plasticity</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31006">Corroder</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30031">T400 Memory Diamond</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31004">Retrieval Run</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31016">Emergency Shutdown</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30002">Wildcat Strike</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31003">En Passant</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31010">Liberated Account</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31023">Sneakdoor Beta</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30017">Tranquilizer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31008">Mimic</card>
+  </section>
+  <notes><![CDATA[I&#039;m teaching some new players Netrunner and we are using System Gateway and System Update 21 as a stepping stone before arriving at the Startup format. The leap up to Startup is intimidating, let alone the jump from Startup to Standard! To help in this leap, here are some notes on how to play and build decks in a relatively restricted card pool.
+
+I built this runner to show off a different style of runner compared to those in Gateway. Here the aim is to control the corp&#039;s credits by prodding their servers just enough so they rez ICE. With [Reina Roja: Freedom Fighter](/en/card/31002)&#039;s ability, you ideally want one rez a turn.
+
+Firstly, we need to give the corp a reason to want to rez their ICE. This may seem counterintuitive as that&#039;s its sole purpose, but good corp players won&#039;t &quot;snap&quot; rez ICE without thinking about other servers and cards in hand, and often the runner spending a click to see just one card in HQ or R&amp;D is a fine trade. Cards like [Imp](/en/card/25013), [Docklands Pass](/en/card/30013) and [Leech](/en/card/30008) give extra benefits to the runner and make the question to rez harder for the corp.
+
+There are also some tricks in the deck to synergise with the ID, trying to derez ICE ([Emergency Shutdown](/en/card/31016), [Tranquilizer](/en/card/30017)), making it even more costly ([Tread Lightly](/en/card/30012), [Xanadu](/en/card/31012)) or, holy hell, even punishing non-rezs ([En Passant](/en/card/31003)). The balance is to not go all-out on these tricks and still include the fundamentals. Every deck still needs money and draw so don&#039;t forget those in your own lists!
+
+Finally, the icebreaker suite is worth mentioning especially [Mimic](/en/card/31008) which needs [Leech](/en/card/30008) support to break sentries with strength greater than 4. [Buzzsaw](/en/card/30005) is similar with an expensive cost to boost strength that you would rather not use. Therefore, this deck runs [Corroder](/en/card/31006) rather than [Cleaver](/en/card/30006) as the former still operates well without Leech counters. Again, its a case of not going all-in on a single approach and letting a single purge lock you out all servers.]]></notes>
+</deck>

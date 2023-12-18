@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31060">Near-Earth Hub: Broadcast Center</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26047">Remastered Edition</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26048">Daily Quest</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26049">Tiered Subscription</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26098">Bass CH1R180G4</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26114">Bellona</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26116">Gold Farmer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30037">Nico Campaign</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31062">Project Beale</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31065">Pop-up Window</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31069">SanSan City Grid</card>
+  </section>
+  <notes><![CDATA[The aim to showcase an asset spam deck in startup.
+
+There are a lot of new players for the game we love! This is great. This inspired me to make a serie of deck that will explore different archetypes.
+
+When to mulligan : if you have 2 or more agenda in hand.
+
+Strategy : Put assets on the board. You&#039;ll need to create only 2 protected remote, on top of protecting your central. The 1st remote is for scoring and the 2nd remote is for [Daily Quest](/en/card/26048). Everything else can be left unprotected.
+
+Then you can use [Bass CH1R180G4](/en/card/26098) to score an agenda from hand or to score an unadvanced [Bellona](/en/card/26114) sitting on [SanSan City Grid](/en/card/31069).
+
+With [SanSan City Grid](/en/card/31069), you can score agenda from hand, or with the help of [Remastered Edition](/en/card/26047).
+
+I chosed [Regolith Mining License](/en/card/30071) instead of [PAD Campaign](/en/card/31080) because it allow me to get creds fast, in case of need, rather than wait for the drip.
+
+Two things should not be forgotten :
+
+1. Always rez [Tiered Subscription](/en/card/26049) as soon as you put it on the board.
+
+2. Always rez [Daily Quest](/en/card/26048) after you put it behind an ice, provided you have the creds to rez the ice.
+
+This deck was played on stream : https://youtu.be/zQ5IpJPf-e4 
+
+Cheers!]]></notes>
+</deck>

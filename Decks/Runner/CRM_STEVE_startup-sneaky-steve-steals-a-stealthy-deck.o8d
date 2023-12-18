@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31014">Steve Cambridge: Master Grifter</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26009">Trickster Taka</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26014">Lucky Charm</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26018">The Class Act</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26074">Bravado</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26076">Mu Safecracker</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26077">Prognostic Q-Loop</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26079">Afterimage</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26081">Penumbral Toolkit</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26088">Mantle</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26089">Penrose</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30014">Pennyshaver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31006">Corroder</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31018">Inside Job</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[**Imitation is the sincerest form of flattery.**
+
+A last month [SirLoathing](https://netrunnerdb.com/en/profile/34223/SirLoathing) published a really fun [Stealth Az deck](https://netrunnerdb.com/en/decklist/66754/-startup-sneaky-boys-don-t-gamble-with-full-guide-) that eventually became deck of the week. It&#039;s an amazing combo deck built around Q-Loop and Masterwork, installing hardware mid-run, breaking into servers with seemingly no credits and getting out of [sticky](https://netrunnerdb.com/en/card/30042) [situations](https://netrunnerdb.com/en/card/30050) with [Lucky Charm](https://netrunnerdb.com/en/card/26014). Go check it out, give it a like and take it for a spin!
+
+**One problem: his deck gave me a headache**
+
+Seriously. He wasn&#039;t kidding when he described it as a rube goldberg machine! Playing against a friend, I ended up sitting there for minutes brainstorming on how to break into servers and sometimes I ran out of [stealth credits](https://netrunnerdb.com/en/card/26081) (since I was using it too often to pay for installations). I needed to dumb it down a little and get off the ground a little faster to keep up with [PD](https://netrunnerdb.com/en/card/30035) or other rush decks. 
+
+As I started cutting some of the [hardware](https://netrunnerdb.com/en/card/26013) (which decreased [Aesop&#039;s Pawnshops](https://netrunnerdb.com/en/card/31035) usefulness), and added more events, I realized that [Az](https://netrunnerdb.com/en/card/26010) might not be the best ID for the deck I was working towards. I think this deck could work with [Zahya](https://netrunnerdb.com/en/card/30010) with some minor tweaks, but just doesn&#039;t have enough run events to justify [Ken](https://netrunnerdb.com/en/card/31013). 
+
+**Enter Steve Cambridge**
+
+[Steve](https://netrunnerdb.com/en/card/31014) solved a bunch of problems I was having. His ability let&#039;s you bring back [Penumbral Toolkit](https://netrunnerdb.com/en/card/26081) and install it for free which helps fuel our [stealth](https://netrunnerdb.com/en/card/26079) [rig](https://netrunnerdb.com/en/card/26089) and helps pay for trashing assets, or [steals](https://netrunnerdb.com/en/card/26114), and recur a bunch of [powerful](https://netrunnerdb.com/en/card/26074) [run](https://netrunnerdb.com/en/card/31018) [events](https://netrunnerdb.com/en/card/31037). 
+
+We still rely on [Q-Loop](https://netrunnerdb.com/en/card/26077) to look at the top of our deck giving us extra knowledge and help install key breakers, [Boomerang](https://netrunnerdb.com/en/card/26075), or even [Pennyshaver](https://netrunnerdb.com/en/card/30014).
+
+**Masterwork vs Pennyshaver**
+
+Speaking of Pennyshaver... with more run events and less hardware, [Masterwork](https://netrunnerdb.com/en/card/26015), started to not pull its weight. The draw just was not enough and losing the Az discount meant we were paying a tax for the privilege to install from hand. After playing a few games with Pennyshaver, I found it to be a better fit. It provides a burst to threaten remotes and keep getting us back into HQ to trigger Steve&#039;s ability.
+
+To compensate for the lack of draw, I added [Earthrise Hotel](https://netrunnerdb.com/en/card/31039) and [Jailbreaks](https://netrunnerdb.com/en/card/30028). Jailbreak is great, because it works surprisingly well when combined with [Mu Safecracker](https://netrunnerdb.com/en/card/26076). Who needs [Legwork](https://netrunnerdb.com/en/card/31019), or [Maker&#039;s Eye](https://netrunnerdb.com/en/card/31029)?
+
+To help cover our more expensive resources [Career Fairs](https://netrunnerdb.com/en/card/31015) rounds out our econ support. If you draw it late use it to pay for your Toolkits for free without the HQ run discount.
+
+**It&#039;s not about the destination, it&#039;s about the journey**
+
+Thanks for reading about my deckbuilding adventure. I recently returned to Netrunner with the launch of System Gateway early this year. The NISEI team knocked it out of the park. I&#039;ve been trying to get anyone interested in card games that I know to give it a try. It&#039;s been such a joy to rediscover the game and play with some old friends. We even started a podcast, [Retromancer](https://retromancer.podbean.com/), if you have time check us out!
+
+**Finally, again, shout-out to [SirLoathing for his amazing Az deck](https://netrunnerdb.com/en/decklist/66754/-startup-sneaky-boys-don-t-gamble-with-full-guide-). I appreciate your great decks and write-ups.**]]></notes>
+</deck>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31070">Weyland Consortium: Building a Better World</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26037">Red Level Clearance</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26056">SDS Drone Deployment</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26057">Roughneck Repair Squad</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26122">Wall to Wall</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26123">Akhet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26125">Winchester</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda27007">Cayambe Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30061">Clearinghouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31071">Hostile Takeover</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31075">Archer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31077">Ice Wall</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31081">Enigma</card>
+  </section>
+  <notes><![CDATA[Every transactions available in startup are in this deck. Does that make it better : YES!
+
+Let me explain it a bit.
+
+But first, the mulligan plan : you will want cards that give you credits, ideally 2 of them. If you have more than 1 agenda, you should mulligan.
+
+And second, how to win : score behind 3 ices, ideally helped by [Cayambe Grid](/en/card/27007), which act as a 4th ice. If you have [Clearinghouse](/en/card/30061) before getting agendas, you can &quot;score it&quot; and flatline the runner instead.
+
+Now, what is so good about transactions, with [Weyland Consortium: Building a Better World](/en/card/31070)? Those are [Predictive Planogram](/en/card/30056) and [Red Level Clearance](/en/card/26037). The former either gives you 4 or 3 cards and 1. The later is free to use and can give you 2 cards and 2. This is simply amazing!
+
+With Wall to Wall and [Spin Doctor](/en/card/30053), that is a lot of draw. Hence, you get to put your pieces on the board fast!
+
+Finally, a note about the ices. 
+
+[Archer](/en/card/31075) is to be rezzed by [Send a Message](/en/card/30069), giving you the strongest ice in the game for free.
+
+[Ice Wall](/en/card/31077) is the hidden gem of the deck. It will get constantly boosted by [Cayambe Grid](/en/card/27007) and Wall to Wall. For a rez of 1, it can cost a lot to the runner.
+
+And [Winchester](/en/card/26125) is just plain better and versatile than [Afshar](/en/card/26058).
+
+Enjoy!]]></notes>
+</deck>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30035">Haas-Bioroid: Precision Design</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26035">Hagen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26037">Red Level Clearance</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26101">Drafter</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda27006">Digital Rights Management</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30038">Ansel 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30074">Whitespace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31041">Project Vitruvius</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31043">Eli 1.0</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31047">Archived Memories</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31048">Biotic Labor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31069">SanSan City Grid</card>
+  </section>
+  <notes><![CDATA[WELCOME TO XAND&#039;S GUIDE
+========================
+
+Hello! My name is Xandorius. I&#039;ve published a series of decklists for newer players using Nisei&#039;s [Startup Format](https://nisei.net/blog/introducing-startup-format/ &quot;Startup&quot;). There is one decklist per faction, using the startup IDs. Each decklist will discuss some ideas about playing as and against the faction, an overview of a gameplan from early to late game, and a breakdown of why I chose each card in the list. These lists are meant to give players a place to get started and some things to think about as they continue on their Netrunner journey. Discussion and tweaking to your own playstyle/ideas is highly encouraged!
+
+You can find my other startup guides [here](https://netrunnerdb.com/en/decklists/find?faction=&amp;sort=popularity&amp;rotation_id=&amp;author=Xandorius&amp;title=Guide&amp;is_legal=&amp;mwl_code=&amp;packs%5B%5D=1&amp;packs%5B%5D=8&amp;packs%5B%5D=21&amp;packs%5B%5D=28&amp;packs%5B%5D=35&amp;packs%5B%5D=55&amp;packs%5B%5D=62&amp;packs%5B%5D=63&amp;packs%5B%5D=64&amp;packs%5B%5D=65&amp;packs%5B%5D=70&amp;packs%5B%5D=71&amp;packs%5B%5D=73&amp;packs%5B%5D=74&amp;packs%5B%5D=2&amp;packs%5B%5D=3&amp;packs%5B%5D=4&amp;packs%5B%5D=5&amp;packs%5B%5D=6&amp;packs%5B%5D=7&amp;packs%5B%5D=9&amp;packs%5B%5D=10&amp;packs%5B%5D=11&amp;packs%5B%5D=12&amp;packs%5B%5D=18&amp;packs%5B%5D=19&amp;packs%5B%5D=22&amp;packs%5B%5D=23&amp;packs%5B%5D=24&amp;packs%5B%5D=25&amp;packs%5B%5D=26&amp;packs%5B%5D=27&amp;packs%5B%5D=29&amp;packs%5B%5D=30&amp;packs%5B%5D=31&amp;packs%5B%5D=32&amp;packs%5B%5D=33&amp;packs%5B%5D=34&amp;packs%5B%5D=36&amp;packs%5B%5D=37&amp;packs%5B%5D=38&amp;packs%5B%5D=39&amp;packs%5B%5D=40&amp;packs%5B%5D=41&amp;packs%5B%5D=42&amp;packs%5B%5D=43&amp;packs%5B%5D=44&amp;packs%5B%5D=45&amp;packs%5B%5D=46&amp;packs%5B%5D=47&amp;packs%5B%5D=48&amp;packs%5B%5D=49&amp;packs%5B%5D=50&amp;packs%5B%5D=52&amp;packs%5B%5D=53&amp;packs%5B%5D=54&amp;packs%5B%5D=51&amp;packs%5B%5D=72&amp;packs%5B%5D=56&amp;packs%5B%5D=57&amp;packs%5B%5D=58&amp;packs%5B%5D=59&amp;packs%5B%5D=60&amp;packs%5B%5D=61&amp;packs%5B%5D=67&amp;packs%5B%5D=68&amp;packs%5B%5D=69 &quot;Xand&#039;s Guide&quot;)!
+
+WELCOME TO THE MACHINE - PLAYING AS HAAS-BIOROID
+
+HB can go in a lot of different directions. Whether it&#039;s big combos, fast advance efficiency, or powerful bioroid army glaciers, HB has tools for a lot of problems. If you like to string together lots of different pieces, play huge turns, or manipulate the runner&#039;s turn by denying them clicks or accesses, then HB may be the corp for you!
+
+TAKING THE TURING TEST - PLAYING AGAINST HB
+
+Many of HB&#039;s tools take away your clicks, or can be dealt with by spending clicks. Running first click against HB is particularly valuable when you&#039;re facing a field of bioroids. Having trash abilities to toss out their combo pieces can really disrupt HB&#039;s plans. Finally, throwing out a [Clot](/en/card/31005) at the right time can put a halt on their Fast Advance ideas.
+
+PRECISION SCORING WITH PRECISION DESIGN - EARLY GAME
+
+The plan with this deck is to fast advance out your agendas faster than the runner can keep up. Using a combination of extra clicks and reduced costs, you want to score when the runner has no chance to disrupt you. 
+
+In order to do that, you&#039;ll need a lot of money quickly and without the risk of trashing. This deck relies heavily on econ operations to build up the capital to take off. Early game you want to see your econ, and hopefully one of your fast advance tools. ICE goes on centrals and one remote to protect [SanSan City Grid](/en/card/31069)
+
+TO THE MOON - MIDGAME RUSHING
+
+Preferably you get your early setup fast: money, ICE, go! [Biotic Labor](/en/card/31048) and [SanSan City Grid](/en/card/31069) get the scoring going quickly, with your ID ability giving you the Biotic back to play again. [Digital Rights Management](/en/card/26117) gets you your agendas quickly when you need them. [Red Level Clearance](/en/card/26037) and [Sprint](/en/card/30041) get you the pieces as quickly as you can.
+
+[Palisade](/en/card/30072) and [Ansel 1.0](/en/card/30038) are intended for the remote, primarily to protect SanSan. Your main goal is to not have an agenda in hand or on the board for very long at all.
+
+RUNNING LATE IS RUNNING BEHIND - LATEGAME PLANS
+
+Truth be told, the goal of this deck is to avoid the late game entirely. It&#039;s a sprint to the finish line. Positioning ICE like [Drafter](/en/card/26101) and [Ansel 1.0](/en/card/30038) in effective places so that they fire your recursion is great for setting up in the late game. You don&#039;t have long term sustainable econ, so you&#039;ll want to think of ways to get your pieces as quickly as you can. Scoring a [Project Vitruvius](/en/card/31041) early with a counter on it can help secure your late game scoring plan. Combining [Biotic Labor](/en/card/31048) with [SanSan City Grid](/en/card/31069) can allow you to score [Cyberdex Sandbox](/en/card/26128) and [Offworld Office](/en/card/30067) out of hand.
+
+TWEAKING THE MACHINE - CARD CHOICES
+
+Agendas - This deck aims to combine the benefits of fast advance with triggering your ID ability. So we settle on 2 pointers instead of 1s or 3s. 3s can be really challenging to fast advance, and 1s end up being too resource intensive. [Cyberdex Sandbox](/en/card/26128) is tempo neutral, since it gives your advancing money back. [Offworld Office](/en/card/30067) puts you a little farther ahead. [Project Vitruvius](/en/card/31041) and [Luminal Transubstantiation](/en/card/30036) are easiest to score.
+
+Operations - This list is pretty straight forward. It&#039;s draw, money, or fast advance tools. [Government Subsidy](/en/card/30064) and [Hansei Review](/en/card/30048) can probably be swapped for different econ cards, but they provide a simple way to generate the credits you need and are difficult for the runner to disrupt.
+
+Upgrade - [SanSan City Grid](/en/card/31069) is your only upgrade, and key to the fast advance plan
+
+ICE - The ICE suite is a blend of efficient and gear check. Most ICE ends the run. [Hagen](/en/card/26035) and [Magnet](/en/card/31044) can disrupt cards like [Botulus](/en/card/30004) or [Egret](/en/card/31032). [Ansel 1.0](/en/card/30038) can protect from SanSan getting trashed or you agenda getting stolen in case you get hit with a [Clot](/en/card/08001). [Whitespace](/en/card/30074) looks like a decent way to tackle runners going early and face-checking. It could easily be swapped for [Enigma](/en/card/31081) though.
+
+ROCKETS GO BRRRRR - FINAL THOUGHTS
+
+Thank you for taking a look at the list! There are lots of tweaks and options you can swap in to fit your style and meta. Consider alternative ways to get extra clicks with [Bass CH1R180G4](/en/card/26098). Or perhaps tweaking the fast advance plan with cards like [Seamless Launch](/en/card/30040). ICE like [Slot Machine](/en/card/23045) or [Engram Flush](/en/card/26108) can provide a cheap way to tax the runner if you recalibrate the econ strategy. Including a campaign like [Marilyn Campaign](/en/card/31042) or [Nico Campaign](/en/card/30037) might be a better route over the operations only approach. Whichever way you go, HB will allow you to design a winning deck!
+
+Take care and see you on the Net!
+
+
+![Xandorius](https://i.imgur.com/ZKvjlE3.jpg?1 &quot;Icon&quot;) -Xandorius]]></notes>
+</deck>

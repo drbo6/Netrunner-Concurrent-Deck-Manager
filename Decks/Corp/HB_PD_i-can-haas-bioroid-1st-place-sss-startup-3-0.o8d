@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30035">Haas-Bioroid: Precision Design</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26035">Hagen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26036">Fully Operational</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26097">Project Vacheron</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26101">Drafter</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30037">Nico Campaign</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30038">Ansel 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31041">Project Vitruvius</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31048">Biotic Labor</card>
+  </section>
+  <notes><![CDATA[This was the deck I brought to Ysengrin&#039;s Single Sided Swiss Startup tournament, that ended up going undefeated in all 3 rounds. 
+
+At a high level is sort of a mashup between the sort of fully operational + skunk void decks that you&#039;d run in ASA in standard, and the seamless launch based rush decks out of PD that performed well in standard in the previous week&#039;s SSS Standard tournament. 
+
+One thing I really liked about piloting the deck was that all 3 games played very differently, and it was able to adapt based card draw order, and the play style of the matchup. 
+
+Game 1, the deck scored out on turn 14 by going wide vs a relatively aggressive Zayha deck. This was a game where I drew a lot of ice early, and the runner was using their boomerangs and inside jobs to constantly check whatever I put into the remotes I built. I ended up building an extra iced remote and spamming out multiple naked ones, putting Marilyns and Nicos and Spin Doctors into the remote, while using Spin and Sprint to keep from flooding before I had a proper scoring window. This wasted the runners time checking these, without getting them many points, and gave a few windows where I could sneak out agendas in the iced remotes when they were low on credits, or between boomerangs behind a gear check. Eventually I had enough card draw and credits from this board state and fully operational, to slam skunk and void into a remote behind a couple of taxing pieces of ice, and then used seamless to rapidly score out in this remote over a few turns. I ended up drawing almost my entire deck with 41 cards draw/ 5 of that was cards by click and 14 was mandatory draws, but the other 22 cards drawn were via spin / print / fully op / nico, and all that card draw to out tempo the runner was the real mvp in this first game. 
+
+The second game was versus a Hoshiko on dream net and stargate. For this game, I ended up just glaciering up, getting a Bran rezzed on both HQ and R&amp;D to shutdown dreamnet value runs, and also drafters on R&amp;D and Archives. The breaker suite of cleaver buzzsaw,  and odore are excellent at getting through most ice for only 1-2 credits, but these particular ice are among the few that tax these out. I was able to holds off their stargate assault on R&amp;D this way, and sit back slowly assembling enough ice / upgrades / credits to build a solid scoring remote, while they used up all the gas in their engine trying to get value runs with Stargate. I was often just stuffing a single Marilyn or Nico into the scoring remote at a time, to avoid ever leaving open a server for them to get dreamnet / hoshiko value on. Eventually I was able to just jam a few agendas in the remote once I had slowly built it up with an Ansel, Magnet, Skunk, and Void, and then score out the points on turn 15. 
+
+The final game looked very different from either of these earlier ones, scoring out 7 points on turn 6. My opponent was on this amazing Reina build using Xanadu, Botulus, Cookbook, and Tranquilizers, and I knew I had to win fast, or their late game derezzes + ice invalidation would bankrupt me easily. 
+
+Luckily for me my opener was Luminal, Vitruvious, Fully Op, Seamless Launch, and most importantly a magnet. I knew I wanted to jam the luminal behind a magnet and still have the credits to score it out if they made me rez it, so turn 1 was to ice the remote with magnet, jam the Luminal, and Fully op for net 2 cards and 2 credits. They installed a cookbook and a botulus and tried to get in, but the Magnet blocked it. From there I was able to just keep jamming behind the magnet, while they dug for some way into the remote. I was able to get a Vitruvious with a counter soon after, and then using the Vit counter to double up on a single seamless, I was able to never advance out the Vacheron on turn 6.]]></notes>
+</deck>

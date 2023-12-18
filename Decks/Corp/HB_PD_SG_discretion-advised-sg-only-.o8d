@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30035">Haas-Bioroid: Precision Design</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30037">Nico Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30038">Ansel 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30045">Urtica Cipher</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30063">Pharos</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30070">Superconducting Hub</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30074">Whitespace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+  </section>
+  <notes><![CDATA[In System Gateway HB excels at a “never-advance” strategy; you can use the card Seamless Launch to score an unadvanced 4/2 with only three clicks! Every unadvanced card you install could be an agenda, or perhaps it is an innocent Nico Campaign, or even the trap Urtica Cypher. Later in the game you can affordably advance the barrier Pharos into an impossibly expensive wall and keep the runner from even finding out what you installed with Manegarm Skunkworks. And with your ID Precision Design, you’ll never run out of copies of Seamless Launch!
+
+This is part of a series of decklists to get yourself started with deckbuilding using only the cards from System Gateway! These are meant to help introduce you to each faction’s playstyle, as well as some of the many powerful strategies that you’ll find in the Startup and Standard formats. Of note, these aren’t the only decks you can build out of System Gateway; I’m sure you can find ways to make these lists even better, or maybe you’ll build something of your own!]]></notes>
+</deck>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30059">Weyland Consortium: Built to Last</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30054">Funhouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30057">Public Trail</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30060">Above the Law</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30062">Ballista</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30063">Pharos</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30065">Retribution</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30066">Malapert Data Vault</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30068">Orbital Superiority</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30074">Whitespace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+  </section>
+  <notes><![CDATA[Weyland knows that the best way to win is to strike hard and fast, and they can score agendas or rez big ice more quickly than any other corp. You can leverage the ability of Built to Last to raise your credit total while scoring efficient agendas like Offworld Office, and this will help you get to use your expensive cards like Government Subsidy and Pharos all while forcing the runner to stop your non-stop rush of agendas. If the runner is somehow able to keep up, use Public Trail to give the runner a surprise tag and trash their icebreakers with Retribution to make a scoring opportunity with brute force!
+
+This is part of a series of decklists to get yourself started with deckbuilding using only the cards from System Gateway! These are meant to help introduce you to each faction’s playstyle, as well as some of the many powerful strategies that you’ll find in the Startup and Standard formats. Of note, these aren’t the only decks you can build out of System Gateway; I’m sure you can find ways to make these lists even better, or maybe you’ll build something of your own!]]></notes>
+</deck>

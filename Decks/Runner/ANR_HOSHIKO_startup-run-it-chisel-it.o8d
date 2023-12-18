@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26066">Hoshiko Shiro: Untold Protagonist</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26003">Chisel</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26004">Stargate</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26014">Lucky Charm</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26068">Devil Charm</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26069">Gachapon</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26070">Keiko</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26073">Paladin Poemu</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26095">DreamNet</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30007">Fermenter</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30015">Carmen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31009">Ice Carver</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31010">Liberated Account</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+  </section>
+  <notes><![CDATA[This is my favorite runner so far, with over 220 games.
+
+Mulligan
+--------
+Good cards for the start are Paladin, Dreamnet and other econ cards. 
+
+Against Jinteki: Dreamnet, Boomerang (since you don&#039;t want to facecheck) or your Killer are really important.
+
+Turn 1
+--------
+Facechecking is usually good before installing anything. Just Jinteki requires an another level of caution. I prefer an early trigger of [Drafter](/en/card/26101) with limited value, than an unrezzed ICE on an central server. Otherwise there is j just [Whitespace](/en/card/30074) and [Afshar](/en/card/26058). But both are not that common. If you can get the corp to rezz an expensive ICE or a Gold Farmer you are pretty happy to chisel it later.
+
+In the early games, you can use Boomerang for early access, as well as Chisel &amp; Devils Cham. Trashing early ICE usually sets the corp back quite a bit. Even if its just a mid cost ICE. So you keep on getting cheap early acceses.
+
+Keep on Running
+--------
+With Hoshiko you want to run at least every second turn. With a [DreamNet](/en/card/26095) out, usually every turn. It is sometimes also good, to do runs as a digital Hoshiko without any accesses (empty Archives or Stargate) to trigger the Dreamnet and flip sides.
+
+Mid Game
+--------
+Set up your rig, while keep on running and Chiseling expensive ICE.
+
+End Game Rig
+--------
+Usually consists of the 3 breakers, Leech and Stargate. With the most annoying ICE chiseled, this usually gets you in every server for a few credits. Boomerangs are still good for advanced Pharos and Colossus.
+
+Card Choices
+--------
+I tried the deck with three different Killers. They are all fine: [Bukhgalter](/en/card/26016), [Carmen](/en/card/30015) and [Echelon](/en/card/30025). I just don&#039;t like the Anarch ones. Echelon breaks [Ansel 1.0](/en/card/30038) for just 3 credits in the end game. But struggles with early game [Drafter](/en/card/26101). You are usually happy to see an [Archer](/en/card/01101) or an Tyr rezzed. It&#039;s just so much Chisel Value.
+
+
+Overclock is meant for keeping up with the speed of PD.
+
+[Simulchip](/en/card/26085)often wants to recur Chisels mid run, but can also be used for recurring breakers or Imps if you want to trash an Operation.
+
+[Trickster Taka](/en/card/26009) is really good for the end game. But a dead draw until you break ice with breakers, which can be quite a while. So I cut the card, since hitting the late game is usually a win anyway.
+
+I do not run [Botulus](/en/card/30004), since Memory is limited and it&#039;s unreliable against Magnet.
+
+Stream
+--------
+You can see the deck in action on Ysengrins stream: https://youtu.be/hH06W08N3X4?t=4876]]></notes>
+</deck>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30001">René &quot;Loup&quot; Arcemont: Party Animal</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30003">Carnivore</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30007">Fermenter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30009">Cookbook</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30012">Tread Lightly</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31004">Retrieval Run</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31008">Mimic</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31011">Scrubber</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[Because of his ID ability, [Loup](https://netrunnerdb.com/en/card/30001) likes to trash things - especially corp cards. To help with that, you have both [Carnivore](https://netrunnerdb.com/en/card/30003) and [Imp](https://netrunnerdb.com/en/card/31007) to give you the ablity to trash cards that don&#039;t usually have a trash cost, and two copies of [Scrubber](https://netrunnerdb.com/en/card/31011) to help pay for the cards that do. This deck is very light on icebreakers and relies on drawing either Carnivore or Imp as early as possible to start it&#039;s economy, so I&#039;ve included three copies of [Diesel](https://netrunnerdb.com/en/card/31027) and [Earthrise Hotel](https://netrunnerdb.com/en/card/31039) to help draw into them and feed the console. Since this deck relies on installing many viruses, there are three [DZMZ Optimizer](https://netrunnerdb.com/en/card/30022)s to alleviate the install costs, while [Retrieval Run](https://netrunnerdb.com/en/card/31004) into [Fermenter](https://netrunnerdb.com/en/card/30007) can turn into another econ option. For these reasons, the game plan of this deck is to draw into Carnivore or Imp ASAP and then start running as much as possible trashing corp cards, building up enough steam quick enough to exhaust them before they can get properly set up, and then use a combination of [Botuli](https://netrunnerdb.com/en/card/30004) and your icebreakers together with your hopefully many [Leech](https://netrunnerdb.com/en/card/30008) counters to break into scoring servers.]]></notes>
+</deck>

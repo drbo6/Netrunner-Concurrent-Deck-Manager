@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30051">NBN: Reality Plus</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26035">Hagen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26047">Remastered Edition</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26115">F2P</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30054">Funhouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30055">Ping</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30057">Public Trail</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30058">AMAZE Amusements</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30062">Ballista</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30065">Retribution</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30068">Orbital Superiority</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31062">Project Beale</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31065">Pop-up Window</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+  </section>
+  <notes><![CDATA[WELCOME TO XAND&#039;S GUIDE
+========================
+
+Hello! My name is Xandorius. I&#039;ve published a series of decklists for newer players using Nisei&#039;s [Startup Format](https://nisei.net/blog/introducing-startup-format/ &quot;Startup&quot;). There is one decklist per faction, using the startup IDs. Each decklist will discuss some ideas about playing as and against the faction, an overview of a gameplan from early to late game, and a breakdown of why I chose each card in the list. These lists are meant to give players a place to get started and some things to think about as they continue on their Netrunner journey. Discussion and tweaking to your own playstyle/ideas is highly encouraged!
+
+You can find my other startup guides [here](https://netrunnerdb.com/en/decklists/find?faction=&amp;sort=popularity&amp;rotation_id=&amp;author=Xandorius&amp;title=Guide&amp;is_legal=&amp;mwl_code=&amp;packs%5B%5D=1&amp;packs%5B%5D=8&amp;packs%5B%5D=21&amp;packs%5B%5D=28&amp;packs%5B%5D=35&amp;packs%5B%5D=55&amp;packs%5B%5D=62&amp;packs%5B%5D=63&amp;packs%5B%5D=64&amp;packs%5B%5D=65&amp;packs%5B%5D=70&amp;packs%5B%5D=71&amp;packs%5B%5D=73&amp;packs%5B%5D=74&amp;packs%5B%5D=2&amp;packs%5B%5D=3&amp;packs%5B%5D=4&amp;packs%5B%5D=5&amp;packs%5B%5D=6&amp;packs%5B%5D=7&amp;packs%5B%5D=9&amp;packs%5B%5D=10&amp;packs%5B%5D=11&amp;packs%5B%5D=12&amp;packs%5B%5D=18&amp;packs%5B%5D=19&amp;packs%5B%5D=22&amp;packs%5B%5D=23&amp;packs%5B%5D=24&amp;packs%5B%5D=25&amp;packs%5B%5D=26&amp;packs%5B%5D=27&amp;packs%5B%5D=29&amp;packs%5B%5D=30&amp;packs%5B%5D=31&amp;packs%5B%5D=32&amp;packs%5B%5D=33&amp;packs%5B%5D=34&amp;packs%5B%5D=36&amp;packs%5B%5D=37&amp;packs%5B%5D=38&amp;packs%5B%5D=39&amp;packs%5B%5D=40&amp;packs%5B%5D=41&amp;packs%5B%5D=42&amp;packs%5B%5D=43&amp;packs%5B%5D=44&amp;packs%5B%5D=45&amp;packs%5B%5D=46&amp;packs%5B%5D=47&amp;packs%5B%5D=48&amp;packs%5B%5D=49&amp;packs%5B%5D=50&amp;packs%5B%5D=52&amp;packs%5B%5D=53&amp;packs%5B%5D=54&amp;packs%5B%5D=51&amp;packs%5B%5D=72&amp;packs%5B%5D=56&amp;packs%5B%5D=57&amp;packs%5B%5D=58&amp;packs%5B%5D=59&amp;packs%5B%5D=60&amp;packs%5B%5D=61&amp;packs%5B%5D=67&amp;packs%5B%5D=68&amp;packs%5B%5D=69 &quot;Xand&#039;s Guide&quot;)!
+
+NO SUCH THING AS BAD PRESS - PLAYING AS NBN
+
+NBN is all about influencing the runner. If they take a tag; punish them! If they run; tag them! If they do nothing; score out! By creating these different forks, you can pressure the runner to run when they shouldn&#039;t, or sit back when they should be running. Tag punishment can push games in your favour, and taxing ICE can help you get there.
+
+NO NEWS IS GOOD NEWS - PLAYING AGAINST NBN
+
+If you&#039;re up against NBN, you want to be aware of the threats they might be using. Many of their threats have break points, such as [Public Trail](/en/card/30057) allowing you to avoid the tag if you pay 8. You don&#039;t want to end up in a situation where you are forced into the Corp&#039;s preferred choice. NBN can also score fast with tools like [SanSan City Grid](/en/card/31069). If you want to win against NBN then you need a way to deal with tags, a way to trash their key assets, and a decent amount of money. Although often taxing, lots of NBN ICE loses its teeth once the runner is set up and it frequently doesn&#039;t end the run so a final YOLO play can still close out the game.
+
+PILOT EPISODE - EARLY GAME
+
+The plan on this deck is to pressure the runner with tags as we build up a taxing scoring server to score out. A hasty runner will float a tag and hopefully have us trash a program or maybe even flatline them!
+
+In the early game we want to ICE centrals and get some econ rolling. [Marilyn Campaign](/en/card/31042) in a remote can get some early cash, and [Pop-up Window](/en/card/31065) and give us money while the runner does early pokes. 
+
+RENEWED FOR ANOTHER SEASON - MIDGAME PLAN
+
+As you transition to the midgame, you want to start utilizing your tags and tag punishment. Tags already reward you through your ID ability, but [Retribution](/en/card/30065) and [Orbital Superiority](/en/card/30068) can potentially cause a huge disruption for the runner. [Seamless Launch](/en/card/30040) can help with some sneaky scoring and [AMAZE Amusements](/en/card/30058) will make it difficult for the runner to steal those agendas while still staying tag free.
+
+A FLAWLESS FINAL CHAPTER - ENDGAME GOALS
+
+As we move to the endgame, using [Retribution](/en/card/30065) to lock the runner out of a sever by trashing key icebreakers can seal in a win. [Spin Doctor](/en/card/30053) is good early game for draw, but he can also be used late game to give you pieces back. I think lategame is where a surprise [Ping](/en/card/30055) can really throw off a runner too. There&#039;s some solid mind games that can be played around when, and how, you tag the runner. Setting yourself up for nearly guaranteed tags is how to make this deck sing.
+
+SO MANY SHOWS, SO LITTLE TIME - CARD CHOICES
+
+Agendas - The agenda suite here aims for fairly easy to score choices. [Remastered Edition](/en/card/26047) can make scoring further agendas easier, [Project Beale](/en/card/20110) and [Tomorrow&#039;s Headline](/en/card/30052) are both strong 3/2s in their own right. Lastly, [Orbital Superiority](/en/card/30068) gives a possible kill option if we set the runner up to fall down hard.
+
+Assets - Simple choices here, one gives you money, the other gives you cards and filtering.
+
+Operations - A well placed [Public Trail](/en/card/30057) can seriously hurt the runner. Either by tossing their money out the window, allowing you to trash a key resource, or by blowing something up with [Retribution](/en/card/30065). In particular, the ability to trash a console will have the added potential of forcing a runner to trash programs too as they run out of . [Seamless Launch](/en/card/30040) helps score out agendas as they pretend to be assets.
+
+Upgrades - [AMAZE Amusements](/en/card/30058) presents a challenge for the runner to clear tags enough, and ties together nicely with [Tomorrow&#039;s Headline](/en/card/30052).
+
+ICE - [Ping](/en/card/30055) and [Funhouse](/en/card/30054) push tags even further. [Hagen](/en/card/26035) and [Ballista](/en/card/30062) may trash a program that leads to locking out the runner. [Tollbooth](/en/card/31066) and [F2P](/en/card/26115) can be quite taxing in ther own right. Finally, [Pop-up Window](/en/card/31065) is surprisingly annoying, and the money it makes you can add up.
+
+READING THE TV GUIDE - FINAL THOUGHTS
+
+
+
+Thank you for taking a look at the list! There are lots of tweaks and options you can swap in to fit your style and meta. Try out [Whitespace](/en/card/30074) to see if it can combo well with Tollbooth for extra taxing. [Tithe](/en/card/30073) might replace pop-up as a small stinging ICE. Consider Fast Advance tools like [Biotic Labor](/en/card/31048) or [SanSan City Grid](/en/card/31069) to speed up your scoring plan. Or switch things up to run 5/3s and spike the runner with a [Punitive Counterstrike](/en/card/31078) when they run poor trying to steal them. No matter which way you build NBN, you&#039;ll be able to find your favourite show!
+
+Take care and see you on the Net!
+
+
+![Xandorius](https://i.imgur.com/ZKvjlE3.jpg?1 &quot;Icon&quot;) -Xandorius]]></notes>
+</deck>

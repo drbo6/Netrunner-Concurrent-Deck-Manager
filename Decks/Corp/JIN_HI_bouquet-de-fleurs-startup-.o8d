@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26039">Hyoubu Institute: Absolute Clarity</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26044">Saisentan</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26106">Flower Sermon</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26110">Hyoubu Precog Manifold</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30044">Longevity Serum</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30047">Karunā</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31051">House of Knives</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31057">Celebrity Gift</card>
+  </section>
+  <notes><![CDATA[Hyoubu is really good here, in this startup format deck.
+
+**You can replace the [Sure Gamble](/en/card/30030) by [Subliminal Messaging](/en/card/31082) to make the deck slightly faster. You get about the same amount of credits throught the game for both, but it penalize the runner for not running, at the cost of burst econ.
+
+A lot of inspiration was taken from Navelgazer deck (https://netrunnerdb.com/en/decklist/68360/that-hyoubu-deck-startup-) and then further discussed with Niichan&#039;s Girl on jnet.
+
+First, the mulligan plan : You want one ice in hand.
+
+Now, the tricks of the deck : 
+
+Here are the combo card with [Hyoubu Institute: Absolute Clarity](/en/card/26039) : 
+
+1. [Celebrity Gift](/en/card/31057) will give you an extra .
+2. [Engram Flush](/en/card/26108) will let you gain a  if they reveal the cards of the runner.
+3. [Flower Sermon](/en/card/26106) will give you a  everytime you use it.
+
+Then, the trick of this deck : 
+
+1. [Flower Sermon](/en/card/26106) will let you put [Snare!](/en/card/31054) in R&amp;D if need be.
+2. [House of Knives](/en/card/31051) will be the 7th point and can allow you a kill, when used with [Snare!](/en/card/31054).
+3. [Seamless Launch](/en/card/30040) will let you score any agenda on the board. Making every card on the board a possible agenda.
+4. [Hyoubu Precog Manifold](/en/card/26110) will let you score any agenda, after you put it on the board and advance it once.
+
+[Karunā](/en/card/30047) and [Saisentan](/en/card/26044) are heavy tax for the runner in the early game. They are still annoying for sentry breakers
+
+There are a lot of creds in this deck. This should allow you to go a bit faster.
+
+Important : always use [Hyoubu Institute: Absolute Clarity](/en/card/26039) ability instead of clicking for credit. This will allow you to know which type of card to select for [Engram Flush](/en/card/26108) and [Saisentan](/en/card/26044).
+
+![Fleurs rouges](https://i.kym-cdn.com/photos/images/newsfeed/001/333/799/86f.jpg)]]></notes>
+</deck>

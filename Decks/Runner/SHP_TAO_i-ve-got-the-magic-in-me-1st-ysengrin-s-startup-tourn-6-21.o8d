@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30019">Tāo Salonga: Telepresence Magician</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26074">Bravado</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30015">Carmen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30021">VRcation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30024">Conduit</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30026">Unity</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31006">Corroder</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31034">Paricia</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[Choose your magic.  Whatever weakness the corp is showing exploit, RD with conduit or jailbreak, HQ with docklands or jail break, or build up for remotes with economy and a big rig.  There is a weakness that early game can be tough to get online if no economy and corp has good ice also super late game there is nothing to reshuffle things you need (just simulchips to get programs). 
+
+Almost always gives you a chance, sometimes very small windows. 
+
+I struggle with the correct sentry breaker and find carmen to be expensive, maybe a Bukhgalter would be better or the Echelon.  It could use some more tweaks but its fun to play.]]></notes>
+</deck>

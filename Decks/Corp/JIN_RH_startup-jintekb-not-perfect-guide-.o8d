@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30043">Jinteki: Restoring Humanity</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26044">Saisentan</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26063">Vulnerability Audit</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26110">Hyoubu Precog Manifold</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda27006">Digital Rights Management</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30074">Whitespace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31043">Eli 1.0</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31045">Ravana 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31057">Celebrity Gift</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+  </section>
+  <notes><![CDATA[About
+Archetype: Glacier - Build a remote. Score behind it. Hopefully.
+
+I wanted to make a decent Jinteki deck that wasn&#039;t [Jinteki: Personal Evolution](/en/card/31050). Unfortunately, [Hyoubu Institute: Absolute Clarity](/en/card/26039) has an ID ability that is very hard to take advantage of. That leaves [Jinteki: Restoring Humanity](/en/card/30043) as the only option left.
+
+This deck is titled &quot;JintekB&quot; because it&#039;s a deck that wants to be HB (and is probably better done in HB). &quot;Not PErfect&quot; is a pun on not being Personal Evolution, while at the same time being honest about Jinteki&#039;s lack of power in Startup.
+
+
+&quot;End the Run&quot; to Win
+These are my main win conditions:
+
+1. [Hyoubu Precog Manifold](/en/card/26110)
+Lockdown. Install. Advance. Runners almost never challenge the remote when this is active. I can score [Cyberdex Sandbox](/en/card/26128) and [Vulnerability Audit](/en/card/26063) easily, although [Send a Message](/en/card/30069) will require a bit more risk with installing it the turn before.
+2. [Anoetic Void](/en/card/30050)
+Two Creds. Two Cards. Two Stops (usually). Low agenda density and [Subliminal Messaging](/en/card/04100) help me fuel the void safely. 
+
+Note: If I have both active, Anoetic will fire first, with Precog second.
+
+
+[Subliminal Messaging](/en/card/31082) Synergy
+Returning to HQ from Archives supports...
+
+1. [Jinteki: Restoring Humanity](/en/card/30043) - Discarding Subliminal to get the ID ability will get me 1 or more credits (compared to playing it for ONLY 1).
+2. [Hansei Review](/en/card/30048) - Subliminal comes back to hand to give me an easy Hansei target (and also triggering your ID).
+3. [Celebrity Gift](/en/card/31057) - Subliminal coming back to hand gives me more cards to reveal.
+4. [Anoetic Void](/en/card/30050) - as mentioned above, cards to fuel Anoetic is important.
+5. HQ padding - Having more cards helps the odds against HQ thefts.
+
+Because of the above reasons, I rarely play Subliminal for the click-less credit. Instead, discard it, or feed it to Hansei. The only exception would be if I already have a face down card in Archives, and I&#039;d have to discard it anyway.
+
+
+Agenda Suite Explanation
+This is a weird set of agendas: 3x(2/4), 1x(3/4), 3x(3/5).
+Originally, I tried this deck with 9x 2pointers, but trying to score 4 times without a Fast Advance finish was a horrible idea. Unfortunately, Jinteki doesn&#039;t have an in-faction 3/5, so [Send a Message](/en/card/30069) was the obvious switch. I added 2 of them, but then had a hard time finding my 3 pointer when I needed it (and the runner would steal one, leaving only one for me to find). So I added another Send and [Vulnerability Audit](/en/card/26063), which works well with [Hyoubu Precog Manifold](/en/card/26110).
+
+[Cyberdex Sandbox](/en/card/26128) vs [Offworld Office](/en/card/30067) is a toss up. I went with Sandbox, because purging [Conduit](/en/card/30024) is sometimes a necessity. The Office would provide better tempo generally.
+
+[Digital Rights Management](/en/card/26117) - Low agenda density is great for R&amp;D odds, but then I played 3 consecutive games with not having an agenda at the right time. If I had more influence, I could consider adding another one. I try to use DRM for my second Sandbox, or the third and final score.
+
+Preferred Scoring Order: Sandbox, Sandbox, Audit.
+If I find a window to score an early Send the Message, that&#039;s fine, but Sandbox provides the best tempo option. I don&#039;t score Audit early as it provides no tempo (I use [Spin Doctor](/en/card/30053) to get it back in R&amp;D).
+
+
+Timeline
+Early Game: Reputation and Respect
+Most runners respect [Saisentan](/en/card/26044) and will not face-check Jinteki which means I get a little more room to breathe at the beginning. As usual, I mulligan for an econ card + ice. I aim to protect R&amp;D and get a 2 ice remote, with HQ being situational. I can also rush out a Sandbox behind a single ice using [Hyoubu Precog Manifold](/en/card/26110)
+
+Mid Game: Ice is Nice
+Having an Ice on Archives discourages running, which can lead to [Subliminal Messaging](/en/card/31082)s returning to hand. I stack ice on R&amp;D and the Remote based on the situation. Lonely [Anoetic Void](/en/card/30050) installs can force Runners to clear them out early.
+
+Late Game: R&amp;D desperation runs
+Hopefully I won in the midgame. The later the game goes, the more R&amp;D becomes a problem. As I setup my final score, I contemplate using Anoeotic Void and [Hyoubu Precog Manifold](/en/card/26110) on R&amp;D.
+
+
+Ice
+&amp;bull; [Brân 1.0](/en/card/30039) - Remote first, R&amp;D maybe - Primary remote defense.
+&amp;bull; [Eli 1.0](/en/card/31043) - Remote, R&amp;D, HQ maybe - Solid Taxing Ice, prefers Bioroid company
+&amp;bull; [Ravana 1.0](/en/card/31045) - Remote, R&amp;D - Wish I had influence for more. Placing with other Bioroid highly preferred.
+&amp;bull; [Engram Flush](/en/card/26108) - R&amp;D, HQ, Archives - Becomes a liability against Runners with no cards.
+&amp;bull; [Saisentan](/en/card/26044) - R&amp;D, HQ, Archives, Remote maybe - A bit expensive, but better than [Karunā](/en/card/30047) because it can be lethal.
+&amp;bull; [Whitespace](/en/card/30074) - Archives, HQ - I used to have 3 Ravanas, but had to spend the influence elsewhere. This is just the weaker substitute. Switching to [Enigma](/en/card/31081) could be a possibility.
+
+
+If you&#039;ve made it this far, thanks for reading =)]]></notes>
+</deck>

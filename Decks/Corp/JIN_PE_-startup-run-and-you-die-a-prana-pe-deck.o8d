@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31050">Jinteki: Personal Evolution</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26041">Sting!</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26044">Saisentan</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26107">Prāna Condenser</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26109">Konjin</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26116">Gold Farmer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26129">False Lead</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30044">Longevity Serum</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30070">Superconducting Hub</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31051">House of Knives</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31075">Archer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33039">Blood in the Water</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33043">Anemone</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33045">Ivik</card>
+  </section>
+  <notes><![CDATA[This my my Prana PE deck for startup. It has an 80% WR across 245 games, and while admittedly that was before the latest rotation, it plays essentially the same post-rotation with the only real change being the threat of Pinhole Threading.
+
+The basic idea is setup Prana in a remote, behind 2-5 ice and an anoetic, and kill your opponent with it. You can win through other means, though. Scoring out is more common than you might think, and you can get usual PE shenanigans if your opponent isn&#039;t careful.
+
+How to play:
+
+The biggest mistake I see people make with this deck is trying to protect centrals too hard. It is very common for me to have a Prana remote with 3-4 ice, one engram flush on r&amp;d, and 1 ice or nothing over HQ. Generally you WANT the runner to get agendas off r&amp;d, as that speeds up Prana and gives you money. In my experience runners hate running your hand in fear of snare (usually correctly so) but occasionally if I have too many 2-pointers I want to put something there. 
+
+Once prana is comfortable, just start throwing agendas down naked in other remotes. If the runner runs them, great, you get money and counters. If they don&#039;t, great, you get your advancements refunded, you get counters, and you get agenda points. It&#039;s win-win. 
+
+The only reason to ice up R&amp;D is to slow the runner down before you get prana up, and to make sure they can&#039;t rush too hard and score out before prana charges up. 
+
+Of course Light the Fire! and even moreso Pinhole threading are very scary for Prana. You can&#039;t feel totally safe even behind anoetic. But they also don&#039;t insta-end the deck.
+
+If it&#039;s early on (0-1 counters), they spend 4 to trash something that you essentially put no effort into, that sucks, but hopefully you can spin doctor it in and draw another. 
+
+Midway (2-3 counters) is the hardest, because you&#039;re in an awkward spot where you don&#039;t have enough agendas to score out normally, and it&#039;s a little late to get a whole other prana going. But either is doable depending on the situation. 
+
+If is late (4-6 counters) I generally stop trying to prana kill and just go for the score out. The big run to finally kill prana through the big remote is often a big drain on runner resources, plus if Prana had a lot of counters you likely have a lot of agendas scored already, and a good amount of money. So you can jam the last couple behind your giant remote. 
+
+How to play against it:
+
+In my experience very few people know how to deal with this deck. Before Prana is up, RUN LIKE HELL. Run all the remotes. Trash marilyns and Regoliths to prevent money for ice, and don&#039;t let HOK&#039;s sneak through. Centrals can wait, just run all the remotes. 
+
+Once Prana is up, generally speaking, you want to stop running immediately. If you run, BEST CASE SCENARIO, you&#039;re getting an agenda, which is only giving Corp money and counters. You want to wait, install those Daily Casts, Rezekis, and breakers, and then run and trash the Prana when you&#039;re ready. Corp can score out free agendas if you avoid running, but that is MUCH, MUCH slower than if you steal them. If you don&#039;t run, it takes at least 6 turns to kill you with Prana. Usually more like 11-12. If you do run, and hit stings or snares or even regular agendas, it&#039;s going to happen much faster then you are ready for, and you&#039;re spending resources on those runs that you could be spending preparing to trash Prana. Once Prana is trashed, you can go back to running like hell. 
+
+However, if Prana comes up while you already have 3-4 points, then you can probably keep running everything, even centrals if there&#039;s no remotes. The only way PE comes back from runner having 3-4 with no Prana counters is with random careless kills or sneaking through house of knives. So don&#039;t let that happen. Run remotes and keep your hand up, and they should be forced into turtling to stop the last agendas getting through, which is a very bad spot to be in. 
+
+Card Choices:
+
+Agendas:
+
+Blood in the Water: Most significant change for the latest format. Slotted over Yagi-Uda. It&#039;s nice because it allows a surprise kill with Prana when it only matches opponent hand size by popping Prana and then install-scoring a BitW for the kill with ID ability. 
+
+False Lead: Rarely relevant, but occasionally useful for the final turn when your opponent can see Prana is full, they start gearing up, and then you pop false lead and they can&#039;t do anything. Also useful for surprise kills, if you opponent has too few cards in hand and you have Prana or a Sting set up for the finish.
+
+HOK: The most important agenda in the deck with Sting, very important to score yourself when possible. Generally I achieve this by only putting it down with a bunch of other things so the runner is less likely to single it out, or once I have prana up so even if they do run it I benefit anyway the counters are massively helpful for charging Prana and can help for surprise kills even without it. Once you&#039;ve got it with Prana, every run after that point is free 3 credits and one step closer to the kill. 
+
+Sting!: Very important. Gets 2 counters for Prana (even if either player has one scored, as far as I&#039;m aware its own damage is all one instance and therefore only 1 net can be prevented). I am not at all shy about putting them out on the table even pre-prana. Often if you don&#039;t score it immediately, your opponent will assume it&#039;s a snare or something and leave it alone. And then it becomes &quot;if you ever end turn below 2 cards you die.&quot; If they do steal it, totally fine. Then the next one becomes the same thing, but with 3 cards. 
+
+Superconducting Hub: Occasionally nice for some extra tempo, my most common Archer forfeit target. 
+
+Assets/Upgrades:
+
+Marilyn: For money, which you need, unlike most other PE decks, for big ice. I could consider swapping this for Bladderwart, but in my experience runners will trash Bladderwart at all costs, while many will leave Marilyn alone, and you want the money.
+
+Prana: Essential. Most hands that open with it are a keeper, and I try to mulligan for it unless I have an otherwise nice hand like something with 0-1 agendas and some econ. I try not to play it unless it&#039;s behind hard ETR ice. I want to protect it at all costs and not lose it to random bold runs. 
+
+Regolith: A nice naked install, then rez and click three times. If you install-rez-click twice, the runner can trash it for not-too-much and it&#039;s not a great money exchange. 
+
+Snare: Nice for surprise kills, and Prana stacks (again, you can only get 1 counter per snare, but at least it nearly refunds it). I almost never install these because it&#039;s too much value to lose out on when the runner will likely run your hand and hit one eventually. 
+
+Anoetic: Very nice to have on the Prana server. Once you have this and some big ice like archer it&#039;s pretty much the game. Very rare that runners can rush fast enough to beat Prana&#039;s counters. Once you have that set-up the only thing to be afraid of is Light the Fire! and Pinhole threading. 
+
+Ice: 
+
+This is the only part of the deck that in my view is negotiable. I&#039;m fairly certain about the archers, but most of the rest of it could be shuffled about. 
+
+Gold Farmer: Just really strong, essentially ETR ice (nobody pays through)
+
+Ivik: a recent add. It&#039;s nice to have big ice with anoetic.
+
+Engram Flush: Too strong to pass up, but I almost never put it on the remote. You want to be able to stop the big push to trash Prana, not let them get through it by having no cards and risking it. So these are almost always to slow down centrals. 
+
+Konjin: Archer is fun, let&#039;s see you get through it again :)
+
+Anemone: This is one I&#039;m unsure about. Getting free Prana counters is great, but until Prana&#039;s up it&#039;s useless and after it&#039;s rezzed it&#039;s just so weak. Plus I already have engram flush for centrals. 
+
+Archer: Very important to put on the remote, very occasionally R&amp;D if you have an extra and the runner is close to scoring out or hard pressuring centrals. 
+
+Saisentan: Still nice on the remote because the runner really has to break it. 
+
+Common Cards I don&#039;t run:
+
+Hansei review: There&#039;s very few dead cards you&#039;re happy pitching to Hansei, and hedge fund/regolith/marilyn/prana is enough money. 
+
+Hokusai: Could be useful, but this deck has actually grinded out only once or twice in ~250 games, so it&#039;s only use case really is an extra prana counter, which is really only about breaking even with the cost, and you don&#039;t really need to deter the runner from running centrals anyway. 
+
+Celebrity Gift: Very rare I&#039;m okay with showing my hand. Often it&#039;s a bunch of snares and I don&#039;t want them to know, or it&#039;s a bunch of agendas and I don&#039;t want them to know. I&#039;ll get my money from other sources. 
+
+Urtica: In my experience if the runner doesn&#039;t run it immediately, they leave it alone. So it&#039;s going to be a dead card a lot of the time, even if you do get to put it down. Probably not worth it.]]></notes>
+</deck>

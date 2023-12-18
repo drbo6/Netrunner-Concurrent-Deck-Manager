@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31026">Rielle &quot;Kit&quot; Peddler: Transhuman</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26021">Khusyuk</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26022">Spec Work</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26024">Gauss</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26084">Aniccam</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26087">Euler</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26091">Cybertrooper Talut</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30021">VRcation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30025">Echelon</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31023">Sneakdoor Beta</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+  </section>
+  <notes><![CDATA[*published by AlwaysBeRunning.net*]]></notes>
+</deck>

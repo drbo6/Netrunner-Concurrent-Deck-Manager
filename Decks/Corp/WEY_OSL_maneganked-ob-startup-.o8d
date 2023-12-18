@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33057">Ob Superheavy Logistics: Extract. Export. Excel.</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26056">SDS Drone Deployment</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26058">Afshar</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26059">Sandstone</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26119">Ganked!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26122">Wall to Wall</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26123">Akhet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30060">Above the Law</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31071">Hostile Takeover</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31073">Project Atlas</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31075">Archer</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31076">Hortum</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31077">Ice Wall</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31081">Enigma</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33060">Envelopment</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33062">Stavka</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33063">Extract</card>
+  </section>
+  <notes><![CDATA[This is the Corp I took to the recent [Leisure Games Startup GNK](https://alwaysberunning.net/tournaments/3331/leisure-games-gnk-july-2022) alongside [Lat](https://netrunnerdb.com/en/decklist/e76dbe6c-aa15-4123-b471-8977d1dcd5ce/midrange-aesop-s-startup-), thus meaning I had the shortest pair of ID names! (As long as you ignore all of the extra text after Ob. Okay look this might not be the best way to describe my ID choices but I don&#039;t think anyone is gonna say Ob&#039;s full name. Don&#039;t @ me.)
+
+This deck only went 1-3. Admittedly that&#039;s not a great record, but I had a lot of fun playing the deck, and I&#039;m not a very competitive player so I&#039;ll absolutely take it. (Also as we&#039;ll see later, two of the losses were extremely close.)
+
+## The Deck
+[Stavka](/en/card/33062)&#039;s on rez ability is ridiculously useful in Ob - it&#039;s a very effective way to at least drain the Runner&#039;s credits on breaking a strength 7 sentry, or trash programs in a format without [Paperclip](/en/card/11024) and friends. (And of course, you get an Ob trigger if you trash a rezzed card.)
+
+Unfortunately, it only lasts during the run. Fortunately, we have a friend in [Ganked!](/en/card/26119), which means that Stavka can have another go at trashing the Runner&#039;s stuff. You also have [Archer](/en/card/31075) as an extremely good Ganked! target. This also means that if the Runner is using some kind of trick to get through an ice (e.g. [Boomerang](/en/card/26075) or [boat](/en/card/33025)), they&#039;ll have to somehow use it again on the bonus encounter.
+
+The rest of the deck is basically built to facilitate Stavka + Ganked. I&#039;ll briefly go through some of the card choices, and how they work with Ob:
+
+* [Regolith Mining License](/en/card/30071) is a useful influence-free economy card that I was very glad to be running - you can put it behind a single ice, collect a bunch of money from it and then trash it (either because of its own ability, or [Extract](/en/card/33063) or Stavka) which lets you Ob for 1c. This gets you either an [Ice Wall](/en/card/31077) (nice if you need an extra end the run, perhaps on Archives to avoid early Sable runs) or a [Wall to Wall](/en/card/26122) (good as remote bait or if the game goes long).
+* [Manegarm Skunkworks](/en/card/30042) was added as another plan for winning - it can either drain the Runner&#039;s resources so that a Ganked hit is all the more painful, or keep them out full stop. You can also trash any 3c card to Stavka during a run to install Manegarm with Ob. Sadly I didn&#039;t get to do this during the tournament.
+* [Sandstone](/en/card/26059) can be pretty much explained by &quot;I was expecting [Cleaver](/en/card/30006)&quot; and lo and behold, there was a lot of Cleaver. Also you don&#039;t feel bad trashing this to Stavka (to then pick up a Manegarm or Regolith).
+* [Envelopment](/en/card/33060) tutors for an Archer when trashed. This isn&#039;t super novel, but it is very useful.
+* [Ice Wall](/en/card/31077) lets you tutor for [Spin Doctor](/en/card/30053) when trashed, which is very useful (particularly against Sabotage).
+
+I originally had a draft where this had [Svyatogor Excavator](/en/card/33059) in it. I didn&#039;t find Svyatogor worth it when you&#039;re mainly trashing ice, which is a bit of a shame. But I still got to run fun new cards so I&#039;m happy.
+
+## How&#039;d It Do?
+Well I kind of spoiled the answer already by saying it went 1-3, but the games themselves were cool and close so I&#039;m gonna talk about them.
+
+**Game 1 (win vs Sophie on Steve)**: I can&#039;t remember exactly how this game went but I do remember two useful bits - first that Archer did a very good job of being a good remote ice, and second that I had an 11 strength Ice Wall protecting HQ because Wall to Wall is a fun and good card.
+
+**Game 2 (loss vs Jo on Esa)**: this game was extremely close. Jo stole two Hostile and an Atlas reasonably early on, and I scored two Atlas and an Above The Law. I had to forfeit two of them to Archers however, but this trashed the remaining [Begemot](/en/card/33007) after Jo miscalculated how much it would cost to break with [Mayfly](/en/card/30032). I still had to score out, but only had [SDS Drone Deployment](/en/card/26056) left in deck, so had to install-advance-advance and thus signal the winning agenda. The second [Mayfly](/en/card/30032) came down as the last breaker available to Jo, a [Fermenter](/en/card/30007) being used for 14c, and my server being broken into. There was probably some way I could have won (I probably should have gone for an SDS score earlier, or purged the Fermenter) but Jo played the endgame fantastically so absolutely deserved that win.
+
+**Game 3 (loss vs Ams on Steve)**: in round 1, I got extremely lucky in my Runner game. Here, I paid for that luck by losing four points on turn 1 and never really recovering. Ah well, happens to the best of us.
+
+**Game 4 (timed loss vs Fern on Sable, but got a lockout)**: I am mildly grumpy about this one - managed to get a full lockout via Archer + Ganked except for one Cleaver with non-barriers on every server except Archives... and then time was called. Turns out the real enemy was not the friends we made along the way, but time itself. Or something. I&#039;m not a philosopher.
+
+## Changes?
+Yes, definitely. I really wished that I had the third Stavka so I could Ob more - but didn&#039;t really feel like I needed the third Archer because I was usually tutoring at least one via Envelopment. The game vs Jo also showed that I was really relying on never advance, so only running four agendas that you can never advance kind of hurt. As such, I think I&#039;ll be trying the following. (You could add the third Azef in place of the Above The Law, but I&#039;m not sure.)
+
+-1 Hostile -1 SDS -1 Archer +2 Azef +1 Stavka
+
+Have a go if you like and see how you feel! I&#039;ve also seen some discussion of tutoring [Bass CH1R180G4](/en/card/26098) with Ob which could help with the above changes given then number of 3/2s that end up in the deck, which I might try out as well. If you go for Bass, you may want to add more [Hortum](/en/card/31076), because you may want an extra target or two at 4c to be able to tutor the Bass.
+
+## Conclusion
+I definitely had fun with this deck and would recommend having a go with it if you like rigshooting or saying the word Ob. Huge thanks to Tamijo for running such a great and friendly tourney! (I will treasure the Afshar alt-arts and Sanjay&#039;s Creative Commissions forever, because I am a die-hard Shaper and Weyland player.)]]></notes>
+</deck>

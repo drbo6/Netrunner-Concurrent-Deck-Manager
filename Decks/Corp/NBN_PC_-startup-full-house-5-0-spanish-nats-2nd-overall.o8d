@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33048">Pravdivost Consulting: Political Solutions</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26047">Remastered Edition</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26063">Vulnerability Audit</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26114">Bellona</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26115">F2P</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26116">Gold Farmer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26123">Akhet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26130">NAPD Cordon</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30054">Funhouse</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30055">Ping</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30065">Retribution</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31058">Trick of Light</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33050">Chekist Scion</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33051">Drago Ivanov</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33053">Mestnichestvo</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33054">Vasilisa</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33056">Vladisibirsk City Grid</card>
+  </section>
+  <notes><![CDATA[Pravdivost has all the tricks
+========
+This was the Corp deck that carried me through the swiss side event we hosted in the [Spanish Nationals](https://alwaysberunning.net/tournaments/3380/nacional-espaa-side-event-start-up). I ended up winning all games with Corp and dropped 2 games with my Runner. Won agaisnt [Sable](https://netrunnerdb.com/en/card/33011), [Padma](https://netrunnerdb.com/en/card/33021), [Ken](https://netrunnerdb.com/en/card/05029), [Az](https://netrunnerdb.com/en/card/26010) and [Loup](https://netrunnerdb.com/find/?q=loup&amp;sort=set&amp;view=list&amp;_locale=en)
+
+I&#039;ve been playing [Pravdivost](https://netrunnerdb.com/en/card/33048) since release pretty much all weeks in j.net, tinkered a lot of lists and this was the _&quot;final&quot;_ result, to me, the most consistent one, but [not](https://netrunnerdb.com/en/card/30061) the most [fun](https://netrunnerdb.com/en/card/30045) one.
+
+This deck has **A LOT** of tricks the Runner must be aware of, otherwise the matchup is a nightmare.
+&gt; You can fast advance [Drago](https://netrunnerdb.com/en/card/33051) with [ToL](https://netrunnerdb.com/en/card/02033) or [Remastered](https://netrunnerdb.com/en/card/26047) counter.
+
+&gt;[Bellona](https://netrunnerdb.com/en/card/26114) + [NAPD Cordon](https://netrunnerdb.com/en/card/26130) is **NASTY**.
+
+&gt;The Runner &quot;is forced&quot; to contest [Install - Adv - NAPD] otherwise you may be bluffing a [4/2](https://netrunnerdb.com/en/card/26047) or [4/3](https://netrunnerdb.com/en/card/26063) (which will cost +8c to steal anyway)...
+
+&gt;[Checkboy](https://netrunnerdb.com/en/card/33050) protects your [remote](https://netrunnerdb.com/en/card/32006).
+
+
+Extra card decisions:
+
+- 3x [Mestnichestvo](https://netrunnerdb.com/en/card/33053) -&gt; Answer to [Cezve](https://netrunnerdb.com/en/card/33017).
+- 1x [F2P](https://netrunnerdb.com/en/card/26115) and 1x [Vasilisa](https://netrunnerdb.com/en/card/33054) -&gt; I really like Vasilisa on the remote where you slam your NAPD Cordon turn, F2P is here to tax the non-[Bukhalter](https://netrunnerdb.com/en/card/26016) lists.
+- No [Machinations](https://netrunnerdb.com/en/card/33055) -&gt; I tried to play with this card and ended up discarding it a lot.
+
+
+
+Final note:
+This deck loses hard to [Hoshiko](https://netrunnerdb.com/en/card/26066), she will [Chisel](https://netrunnerdb.com/en/card/26003) your Gold Farmers and pay almost nothing for your Akhets, thankfully I didnt face any.]]></notes>
+</deck>

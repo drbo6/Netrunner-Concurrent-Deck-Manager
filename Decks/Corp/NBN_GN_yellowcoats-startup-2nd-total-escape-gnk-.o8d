@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26113">GameNET: Where Dreams are Real</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26047">Remastered Edition</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26065">Rime</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26114">Bellona</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26115">F2P</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26116">Gold Farmer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26130">NAPD Cordon</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda27005">La Costa Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30062">Ballista</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30074">Whitespace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31062">Project Beale</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31063">Daily Business Show</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31064">Reversed Accounts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31065">Pop-up Window</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+  </section>
+  <notes><![CDATA[Pure glacier NBN, leveraging credit differentials with [NAPD Cordon](/en/card/26130), [Skunkworks](https://netrunnerdb.com/en/card/30042), and taxing ICE.
+
+[Rime](https://netrunnerdb.com/en/card/26065) is a mixed bag; it&#039;s here as [Pop-ups](/en/card/02056) #4-6, but the strength boost often does nothing. [Ballista](/en/card/30062) is swingy: brutal when it hits, but not very taxing. Future builds will probably replace those and [La Costa](/en/card/26112) with HB ICE splashes ([Eli](/en/card/02110), [Ansel](/en/card/30038), [Bran](https://netrunnerdb.com/en/card/30039), [Drafter](/en/card/26101)). Also want to find room for a 2nd [Reversed Accounts](/en/card/06066), it does lots of work, whether for value or baiting runs.
+
+(Note the sneaky combo with [Remastered](/en/card/26047) and [NAPD Cordon](/en/card/26130): you can occasionally pop the advancement mid-run to add 2 and block the steal!)]]></notes>
+</deck>

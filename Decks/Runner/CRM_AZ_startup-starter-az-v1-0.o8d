@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26010">Az McCaffrey: Mechanical Prodigy</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26013">Flip Switch</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26018">The Class Act</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26074">Bravado</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26080">Makler</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30002">Wildcat Strike</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30011">Mutual Favor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30015">Carmen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30018">Red Team</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30023">Pantograph</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30024">Conduit</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31018">Inside Job</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31019">Legwork</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31021">Abagnale</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31023">Sneakdoor Beta</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[This is one of my set of Startup Starters. These aren&#039;t meta-defining decks, but the should be solid enough to win games, and give you a shell you can use to start deckbuilding. You can find the others [here](https://netrunnerdb.com/en/decklists/find?faction=&amp;sort=popularity&amp;rotation_id=&amp;author=YsengrinSC&amp;title=Starter&amp;is_legal=&amp;mwl_code=&amp;packs%5B%5D=1&amp;packs%5B%5D=8&amp;packs%5B%5D=21&amp;packs%5B%5D=28&amp;packs%5B%5D=35&amp;packs%5B%5D=55&amp;packs%5B%5D=62&amp;packs%5B%5D=63&amp;packs%5B%5D=64&amp;packs%5B%5D=65&amp;packs%5B%5D=70&amp;packs%5B%5D=71&amp;packs%5B%5D=73&amp;packs%5B%5D=74&amp;packs%5B%5D=2&amp;packs%5B%5D=3&amp;packs%5B%5D=4&amp;packs%5B%5D=5&amp;packs%5B%5D=6&amp;packs%5B%5D=7&amp;packs%5B%5D=9&amp;packs%5B%5D=10&amp;packs%5B%5D=11&amp;packs%5B%5D=12&amp;packs%5B%5D=18&amp;packs%5B%5D=19&amp;packs%5B%5D=22&amp;packs%5B%5D=23&amp;packs%5B%5D=24&amp;packs%5B%5D=25&amp;packs%5B%5D=26&amp;packs%5B%5D=27&amp;packs%5B%5D=29&amp;packs%5B%5D=30&amp;packs%5B%5D=31&amp;packs%5B%5D=32&amp;packs%5B%5D=33&amp;packs%5B%5D=34&amp;packs%5B%5D=36&amp;packs%5B%5D=37&amp;packs%5B%5D=38&amp;packs%5B%5D=39&amp;packs%5B%5D=40&amp;packs%5B%5D=41&amp;packs%5B%5D=42&amp;packs%5B%5D=43&amp;packs%5B%5D=44&amp;packs%5B%5D=45&amp;packs%5B%5D=46&amp;packs%5B%5D=47&amp;packs%5B%5D=48&amp;packs%5B%5D=49&amp;packs%5B%5D=50&amp;packs%5B%5D=52&amp;packs%5B%5D=53&amp;packs%5B%5D=54&amp;packs%5B%5D=51&amp;packs%5B%5D=72&amp;packs%5B%5D=56&amp;packs%5B%5D=57&amp;packs%5B%5D=58&amp;packs%5B%5D=59&amp;packs%5B%5D=60&amp;packs%5B%5D=61&amp;packs%5B%5D=67&amp;packs%5B%5D=68&amp;packs%5B%5D=69).
+
+This deck is a bit more tricksy than the other criminal starter deck. It uses more [Boomerangs](/en/card/26075) and [Inside Jobs](/en/card/31018) to contest the corporation&#039;s remote servers. It also use&#039;s Az&#039;s hardware affinity to make [Flip Switch](/en/card/26013) and [Docklands Pass](/en/card/30013) cheaper to install. You can also use [Sneakdoor Beta](/en/card/01028) and [Conduit](/en/card/30024) to force the corporation to really spend their resources protecting a wide variety of servers. However you don&#039;t have enough memory to have all of these down at once, but that should be ok in most games. You have a lot of tools for contesting remote servers in this list, but less money so you might have to be a bit more judicious.
+
+The biggest non-intuitive thing for playing this deck is how [The Class Act](/en/card/26018) works. If you have a The Class Act installed, you can install another one from your hand, overwriting the old one and get the draw 4 cards effect. You don&#039;t need to do that every game, but if you have a lot of credits, and not the cards you need, maybe give it a look. Flip Switch is also a nice way to facecheck ice. The : Jack out ability can be used to jack after the corporation has rezzed their ICE, but before any of the subroutines fire (or approach effects).
+
+When you go to start making this deck your own, one of the first cards I would look at is [Masterwork (v37)](/en/card/26015). That is Az&#039;s console and synergizes really well with Boomerang. But it&#039;s a very fiddly and somewhat complex card so I&#039;m leaving it out for these first few games. [Prognostic Q-Loop](/en/card/26077) is another Ashes card that might be worth a look. After that, I&#039;d take a look at getting more economy in the list, and deciding if [Conduit](/en/card/30024) is the best use of influence.]]></notes>
+</deck>

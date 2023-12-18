@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31070">Weyland Consortium: Building a Better World</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26056">SDS Drone Deployment</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26058">Afshar</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30060">Above the Law</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30062">Ballista</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30063">Pharos</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31064">Reversed Accounts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31078">Punitive Counterstrike</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+  </section>
+  <notes><![CDATA[Easy to play in Startup. This represent well Weyland : glacier, lots of creds, rig and runner shooting.
+
+![Easy](https://memegenerator.net/img/instances/60025623.jpg &quot;Easy&quot;)
+
+The strategy is to make two towers : a single scoring remote and R&amp;D. Those should have 3 ices and more if possible.
+
+Those ice can be put in any server : [Pharos](/en/card/30063), [Magnet](/en/card/31044), [Ballista](/en/card/30062).
+
+For the (single) scoring remote : [Palisade](/en/card/30072).
+For HQ : [Afshar](/en/card/26058), it is enough to put 2 ices on HQ.
+Preferably on Archive : [Tithe](/en/card/30073).
+
+Tricks of the deck :
+
+1. [Pharos](/en/card/30063) is not expected to be advanced, unless you are sure the runner does not pack ice destruction or ice derez or [Botulus](/en/card/30004).
+2. [Hansei Review](/en/card/30048) should be used on [Subliminal Messaging](/en/card/31082) if possible.
+3. Rez [Magnet](/en/card/31044) as late as possible, to allow you to get that [Botulus](/en/card/30004) or [Tranquilizer](/en/card/30017).
+4. Use [Predictive Planogram](/en/card/30056) to get 3 cards and 1 , this will speed up your game.
+5. Use [Reversed Accounts](/en/card/06066) to bait runs on your big scoring remote. If the runner pass through, they must still pay 3 to trash it (further tax). Otherwise, advance it and take the creds from the runner (just as taxing).
+6. Prefered cards to bring back with [Spin Doctor](/en/card/30053) : [Predictive Planogram](/en/card/30056) and [Hedge Fund](/en/card/30075) (exception for agendas).
+7. [Send a Message](/en/card/30069) effect is best used on [Pharos](/en/card/30063) and [Ballista](/en/card/30062), as it let you get back the whole value of your credits spent.
+
+I believe this will be easy (&quot;facile&quot; in french) to play this deck.  It should be pretty forgiving for any player.]]></notes>
+</deck>

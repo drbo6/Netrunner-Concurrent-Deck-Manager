@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31002">Reina Roja: Freedom Fighter</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26003">Chisel</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26005">Utae</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26013">Flip Switch</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26068">Devil Charm</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26070">Keiko</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26073">Paladin Poemu</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30002">Wildcat Strike</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30009">Cookbook</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31004">Retrieval Run</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31006">Corroder</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31008">Mimic</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31009">Ice Carver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31010">Liberated Account</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31012">Xanadu</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31017">Forged Activation Orders</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

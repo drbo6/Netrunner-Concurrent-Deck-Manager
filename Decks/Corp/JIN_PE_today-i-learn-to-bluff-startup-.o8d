@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31050">Jinteki: Personal Evolution</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26040">Project Yagi-Uda</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26041">Sting!</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26044">Saisentan</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26099">Cerebral Overwriter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30044">Longevity Serum</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30045">Urtica Cipher</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30046">Diviner</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30061">Clearinghouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31051">House of Knives</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31058">Trick of Light</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31059">Hokusai Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31065">Pop-up Window</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+  </section>
+  <notes><![CDATA[The aim of this deck is to practice bluffing. Putting unprotected cards in a remote server and putting advancement on it can be difficult, but worth it.
+
+Also, [Jinteki: Personal Evolution](/en/card/31050) change the math of the game a bit, because the runner has to start caring a lot about the number of cards in hand, on top of the number of credits.
+
+![Bluff](https://memegenerator.net/img/instances/63354781.jpg)
+
+All this will fork the runner in either running and getting lucky, or not and letting you score. [Clearinghouse](/en/card/30061) help you in the sense that if the runner let you advance a card too much, you can kill them the next turn. Of course, you can also advance an [Urtica Cipher](/en/card/30045) to 6 to bluff the runner in thinking that it is [Clearinghouse](/en/card/30061), and then doing 8 net damages.
+
+Trap/ambush cards like [Urtica Cipher](/en/card/30045) or [Cerebral Overwriter](/en/card/26099), if they are not contested by the runner, can be used as a battery for [Trick of Light](/en/card/31058), letting you fast advance agendas.
+
+Ambush/trap cards need credits, this is why there is is quite a lot of way to get credits. Also, outside of [Saisentan](/en/card/26044), ices are cheap and will help you grind the cards of the runner.
+
+This quite a bit of fun. You&#039;ll be thinking about the the quote of Clint Eastwood : &quot;do you feel luck?&quot;. While the runner will think about Ackbar quote : &quot;it&#039;s a trap!&quot;.
+
+Smile because win or lose, when bluffing, it will always be glorious.]]></notes>
+</deck>

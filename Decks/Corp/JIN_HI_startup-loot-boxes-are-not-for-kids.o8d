@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26039">Hyoubu Institute: Absolute Clarity</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26044">Saisentan</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26051">Loot Box</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26063">Vulnerability Audit</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26065">Rime</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26106">Flower Sermon</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26109">Konjin</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26110">Hyoubu Precog Manifold</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30044">Longevity Serum</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30047">Karunā</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31052">Nisei MK II</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31057">Celebrity Gift</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+  </section>
+  <notes><![CDATA[This is my hot take on [Hyoubu](https://netrunnerdb.com/en/card/26039) ive been cooking for a month and a half already. I&#039;ve had decent sucess with it in recent tournaments and jinteki (76% winrate in 30+ games). 
+
+The plan is simple:
+- 
+- [Loot Box](https://netrunnerdb.com/en/card/26051) is **UNDERRATED** -&gt; Catch a [Sure Gamble](https://netrunnerdb.com/en/card/30030) for a 8c profit
+- Get money **FAST** -&gt; 3x [Subliminal](https://netrunnerdb.com/en/card/31082) + 
+ [Celebrity Gift](https://netrunnerdb.com/en/card/31057)
+- Score **FAST** -&gt; [Anoetic](https://netrunnerdb.com/en/card/30050) discarding Loot Box / Rime or Subliminal
+- Install Advance + [Hyoubu Precog](https://netrunnerdb.com/en/card/30050) -&gt; Score [Flower Sermon](https://netrunnerdb.com/en/card/26106) -&gt; 5c + R&amp;D control
+- [Bran](https://netrunnerdb.com/en/card/26110) is **KEY** -&gt; Expensive to pass / Install Loot boxes!]]></notes>
+</deck>

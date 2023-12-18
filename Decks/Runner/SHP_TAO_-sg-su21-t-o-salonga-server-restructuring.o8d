@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30019">Tāo Salonga: Telepresence Magician</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30015">Carmen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30023">Pantograph</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30024">Conduit</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30027">Telework Contract</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30033">Smartware Distributor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31006">Corroder</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31028">Test Run</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31033">Gordian Blade</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31035">Aesop&#039;s Pawnshop</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31036">Professional Contacts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+  </section>
+  <notes><![CDATA[By planning ahead and using his [ID ability](https://netrunnerdb.com/en/card/30019), this Tāo list tries to leverage the fact that [Gordian Blade](https://netrunnerdb.com/en/card/31033) retains it&#039;s strength after being boosted by swapping pieces of ice so they stack in your favor. We also run [Botuli](https://netrunnerdb.com/en/card/30004) to cheaply deal with most ice in the early game while trying to draw into our breakers. [Test Run](https://netrunnerdb.com/en/card/31028) let&#039;s us find these breakers more easily and can even recover old Botuli from the heap. At first, [Smartware Distributor](https://netrunnerdb.com/en/card/30033) may seem like a weird inclusion, but the plan is to either install it early where we can benefit from it the longest or to install it later clicklessly using [Pantograph](https://netrunnerdb.com/en/card/30023), and if you find you don&#039;t have the clicks to stack the credits on them or need a burst of money, you can sell them in [Aesop&#039;s Pawnshop](https://netrunnerdb.com/en/card/31035) for 3 creds. Since you only have a deck size of 40 cards, I think you can get away with enitrely running on [Professional Contacts](https://netrunnerdb.com/en/card/31036) and cutting [Earthrise Hotel](https://netrunnerdb.com/en/card/31039), which in turn means that you might want to consider holding on to that Professional Contacts in the opening hand.]]></notes>
+</deck>

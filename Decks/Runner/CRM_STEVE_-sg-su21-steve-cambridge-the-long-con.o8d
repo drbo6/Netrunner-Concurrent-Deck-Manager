@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31014">Steve Cambridge: Master Grifter</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30011">Mutual Favor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30012">Tread Lightly</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30014">Pennyshaver</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30015">Carmen</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30016">Marjanah</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30017">Tranquilizer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30018">Red Team</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30031">T400 Memory Diamond</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30034">Verbal Plasticity</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31003">En Passant</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31012">Xanadu</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31016">Emergency Shutdown</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31017">Forged Activation Orders</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31018">Inside Job</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31023">Sneakdoor Beta</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31024">Security Testing</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[Similar to [my Reina list](https://netrunnerdb.com/en/decklist/65814/-sg-su21-reina-roja-fight-or-flight), this Steve deck seeks to deplete the corps&#039; resources by forcing them to either [rez it](https://netrunnerdb.com/en/card/31012) at a [premium](https://netrunnerdb.com/en/card/30012) or [trash it](https://netrunnerdb.com/en/card/31003). Unlike [Reina](https://netrunnerdb.com/en/card/31002), [Steve](https://netrunnerdb.com/en/card/31014) is not as effective at quickly depleting the corps&#039; credit pool, but better at actually dismantling their defenses by adding [Emergency Shutdown](https://netrunnerdb.com/en/card/31016) and [Forged Activation Orders](https://netrunnerdb.com/en/card/31017) into the mix and recovering all these events with his ID ability. Financially, Steve is also more efficient as he can keep slamming his head into centrals while making money off of it via [Red Team](https://netrunnerdb.com/en/card/30018) and [Security Testing](https://netrunnerdb.com/en/card/31024). Furthermore, Steve can also use [Tread Lightly](https://netrunnerdb.com/en/card/30012) more effectively in the early game, since he has [Inside Job](https://netrunnerdb.com/en/card/31018) at his disposal to more easily, get into scoring servers in the late game.]]></notes>
+</deck>

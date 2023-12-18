@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30035">Haas-Bioroid: Precision Design</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26032">Architect Deployment Test</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26035">Hagen</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26097">Project Vacheron</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26101">Drafter</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26102">Týr</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26119">Ganked!</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30037">Nico Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30038">Ansel 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31049">Corporate Troubleshooter</card>
+  </section>
+  <notes><![CDATA[I mixed the standard PD Anoetic void deck togheter with my Týr Ganked idea. In my opinion the agenda Architect Deployement Test is very underrated. 
+The dream scenario in this deck is scoring this agenda early and putting a fully rezzed Týr down. 
+Corporate Troubleshooter is my solution to Light the Fire: when the runner install a LtF you immediately use CT to pump up a strong rezzed ice and score an agenda before they run with it (you can&#039;t use it during a run with LtF). 
+I think I explained all the special tech in this deck. Leave a comment if you have questions!]]></notes>
+</deck>

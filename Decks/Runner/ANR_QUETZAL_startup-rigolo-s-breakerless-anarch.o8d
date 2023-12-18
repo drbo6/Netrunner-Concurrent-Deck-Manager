@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31001">Quetzal: Free Spirit</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26007">Fencer Fueno</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26029">Rejig</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26070">Keiko</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26072">Mystic Maemi</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30002">Wildcat Strike</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30024">Conduit</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30032">Mayfly</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31004">Retrieval Run</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31010">Liberated Account</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31012">Xanadu</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31022">Femme Fatale</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31028">Test Run</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[A deck by Io, shifted into Quetzal by me. Main icebreaker plan is to cheat out femmes using test run - rejig, or retrieval run. Backup plan is mayfly and botulus. You can also test run to get your conduit. You can attack hq with jailbreak and imp]]></notes>
+</deck>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31026">Rielle &quot;Kit&quot; Peddler: Transhuman</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26021">Khusyuk</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26024">Gauss</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26025">Pelangi</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26073">Paladin Poemu</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26083">Harmony AR Therapy</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26084">Aniccam</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30015">Carmen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30026">Unity</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30027">Telework Contract</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30032">Mayfly</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[Always wanted to use Kit as a runner.
+
+Back in the day I was intrigued by the [Stealth version of Kit](https://netrunnerdb.com/en/decklist/35094/seamus-stealth-kit-1st-place-scottish-regionals-)  in the pre-Smoke era.
+
+
+I tried (and failed) to build a stealth startup kit, and then thought: &quot;what if the 3x [Mantle](/en/card/26088) would be useful even when [you are not running](/en/card/26026)? I&#039;ll be happily to [cover the 1 with a little discount](/en/card/30022).
+
+Turns out, 3x [Rezeki](/en/card/26026) are GOOD
+
+For the win-con I tried [Conduit](/en/card/30024) but in startup [everybody](/en/card/30035) and [their grandma](/en/card/30043) and/or [their grandpa](/en/card/30051) are using [Cyberdex Sandbox](/en/card/26128)
+
+And then looked at the deck &quot;oh! [There](/en/card/30022) [are](/en/card/30013) [a lot](/en/card/26024) [of 2 cost](/en/card/02003) [cards](/en/card/26026)!
+Let&#039;s go for [Khusyuk](/en/card/26021) in 3x! No, let&#039;s do one better, [4x](/en/card/26083)!
+
+
+
+Kit should, in theory, offer quite a good pressure early with [just one breaker](/en/card/30026). 
+Yes, this is a startup deck that SHOULD offer good early pressure without [Boomerang](/en/card/26075) and/or [Botulus](/en/card/30004).
+
+Still tends to lose the first agenda (and/or the second agenda if you contested the first), but the endgame is AT LEAST 4-5 points with [Khusyuk](/en/card/26021)
+
+
+What to keep in the first turn? Quite straight forward,,
+
+- Fast Money ([Sure Gamble](/en/card/30030), [Dirty Laundry](/en/card/31037), [Telework Contract](/en/card/30027), [Creative Commission](/en/card/30020)) or fast card draw ([Diesel](/en/card/31027))
+- Discount-on-a-stick ([DZMZ Optimizer](/en/card/30022), [Paladin Poemu](/en/card/26073))
+
+
+- Against faster corp good to have a [SMC](/en/card/26090) and/or [Unity](/en/card/30026)
+- Against slower corps [Slow Money](/en/card/26094) and or [Slow card draw](/en/card/31039) but only with fast money
+
+[Paladin Poemu](/en/card/26073) is the 4th [DZMZ Optimizer](/en/card/30022) and discount for other resources
+[Imp](/en/card/02003) + [Simulchip](/en/card/26085) is the silver bullet against asset spam (but you can mainly ignore the remotes and focus on centrals)
+
+Why 46 cards? because it&#039;s always hard to cut something (and almost all my decks has the 46th / 41th cards)
+
+
+-------------------------------------------------
+
+Flexible slots:
+
+- You can go -1 [Paladin Poemu](/en/card/26073) and +1 imported good Fracter (maily [Corroder](/en/card/31006))  (+ 1 spare inf)
+- I&#039;m always back-and forth between 3 [SMC](/en/card/26090) and 2 [Simulchip](/en/card/26085) and 2 [SMC](/en/card/26090) and 3 [Simulchip](/en/card/26085) ; with 3 SMC you would have another [Gauss](/en/card/26024) refresh but you would lose the 7th breaker (or the 5th [Unity](/en/card/30026) if you will)
+- If you want to be more aggressive early you can go -1 [Paladin Poemu](/en/card/26073) and -1 [Docklands Pass](/en/card/30013) and 2x [Boomerang](/en/card/26075) (again, + 1 spare inf)]]></notes>
+</deck>

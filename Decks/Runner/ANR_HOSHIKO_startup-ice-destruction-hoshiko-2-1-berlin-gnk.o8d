@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26066">Hoshiko Shiro: Untold Protagonist</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26003">Chisel</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26004">Stargate</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26068">Devil Charm</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26070">Keiko</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26073">Paladin Poemu</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26095">DreamNet</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30007">Fermenter</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30009">Cookbook</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30025">Echelon</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31010">Liberated Account</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[This deck is just synergies.
+
+[Chisel](/en/card/26003) + [Devil Charm](/en/card/26068) for big ice, high base strenght breakers + [Leech](/en/card/30008) for small ice.
+
+If we play Chisel and Leech, Cookbook is nice, and if Cookbook is in, Fermenter and Imp are as well. 
+
+The rest is just nice economy.
+
+The trick with this deck is to trash all the [Spin Doctors](/en/card/30053) with [Stargate](/en/card/26004) from RnD :P
+(If you&#039;re set up early enough that&#039;s acutally possible.)
+####Changes
+1-of breakers felt rough at times. Finding room for one [Botulus](/en/card/30004) is worth the effort. Some other HQ pressure then [Imp](/en/card/31007) would ben ice. Maybe cutting [Dirty Laundries](/en/card/31037) for [Face Kicks](/en/card/30028) or Echolon to [Mimic](/en/card/31008) with a Career Fair for a [Docklands Pass](/en/card/30013).
+
+Much thanks to everybody for showing up and 5N00P1 for organizing the event :)]]></notes>
+</deck>

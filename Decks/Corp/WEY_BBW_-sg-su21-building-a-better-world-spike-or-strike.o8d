@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31070">Weyland Consortium: Building a Better World</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30049">Neurospike</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30060">Above the Law</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30062">Ballista</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30063">Pharos</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30066">Malapert Data Vault</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30074">Whitespace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31071">Hostile Takeover</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31072">Oaktown Renovation</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31074">Corporate Town</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31075">Archer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31078">Punitive Counterstrike</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31079">Crisium Grid</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31080">PAD Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31081">Enigma</card>
+  </section>
+  <notes><![CDATA[This deck also aims to build a large and taxing server, but not necessarily to score: The plan is to have the Runner burn all their money to steal a [Send a Message](https://netrunnerdb.com/en/card/30069), and then put two (or six?) bullets in their head with two [Punitive Counterstrike](https://netrunnerdb.com/en/card/31078)s. If they don&#039;t do that, the alternative is to score it yourself and then double [Neurospike](https://netrunnerdb.com/en/card/30049) them to death. To help with the latter, [Malapert Data Vault](https://netrunnerdb.com/en/card/30066) can fetch you the second [Neurospike](https://netrunnerdb.com/en/card/30049) if you have the other one in hand. To help amass the large sums of money to accomplish these things, we make use of our [ID ability](https://netrunnerdb.com/en/card/31070) and run three of each [zero-cost](https://netrunnerdb.com/en/card/30056), [old-but-improved](https://netrunnerdb.com/en/card/30075) and [rich people&#039;s](https://netrunnerdb.com/en/card/30064) Hedge Fund, while [Archer](https://netrunnerdb.com/en/card/31075), [Corporate Town](https://netrunnerdb.com/en/card/31074) and [Crisium Grid](https://netrunnerdb.com/en/card/31079) seek to keep the Runner stripped out of resources.]]></notes>
+</deck>

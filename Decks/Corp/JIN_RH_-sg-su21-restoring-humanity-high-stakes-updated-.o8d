@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30043">Jinteki: Restoring Humanity</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30044">Longevity Serum</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30045">Urtica Cipher</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30046">Diviner</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30047">Karunā</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30061">Clearinghouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31043">Eli 1.0</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31051">House of Knives</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31052">Nisei MK II</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31058">Trick of Light</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+  </section>
+  <notes><![CDATA[(This is a tweaked version of [this list](https://netrunnerdb.com/en/decklist/65752/-sg-su21-restoring-humanity-high-stakes-old-#).)
+
+This deck is a variation of [CritHitd20](https://netrunnerdb.com/en/profile/6737/CritHitd20)&#039;s [SG-only Jinteki deck](https://netrunnerdb.com/en/decklist/64586/advanced-yomi-sg-only-). I&#039;ve added [Trick of Light](https://netrunnerdb.com/en/card/31058) to make use of advancement counters sitting on an [Urtica Cipher](https://netrunnerdb.com/en/card/30045) or even a [Clearinghouse](https://netrunnerdb.com/en/card/30061) to fast advance a [Nisei MK II](https://netrunnerdb.com/en/card/31052) and secure said Clearinghouse. There are also two [Subliminal Messaging](https://netrunnerdb.com/en/card/31082) for the purpose of being discarded to trigger the ID ability and to further goad the Runner into wasting clicks into Archives.
+
+Since you usually want to flatline the Runner in one big sweep (either by them running into a trap or you clearing them out), it may be an idea to run one [Superconducting Hub](https://netrunnerdb.com/en/card/30070) instead of [House of Knives](https://netrunnerdb.com/en/card/31051) to make stealing from HQ harder.]]></notes>
+</deck>

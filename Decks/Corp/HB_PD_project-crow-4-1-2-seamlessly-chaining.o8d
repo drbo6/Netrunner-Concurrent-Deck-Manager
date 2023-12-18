@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30035">Haas-Bioroid: Precision Design</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26035">Hagen</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26059">Sandstone</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26097">Project Vacheron</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26101">Drafter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda27005">La Costa Grid</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30038">Ansel 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31081">Enigma</card>
+  </section>
+  <notes><![CDATA[# Project CROW 4.1
+This deck is part of the fourth iteration of the Project CROW mini-campaign for beginners familiar with System Gateway. It consists of three Runner and three Corp decks, that are upgraded up over three steps. They start with only cards from System Gateway, then visit the Startup format to end up with currently competitively viable decks in the Standard format that have placed well in tournaments. (See [here](https://nisei.net/players/supported-formats/) for further information on the tournament formats Startup and Standard)
+
+Other matchups will follow as the Standard meta develops and interesting decks appear!
+
+# Description
+We&#039;ve sped up even more. With [Cyberdex Sandbox](/en/card/26128), all of our 2-pointer agendas are now tempo-positive. Sandbox additionally helps you deal with the flood of virusses that the chosen Runner for this matchup will be bringing.
+
+Furthermore, you now have [La Costa Grid](/en/card/26112) to help you chain agendas even faster. With it, it&#039;s possible to score an agenda with [Seamless Launch](/en/card/30040) and then jam the second one right after.
+
+Your ice suite has gotten some strong additions with [Hagen](/en/card/26035) trashing their virusses and [Drafter](/en/card/26101) giving you powerful recursion and tempo options.
+
+And finally you have [Magnet](/en/card/31044), which can be amazing if rezzed at the right moment to pull their Botulus and disable it.
+
+# Overview lists
+These list show you what cards to put in and out for every game transition: 
+[Corp overview](https://netrunnerdb.com/en/decklist/XXX) | [Runner overview](https://netrunnerdb.com/en/decklist/XXX)
+
+# Decklists
+
+## Seamless Rush vs Hivemind MaxX
+[Corp 1](https://netrunnerdb.com/en/decklist/65302) | [Runner 1](https://netrunnerdb.com/en/decklist/65298)
+
+[Corp 2](https://netrunnerdb.com/en/decklist/65303) | [Runner 2](https://netrunnerdb.com/en/decklist/65299)
+
+[Corp 3](https://netrunnerdb.com/en/decklist/65304) | [Runner 3](https://netrunnerdb.com/en/decklist/65301)]]></notes>
+</deck>

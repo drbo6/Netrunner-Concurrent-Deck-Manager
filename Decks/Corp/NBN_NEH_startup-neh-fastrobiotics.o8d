@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31060">Near-Earth Hub: Broadcast Center</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26037">Red Level Clearance</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26047">Remastered Edition</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26114">Bellona</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26116">Gold Farmer</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31048">Biotic Labor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31061">License Acquisition</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31062">Project Beale</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31063">Daily Business Show</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31065">Pop-up Window</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31067">Wraparound</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31069">SanSan City Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31080">PAD Campaign</card>
+  </section>
+  <notes><![CDATA[Fast advance - score agendas the turn you install them
+
+You can use two biotics or a biotic plus sansan to fast advance a remastered edition. The counter from this can then be used to fast advance other cards easily, or potentially get a beale up to three points
+
+License acquisition can bring back sansan if it&#039;s discarded or if the runner trashes it
+
+Red level clearance can install sansan without spending a click if you think it won&#039;t survive a turn on the board]]></notes>
+</deck>

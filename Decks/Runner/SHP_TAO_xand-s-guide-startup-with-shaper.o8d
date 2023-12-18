@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30019">Tāo Salonga: Telepresence Magician</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30015">Carmen</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30021">VRcation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30023">Pantograph</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30024">Conduit</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31005">Clot</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31006">Corroder</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31011">Scrubber</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31019">Legwork</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31033">Gordian Blade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+  </section>
+  <notes><![CDATA[WELCOME TO XAND&#039;S GUIDE
+========================
+
+Hello! My name is Xandorius. I&#039;ve published a series of decklists for newer players using Nisei&#039;s [Startup Format](https://nisei.net/blog/introducing-startup-format/ &quot;Startup&quot;). There is one decklist per faction, using the startup IDs. Each decklist will discuss some ideas about playing as and against the faction, an overview of a gameplan from early to late game, and a breakdown of why I chose each card in the list. These lists are meant to give players a place to get started and some things to think about as they continue on their Netrunner journey. Discussion and tweaking to your own playstyle/ideas is highly encouraged!
+
+You can find my other startup guides [here](https://netrunnerdb.com/en/decklists/find?faction=&amp;sort=popularity&amp;rotation_id=&amp;author=Xandorius&amp;title=Guide&amp;is_legal=&amp;mwl_code=&amp;packs%5B%5D=1&amp;packs%5B%5D=8&amp;packs%5B%5D=21&amp;packs%5B%5D=28&amp;packs%5B%5D=35&amp;packs%5B%5D=55&amp;packs%5B%5D=62&amp;packs%5B%5D=63&amp;packs%5B%5D=64&amp;packs%5B%5D=65&amp;packs%5B%5D=70&amp;packs%5B%5D=71&amp;packs%5B%5D=73&amp;packs%5B%5D=74&amp;packs%5B%5D=2&amp;packs%5B%5D=3&amp;packs%5B%5D=4&amp;packs%5B%5D=5&amp;packs%5B%5D=6&amp;packs%5B%5D=7&amp;packs%5B%5D=9&amp;packs%5B%5D=10&amp;packs%5B%5D=11&amp;packs%5B%5D=12&amp;packs%5B%5D=18&amp;packs%5B%5D=19&amp;packs%5B%5D=22&amp;packs%5B%5D=23&amp;packs%5B%5D=24&amp;packs%5B%5D=25&amp;packs%5B%5D=26&amp;packs%5B%5D=27&amp;packs%5B%5D=29&amp;packs%5B%5D=30&amp;packs%5B%5D=31&amp;packs%5B%5D=32&amp;packs%5B%5D=33&amp;packs%5B%5D=34&amp;packs%5B%5D=36&amp;packs%5B%5D=37&amp;packs%5B%5D=38&amp;packs%5B%5D=39&amp;packs%5B%5D=40&amp;packs%5B%5D=41&amp;packs%5B%5D=42&amp;packs%5B%5D=43&amp;packs%5B%5D=44&amp;packs%5B%5D=45&amp;packs%5B%5D=46&amp;packs%5B%5D=47&amp;packs%5B%5D=48&amp;packs%5B%5D=49&amp;packs%5B%5D=50&amp;packs%5B%5D=52&amp;packs%5B%5D=53&amp;packs%5B%5D=54&amp;packs%5B%5D=51&amp;packs%5B%5D=72&amp;packs%5B%5D=56&amp;packs%5B%5D=57&amp;packs%5B%5D=58&amp;packs%5B%5D=59&amp;packs%5B%5D=60&amp;packs%5B%5D=61&amp;packs%5B%5D=67&amp;packs%5B%5D=68&amp;packs%5B%5D=69 &quot;Xand&#039;s Guide&quot;)!
+
+BEAUTY IN THE PATTERNS - PLAYING AS A SHAPER
+
+The Shaper philosophy is found in their creative expression. Some Shapers love to build big inevitable rigs, some love to create beautiful combinations, and some love to chain it all together in some [Rube-Golderberg Machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine &quot;Rube&quot;). If you enjoy building up to an inevitable win, combining multiple different features to maximize your gameplan, or having the ability to have a solution on hand whenever you need it, then Shaper may be the faction for you. 
+
+YOU CAN&#039;T RUSH THE CREATIVE PROCESS - PLAYING AGAINST SHAPER
+
+Many Shaper plans require time to set up before they really begin to snowball. If you&#039;re a Corp facing a Shaper, one of your best tools is to go fast and force the Shaper to interact earlier than they want to. If they spend their money making early runs, they may run out of money to install all their toys. Or open themselves up to run punishment/damage. Be wary of their tools like [Simulchip](/en/card/26085) and [Self-modifying Code](/en/card/26090) which allow Shaper&#039;s to get tools immediately, and tricks like [Egret](/en/card/31032) or [Tāo Salonga: Telepresence Magician](/en/card/30019) can suddenly turn a well defended server into a walk in the park. If you want to beat a shaper, then go fast or blow up their studio.
+
+[CREATE A DAISY](https://www.youcandothecube.com/solve-it/3x3-solution &quot;Cube&quot;) - EARLY GAME WITH TAO
+
+Tao&#039;s ID ability rewards you for planning ahead, and creating easy servers to tackle when you swap ICE around. It doesn&#039;t necessarily benefit you super early, unlike other runners, but the effect is very powerful when you take advantage of it. In order to get ready for that advantage, you want to use your mulligan and early turns to set up your inevitability. Cards like [DZMZ Optimizer](/en/card/30022), [Pantograph](/en/card/30023), and [Rezeki](/en/card/26026) increase in value the earlier you play them, so seeing them early is best. [Diesel](/en/card/31027) and [VRcation](/en/card/30021) can help you find those pieces, or build your tempo back after you spent a turn installing your options. [Self-modifying Code](/en/card/26090) can give you the breaker you need at a moment&#039;s notice.
+
+A TOOL FOR ANY OCCASION - MIDGAME PRESSURE
+
+After you begun setting up, you want to start seeing your tools. Breaker&#039;s or multi-access can come out quickly with [Self-modifying Code](/en/card/26090), [Leech](/en/card/30008) can help reduce costs to break, and [Conduit](/en/card/30024) will start building R&amp;D pressure. Using Tao&#039;s ability to make R&amp;D as cheap to break as possible will amplify Conduit&#039;s ease of use. By swapping powerful ICE away from the remote, you can pressure there as well. If you&#039;re stealing everything out of R&amp;D, then the Corp will never see those agendas to score. [Simulchip](/en/card/26085) provides defense against lost programs and allow you to replay your tools.
+
+[Clot](/en/card/31005) can disrupt any corp that tries to score fast before you set up or tries to avoid using their remote. [Legwork](/en/card/31019) can let you sweep HQ for agendas that have added up while you were pressuring the remote. A well timed Clot or [Legwork](/en/card/31019) will win games. 
+
+FULL STEAM AHEAD - ENDGAME
+
+If you have everything set up, then you&#039;ll have 3 from [Rezeki](/en/card/26026), a discount from [Leech](/en/card/30008), multi-access off [Conduit](/en/card/30024), and breakers ready to go through a cheap server of your own design. At that point, pressure R&amp;D and the Remote, have [Clot](/en/card/31005) on standby for fast advance, and slowly watch the Corp&#039;s gameplan fizzle.
+
+YOUR ARTISTIC MEDIUM - CARD CHOICES
+
+Events - [Diesel](/en/card/31027) and [Sure Gamble](/en/card/30030) provide easy cards and money with no restrictions. [Creative Commission](/en/card/30020) and [VRcation](/en/card/30021) do the same thing, but with a bit more restriction as you ideally want to use them last click. [Dirty Laundry](/en/card/31037) pairs well with [Conduit](/en/card/30024) and [Legwork](/en/card/31019) can pull off a win from a Corp that waited too long to score.
+
+Hardware - [DZMZ Optimizer](/en/card/30022) makes all those programs cheaper to install and gives you the  to support them. [Simulchip](/en/card/26085) helps bring back [Clot](/en/card/31005) or defend against program trashing. [Pantograph](/en/card/30023) is money and there will frequently be a target to install in your hand.
+
+Programs - I&#039;ve already commented on the values of your support programs. [Gordian Blade](/en/card/31033) pairs well with Tao&#039;s ability, since you can set up a Code Gate only server to take full advantage of its boost effect. [Carmen](/en/card/30015) and [Corroder](/en/card/31006) are efficient in their own ways and benefit from strength reduction provided by [Leech](/en/card/30008).
+
+Resources - [Daily Casts](/en/card/26094) is another efficient source of money, and the [Scrubber](/en/card/31011) will help against Corps that are heavy on the assets.
+
+CHOOSING YOUR PALLETE - FINAL THOUGHTS
+
+Thank you for taking a look at the list! There are lots of tweaks and options you can swap in to fit your style and meta. [Egret](/en/card/31032) can combo with Tao&#039;s ability to make super cheap servers. [Atman](/en/card/31030) can utilize multiple [Leech](/en/card/30008) to make things hyper efficient. [Prognostic Q-Loop](/en/card/26077) or [Paule&#039;s Café](/en/card/26092) could speed up your installs. You could even consider [Chameleon](/en/card/31031) with [Cybertrooper Talut](/en/card/27003) installing for free with [DZMZ Optimizer](/en/card/30022). Regardless of which way you go, you&#039;ll be able to create a beautiful landscape in digital space with all the tools that Shaper can give you.
+
+Take care and see you on the Net!
+
+
+![Xandorius](https://i.imgur.com/ZKvjlE3.jpg?1 &quot;Icon&quot;) -Xandorius]]></notes>
+</deck>

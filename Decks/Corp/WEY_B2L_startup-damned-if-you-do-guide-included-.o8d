@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30059">Weyland Consortium: Built to Last</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26054">Increased Drop Rates</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26055">Divested Trust</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26056">SDS Drone Deployment</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26057">Roughneck Repair Squad</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26099">Cerebral Overwriter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26109">Konjin</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26123">Akhet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26124">Colossus</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26125">Winchester</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30057">Public Trail</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30061">Clearinghouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30070">Superconducting Hub</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31071">Hostile Takeover</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31073">Project Atlas</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31075">Archer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31078">Punitive Counterstrike</card>
+  </section>
+  <notes><![CDATA[Are you ready to get your hands dirty?
+-------------------------------------------
+
+I love bad publicity. I want to be the deadliest corporation this side of the planet. Ever wonder why so many offices had to move [offworld](/en/card/30067)? It&#039;s &#039;cause there&#039;s only room for one big bad, and it&#039;s [Weyland](/en/card/31070). I like to give runners choices - [run and die](/en/card/31078), or don&#039;t run, and [die](/en/card/30061). After playing dozens of [GameNET](/en/card/26113) [Gold Farmer](/en/card/26116) value runner, I snapped. I wasn&#039;t content with [Skunk](/en/card/30042)[voids](/en/card/30050) any more. I needed the exhilaration that [The Outfit ](/en/card/22050)used to give me. I want turns so [evil](/en/card/26099) that I make myself cringe and apologize profusely to my opponent. I needed to murder. Some. Runners.
+
+**And I did.**
+
+Damned If You Do, Damned If You Don&#039;t
+=====================================
+
+Early on in the Startup format, I saw a common sentiment that rigshooter was a viable strategy. With the absence of [bin breakers](/en/card/11024), the threat of getting locked out of servers was once again real. So I pivoted to my old love - NBN. Yet my R+ [tagstorm](/en/card/30054) rigshoot deck just wasn&#039;t cutting it. I&#039;ve seen a decline of [Public Trail](/en/card/30057) and [Retribution](/en/card/30065) combos since Startup was first launched - it&#039;s pricey, preventable, and honestly Retribution is a dead card if you have no way of landing tags AND making them stick.  And then it hit me; why spend all my time chasing after the runner, when the runner can chase after me instead?
+
+The backbone of this deck is the interaction between [SDS Drone Deployment](/en/card/26056) and [Divested Trust](/en/card/26055). What&#039;s better than forcing the runner to trash one of their own programs? Making them do it twice. And since they&#039;ve stolen the agenda (disregarding that I&#039;ve kindly taken it back afterwards), they&#039;re a prime target for a [gun to the face](/en/card/31078). With an 80% win rate on jnet, I feel pretty confident I&#039;ve stumbled onto something great.
+
+---
+
+Game Plan
+--------------------
+* Make a remote with [Akhet](/en/card/26123) or [Archer](/en/card/31075) ASAP. Get a Divested Trust behind it and score.
+* Score out [Hostile Takeovers](/en/card/31071) **immediately**. You *need* the money and agendas to feed to [Archer](/en/card/31075).
+* Get rich [any](/en/card/30071) [way](/en/card/30064) [you](/en/card/31071) [can](/en/card/26057). You need credits to bully the runner and keep the [Punitive](/en/card/31078) threat real.
+* Leverage your money with [Public Trail](/en/card/30057) to trash their econ to set them back early.
+* Ice centrals lightly - [Engram Flush](/en/card/26108), a single [Winchester](/en/card/26125), and extra [Akhets](/en/card/26123) are good choices.
+* Build a nasty remote with [some](/en/card/31075) [mean](/en/card/26124) [ice](/en/card/26123). [Bait](/en/card/26099) fast runners and [punish](/en/card/30061) slow ones.
+* Kill time
+	1. Early game - Rush out [Clearinghouse](/en/card/30061) behind some ICE the runner just can&#039;t get into.
+	2. Mid game - [Dare](/en/card/26055) them to steal your [Drones](/en/card/26056). Break their rig if they don&#039;t, and [shoot](/en/card/31078) them if they do.
+	3. Late game - With forced Divested SDS runs, you have the economy and the capability to drag runners through your server as many times as you need to keep them poor. In my experience, they&#039;ll always deck out and go broke before you do, making that [last bullet](/en/card/31078) inevitable.
+
+Agendas
+------------------
+[SDS Drones](/en/card/26056) paired with [Divested Trust](/en/card/26055) are the backbone of this deck. SDS has an advantage early game in that they can&#039;t be stolen if the runner doesn&#039;t have any programs installed yet. If your opening hand is good, aside from the SDS (which is largely a dead card to you), keep it. A Divested or Hostile Takeover needs to be scored as soon as possible – even one Divested Trust will create a healthy buffer between victory and defeat, and Hostile Takeover turns on Archer shenanigans. 
+
+Always always save your Divesteds for SDS steals – keeping SDS for later to enable Punitive Counterstrike is absolutely vital, and gives you more windows for that Puni win condition.
+
+[Project Atlas](/en/card/31073) and [Superconducting Hub](/en/card/30070) are there to pose a real threat of scoring out to win, as well as being more potential sacrifices to the Archer gods. Either of these can be swapped out, if you have another preference. [Send a Message](/en/card/30069) could also do well with the big ice, Punitives, and Divested Trusts, but I personally like to keep runners under a constant threat of me scoring out on NA agendas if they choose not to engage.
+
+Ice Suite
+------------------------
+Akhet does a lot of work in this deck. Cheap gearcheck, scales well into late game. You want to see one in your opening hand. In a perfect world, an Engram Flush would also go on HQ – pick programs when they facecheck it; the less programs they have, the harder it&#039;s going to be for them to pay the Drone tax down the line. Engram Flush and Winchester are your only real options for centrals, unless R&amp;D is getting dug into hard with [Conduit](/en/card/30024) or [Stargate](/en/card/26004). We don&#039;t care about centrals too much, since none of our assets are must-have combo pieces, and an SDS can be recouped with a juicy Divested Trust you scored earlier (you did score one, didn&#039;t you?)
+
+You need lots of money to stay ahead of the runner for Punis and building your death remote, so don&#039;t rez Colossus unless the facecheck is particularly brutal or you really have the cash to burn. Colossus buys into our rigshoot plan, as well as generates a bit of money from our ID and gives us a way to funnel our money into our death remote if we&#039;re really pulling ahead.
+
+[Konjin](/en/card/26109) is a weird pick, but forcing a runner to slam into Archer or a beefy Colossus (regardless of what their breakers have to say about it) is really funny to me. This is a flex slot that can almost definitely be used for something better, but I have a personal duty to put at least one [barely](/en/card/11077)-[justified](/en/card/11075) [never](/en/card/21074)-[played](/en/card/09017), [off](https://netrunnerdb.com/en/card/26102)-[meta](/en/card/26119) [jank](/en/card/21120) card in every deck I create.
+
+Bad Pub
+----------------------
+Since we want the runner to go broke, having too much [bad pub](/en/card/31071) can be damaging to our game plan. Two tech cards solve this. [Roughneck Repair Squad](/en/card/26057) comes to the rescue, letting us click our turn away for 6c and erasing that bad pub. It also makes a great looming threat for the runner if all that stands between them and a [gun in their face](/en/card/31078) is a handful of creds. Runners who make 6c a turn will likely be burning through cards – but you won&#039;t be.
+
+[Increased Drop Rates](/en/card/26054) is the unsung hero here. It requires no effort on your part – just throw it in your deck and pretend like it&#039;s not there. Runners who take the tag and then trash it might see it again as archives poison, letting you throw your SDS in archives with an added sting. You don&#039;t need to install it, unless it&#039;s for a bluff, since access from anywhere will trigger it. Let the runner stub their toe on this annoying card and give up all those juicy bad pub creds for free.
+
+The Deadly 50/50
+---------------------------
+[Clearinghouse](/en/card/30061) and [Urtica Cipher](/en/card/30045) are a great 50/50, but runners know that the best way to deal with it is to run the possible Cipher early and tank the hit – they can&#039;t afford a game-ending Clearinghouse. Make that decision hurt with a two-advanced [Cerebral Overwriter](/en/card/26099) instead. Do you have an advanced [Akhet](/en/card/26123) above it? Slap a third advancement on it before the runner hits it. Placing advancement counters on a card the runner is about to access will make them think twice, but they&#039;ll go for it anyway 90% of the time. Runners are greedy; make them pay for it. With a hand size of two cards, some runners will simply forfeit if they see you&#039;re on Puni and 5/3 agendas. They don&#039;t run Cerebral Overwriter right away? That&#039;s okay, pump it up to 6 and look them dead in the eyes. Pretend it&#039;s a Clearinghouse. Is it? It might be. Can they afford to be wrong?
+
+Although Clearinghouse and Overwriter have done tremendous work in this deck consistently, you don&#039;t want to draw them early. The real threat comes from making the runner pay through your death server multiple times, so your best bet is seeing them mid-late game to force the runner to run and apply some pressure. These two cards are also your prime targets to [Spin Doctor](/en/card/30053) back if you happen to lose them early.
+
+The Kill
+------------------------------
+The killer combo: you IAA [SDS Drone Deployment](/en/card/26056), forcing the runner to go through your very taxing remote. They steal the Drones, and you take it back with [Divested Trust](/en/card/26055), gaining 5 credits, and leaving them poor from their run. Next turn, 2x [Punitive Counterstrike](/en/card/31078) with your credit lead. If you can&#039;t quite out-money them, [Public Trail](/en/card/30057) does an excellent job of keeping them way down, as they choose between death or allowing you to trash their needed resources.
+
+Other win conditions include keeping a slow-cooking Clearinghouse to get a sneaky kill off your one or two point agendas, or straight up killing by forcing a run on a pumped up Cerebral Overwriter. 
+
+Rigshooting is always a threat, and a possible win condition, but it can usually be played around, often only delaying the runner. Don&#039;t rely on it to win outright, but it will be a hassle for the runner.
+
+This deck is capable of scoring out too, but doing so will often drain your credits out of Puni range, so be careful with this approach. SDS Drones are excellent for baiting runs and will likely end up stolen, but if they don&#039;t bite, being able to trash a key breaker of your choice might win you the game anyway.
+
+Matchups
+------------------------
+This deck does fantastic against Criminals, who have less recursion and are more greedy to get into servers with tricks like [Boomerang](/en/card/26075) and [Inside Job](/en/card/31018). Anticipate them, and make sure they land straight into a Cerebral Overwriter when it looks like a juicy jammy agenda.
+
+This deck has a bit of a harder time against Shapers; excellent recursion and abilities like Tao&#039;s and Kit&#039;s can really mess up our plan. However, Shapers are typically slow to build up their economy, so exploit that to try and rush out a Clearinghouse before they can respond, or try to score out an SDS to trash a key part of their rig and keep yourself on game point, forcing them to run everything you throw down. An [Atman](/en/card/31030) 5 will ruin your day as well, with Engram and Akhet both falling prey, and Archer going down easy with the help of [Leech](/en/card/30008) tokens, so trash it if at all possible.]]></notes>
+</deck>

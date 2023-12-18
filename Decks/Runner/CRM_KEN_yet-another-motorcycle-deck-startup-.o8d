@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31013">Ken &quot;Express&quot; Tenma: Disappeared Clone</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26007">Fencer Fueno</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26012">Blueberry!™ Diesel</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26016">Bukhgalter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26074">Bravado</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda27002">Swift</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30011">Mutual Favor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30012">Tread Lightly</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31009">Ice Carver</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31011">Scrubber</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31018">Inside Job</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31019">Legwork</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31038">Prepaid VoicePAD</card>
+  </section>
+  <notes><![CDATA[There as been many iterations on the idea. Thanks to [HolyMackerel](https://netrunnerdb.com/en/decklist/bee9a34d-ba5a-4824-925e-0d2e0ced0027/card-games-on-motorcycles-startup-80-winrate-on-jnet-), [#endgame](https://netrunnerdb.com/en/decklist/a3a872c3-b283-4e90-8238-2757275b2f18/-startup-yet-another-motorcycle-ken-3-0-at-vault-games-), [VizirDaud](https://netrunnerdb.com/en/decklist/e5280773-1697-488e-bbc9-e4d22d2b1ac7/-startup-run-tenma-run-via-holymackerel-and-diogene-), [beatsmd](https://netrunnerdb.com/en/decklist/147e40e2-c83d-4e79-987c-cc37eea88fb3/amazing-motorcycle-by-diogene) and many other who discussed the idea.
+
+First, the mulligan plan : have a rezeki or at least one card that gives you credits.
+
+This iteration, in the startup format, is to have impactful runs. There is not many things to install on the board, but you&#039;ll have many tools to run.
+
+Here are the key changes :  
+
+1. [Buzzsaw](/en/card/30005) and [Cleaver](/en/card/30006) are amazing in startup, allowing to make runs for cheap. Especially if helped by [Ice Carver](/en/card/31009).
+
+2. I was struggling for credits all too often, this is why I finally conceded and had to put [Sure Gamble](/en/card/30030) in the deck.
+
+3. The deck was weak to asset spam. [Fencer Fueno](/en/card/26007) and [Scrubber](/en/card/31011) are there to resolve that. [Fencer Fueno](/en/card/26007) will also help with [Ganked!](/en/card/26119) and [Bellona](/en/card/26114).
+
+4. [The Class Act](/en/card/26018) is amazing, but still expensive. [Blueberry!™ Diesel](/en/card/26012) gave me better and more immediate results.
+
+5. This is a preference : [Tread Lightly](/en/card/30012) could be replaced by [Always Have a Backup Plan](/en/card/26011). I think there are more impact with [Tread Lightly](/en/card/30012).
+
+6. [Dirty Laundry](/en/card/31037) could be replaced by [Overclock](/en/card/30029). But I prefered to have credits that could serve for something else.
+
+7. I&#039;ve abandonned the [Harmony AR Therapy](/en/card/26083), because it was too slow to have much impact and because I chose to have a double of all breakers, to prevent being locked out by [SDS Drone Deployment](/en/card/26056).
+
+This deck is very dynamic, it is very interactive and make you feel like you have a tool for any occasion.
+
+Enjoy!]]></notes>
+</deck>

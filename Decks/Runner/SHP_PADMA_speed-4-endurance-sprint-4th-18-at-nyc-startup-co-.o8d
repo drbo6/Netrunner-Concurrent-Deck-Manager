@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33021">Captain Padma Isbister: Intrepid Explorer</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26009">Trickster Taka</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26024">Gauss</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26073">Paladin Poemu</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30025">Echelon</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31034">Paricia</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33013">Pinhole Threading</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33022">Deep Dive</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33024">Rigging Up</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33025">Endurance</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33026">Hyperbaric</card>
+  </section>
+  <notes><![CDATA[At first glance, the deck&#039;s wincon may appear to be [Deep Dive](/en/card/33022), but no. The wincon is [Boat](en/card/33025).
+
+The gameplan? Draw for Boat. Install Boat. Win.
+
+I went 3-1 in Swiss (only losing to @skry&#039;s #1 deck), 0-2 in the cut (despite scoring a murder-free 6 points turn 1 versus @internet, thanks to whiffing the second Deep Dive a turn or two later, followed by an unexpected bypass of my remote camp via [Big Deal](/en/card/33038)).
+
+As you may guess from the @internet game, things get dire if you install the Boat and do not Win, especially if the Corp has Fast Advance options. The core gameplan (Boat) is solid but the deck (made the night before) is very unoptimized.
+
+Obvious tweaks include:
+
+* A Third Deep Dive, absolute must to keep the Boat Party Rockin for a bit longer
+* Drop the [Paladin Poemu](/en/card/26073) for better breakers, perhaps [Afterimage](/en/card/26079)
+* [Clot](/en/card/08001), which I debated including but, alas, didn&#039;t
+
+The Captain-powered indefinite [Earthrise Hotel](/en/card/31039) tab is nice, but hard to sustain and dropped once the Boat is installed. So another [Diesel](/en/card/31027) might be nice.
+
+[Paricia](/en/card/31034) is questionable but it will let you wreck [Near-Earth Hub: Broadcast Center](/en/card/31060) and assist in lots of other situations, so consider the meta.
+
+Congrats to @skry, and thanks to @kysra for TO&#039;ing!]]></notes>
+</deck>

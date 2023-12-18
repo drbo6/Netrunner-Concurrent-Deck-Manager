@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30059">Weyland Consortium: Built to Last</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26056">SDS Drone Deployment</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26057">Roughneck Repair Squad</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26123">Akhet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26124">Colossus</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda27005">La Costa Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30061">Clearinghouse</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30062">Ballista</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30063">Pharos</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30074">Whitespace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31047">Archived Memories</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31064">Reversed Accounts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31075">Archer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31077">Ice Wall</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31078">Punitive Counterstrike</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31081">Enigma</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

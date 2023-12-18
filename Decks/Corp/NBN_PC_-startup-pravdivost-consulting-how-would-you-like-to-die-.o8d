@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33048">Pravdivost Consulting: Political Solutions</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26114">Bellona</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26116">Gold Farmer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30045">Urtica Cipher</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30054">Funhouse</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30055">Ping</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30061">Clearinghouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30065">Retribution</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30068">Orbital Superiority</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31064">Reversed Accounts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31081">Enigma</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33050">Chekist Scion</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33051">Drago Ivanov</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33052">Ubiquitous Vig</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33053">Mestnichestvo</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33054">Vasilisa</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33055">Backroom Machinations</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33056">Vladisibirsk City Grid</card>
+  </section>
+  <notes><![CDATA[I was immediately interested in finding an exciting way to make this new [NBN ID](https://netrunnerdb.com/en/card/33048) work from the second it was previewed.
+
+I first tried this as a fast advance with [Trick of Light](https://netrunnerdb.com/en/card/31058) but it just wasn&#039;t consistent enough.
+
+I decided to go the kill route with [Clearing House](https://netrunnerdb.com/en/card/30061)  and [Urtica Cipher](https://netrunnerdb.com/en/card/30045) which both synergize well with Pravdivost&#039;s ability, [Vasilia](https://netrunnerdb.com/en/card/33054), and [Vladisibirsk City Grid](https://netrunnerdb.com/en/card/33056). Running these together is not a new idea, but encountering one instantly makes the runner nervous and may force them to run into or ignore the other. The agenda suite is influenced by that of the [Built to Last](https://netrunnerdb.com/en/card/30059) kill decks, keeping it as difficult as possible for the runner.
+
+The secondary strategy is tag punishment with 3x [Retribution](https://netrunnerdb.com/en/card/30065) and a 1x [Backroom Machinations](https://netrunnerdb.com/en/card/33055) in case you decide scoring out is going to work best and need to get over the hump. There are several cards that help tag up the runner, and even with no [BOOM!](https://netrunnerdb.com/en/card/11058) threat, the runner spends clicks and cash to clear themselves. And if they don&#039;t, trashing something like an 8 cost [Endurance](https://netrunnerdb.com/en/card/33025) feels pretty damn good!
+
+Overall, there is a ton of stuff to advance, so you seldom miss out on using the Pravdivost ability. This deck has been performing solidly on Jnet so far. There certainly is some tuning that can be done, but so far so deadly!]]></notes>
+</deck>

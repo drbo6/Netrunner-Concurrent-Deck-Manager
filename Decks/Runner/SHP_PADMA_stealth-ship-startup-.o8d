@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33021">Captain Padma Isbister: Intrepid Explorer</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26009">Trickster Taka</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26024">Gauss</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26079">Afterimage</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26088">Mantle</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26089">Penrose</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30027">Telework Contract</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33010">The Twinning</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33023">Into the Depths</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33025">Endurance</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33028">Daeg, First Net-Cat</card>
+  </section>
+  <notes><![CDATA[Publishing this because I feel confident enough that this is &quot;pretty good&quot; after some play testing!
+
+Turns out one of Padma&#039;s best abilities might just be drawing 2 every turn by powering [Earthrise Hotel](31039). The next best thing is turning them into [accesses](33010).
+
+Strengths &amp; Playlines
+-
+
+This engine takes a minute to set up but once it is boy is it full steam ahead! Try and save a [Mantle](26088) credit so you can charge up your [The Twinning](33010) on the Corp&#039;s turn. Once you do that you&#039;re basically able to access 3 cards on any HQ or R&amp;D run for the rest of the game (which generally leads to winning).
+
+The relative efficiency of the stealth suite and [Penrose](26089) + [Simulchip](26085) helps contest the remote early as you set up. If you get lucky you&#039;re wealthy enough to [BOAT UP](33025) early you can just contest whatever the hell you want. Once [The Twinning](33010) engine is set up you can start charging the [Endurance](33025) and forget about losing.
+
+[Daeg](33028) is a quiet MVP and can set you up or keep you going with whatever needs some charge at any given time.
+
+Weaknesses
+-
+The engine takes a minute to set up. You lack the instant contest that something like [Botulus](30004) or [Boomerang](26075) provides. You make up for it in inevitability but that doesn&#039;t help you if you lose fast. Try to contest as best you can with your early economy. Finding room for a [Jailbreak](30028) or two would probably go a long way; I haven&#039;t found it.
+
+[Telework Contract](30027)&#039;s click investment isn&#039;t ideal, but it&#039;s a decent chunk of money and comes when you need it. If better econ becomes available in future sets this is what gets dropped first.
+
+***EDIT:** Pretty sure -1x [Telework Contract](30027) +  1x [Jailbreak](30028) is the correct call. I&#039;ll leave it as an exercise for the reader to find the next cut for [Jailbreak](30028).*
+
+Tags are a real bummer, man. If tags become a real meta issue then I might suggest replacing the [Career Fairs](31015) with some [No Free Lunches](33020). Same money, just an extra click. When it&#039;s the difference between keeping your resources or not you&#039;ll be glad you have them. Not being as draw-order dependent is a neat fringe benefit.
+
+ ***EDIT:** I&#039;m testing out 2x [No Free Lunch](33020) and 1x [Wildcat Strike](30002) instead of the [Career Fairs](31015) and it feels real solid. Helped me avoid trashing my [Trickster Taka](26009) after stealing an agenda (smarter play would help but it&#039;s not nothing&#039;) and the Wildcat was excellent extra draw when I really needed it. 10/10 would recommend this change.*
+
+Last Thoughts
+-
+I&#039;ve seen other decks using other power counter cards to take advantage of the charge mechanic, but I really feel like they&#039;re not [improving](33027) [enough](33026) on [existing](26024) [cards](30026), or encourage you to include [bad](33029) [cards](33030) in your deck.
+
+I&#039;m a life-long Shaper player and I&#039;ve always liked stealth so I&#039;m jazzed to jam it into Startup. I generally like how this one&#039;s been able to deal with a variety of challenges. I&#039;m interested to see any feedback or suggestions anyone might have! Thanks for readin&#039;.]]></notes>
+</deck>

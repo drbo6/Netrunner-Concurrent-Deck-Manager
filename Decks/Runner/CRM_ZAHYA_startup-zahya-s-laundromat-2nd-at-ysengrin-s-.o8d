@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30010">Zahya Sadeghi: Versatile Smuggler</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26016">Bukhgalter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26018">The Class Act</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26074">Bravado</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26095">DreamNet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30011">Mutual Favor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30014">Pennyshaver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31009">Ice Carver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31019">Legwork</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31029">The Maker&#039;s Eye</card>
+  </section>
+  <notes><![CDATA[No [Dirty Laundry](/en/card/31037) in Zahya&#039;s house, she cleans up fast!
+
+Fairly standard (fairly startup?) Zahya deck with the Anarch breaker suite. Notably, I replaced [Dirty Laundry](/en/card/31037) in favor of more multiaccess. No [Sneakdoor Beta](/en/card/31023) or [Security Testing](/en/card/05048) since leaving Archives open is already a bad idea against all the successful run triggers.
+
+It might be better to replace [The Maker&#039;s Eye](/en/card/31029) with [Khusyuk](/en/card/26021) to take advantage of all the 3-cost installs, but I like the former&#039;s speed and synergy with the ID. I would also consider replacing [Mutual Favor](/en/card/30011) with an [Overclock](/en/card/30029) to have more money upfront against [Bellona](/en/card/26114) and [Manegarm Skunkworks](/en/card/30042).
+
+Finished 2-1 at Ysengrin&#039;s, only losing to Soaps the champion&#039;s [Weyland Consortium: Built to Last](/en/card/30059). Congrats!]]></notes>
+</deck>

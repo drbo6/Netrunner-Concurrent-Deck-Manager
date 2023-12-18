@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26031">MirrorMorph: Endless Iteration</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26034">Nanoetching Matrix</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26035">Hagen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26036">Fully Operational</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26037">Red Level Clearance</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26063">Vulnerability Audit</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26098">Bass CH1R180G4</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26101">Drafter</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26102">Týr</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda27004">Megaprix Qualifier</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31041">Project Vitruvius</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31048">Biotic Labor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+  </section>
+  <notes><![CDATA[This is an attempt to do fast/never advance out of MirrorMorph. Is this better than FANA out of [PD](/en/card/30035)? Most likely not. But I find this _way_ more fun to play. PD games seem to play out the same way every time, but this deck can play out in many different ways.
+
+There are a couple of advantages of MirrorMorph over PD
+**1.** You are rarely strapped for credits. You can usually click for two credits due to the ID ability and most of the times, you are clicking for 3 credits if a [Nanoetching Matrix](/en/card/26034) is on the board. 
+**2.** FA is cheaper. A [Biotic](/en/card/01059)/[Bass](/en/card/26098)  + install + advance gives you a bonus click, which can be a credit or two if Nano is on board. 
+
+The usual goal is to go a little horizontal. At least 2 servers, if not 3. So you can protect your Nanos a bit and your [Fully Operational](/en/card/26036) becomes, well, operational. Of course, always protect your R&amp;D - [Stargate](/en/card/26004) and [Conduit](/en/card/30024) are huge in Startup. Ideally you want to NA a [Vulnerability](/en/card/26063) soon. If so, feed the runner a [Megaprix](/en/card/26096). Then you should be able to find FA windows to score two out of the six 2-pointers.
+
+Good old [Snares!](/en/card/31054) are an important component of this deck. The usual downside of Snares is that they cost a [Hedge Fund](/en/card/30075) to fire. But money is not a big issue in this deck. Use them to protect your HQ. [Zahya](/en/card/30010) and her [Docklands](/en/card/30013) are very common in this format. But since you are playing cards from hand very fast, Snares build up in HQ and it&#039;s not uncommon to get a flatline of a runner who is prepared for only one Snare. 
+
+Suggestions for improvements are welcome.]]></notes>
+</deck>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26113">GameNET: Where Dreams are Real</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26048">Daily Quest</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26058">Afshar</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26114">Bellona</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26115">F2P</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26116">Gold Farmer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda27006">Digital Rights Management</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31065">Pop-up Window</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31068">Psychographics</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+  </section>
+  <notes><![CDATA[I found GameNet is a good choice for startup due to the amount of good in faction ice there is for NBN and in particular with this ID. Other corps felt a bit lacking in this department.
+
+Also GameNet has some extra inf to import some busted cards from other factions.
+
+Some tweaks can be made to this but the general shell feels very solid.
+I´d probably drop the psycho in a 2nd iteration.
+
+Still havent lost a game with this including the practice games.]]></notes>
+</deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30019">Tāo Salonga: Telepresence Magician</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26003">Chisel</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26021">Khusyuk</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26024">Gauss</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26068">Devil Charm</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30021">VRcation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30023">Pantograph</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30024">Conduit</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30025">Echelon</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30026">Unity</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30031">T400 Memory Diamond</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31029">The Maker&#039;s Eye</card>
+  </section>
+  <notes><![CDATA[This deck started as a way to handle Gold Farmer (which is still legal in Startup). What started as an experiment turned out to be a pretty well-rounded deck. This surely isn’t the best deck in the meta, but it’s a solid deck that gives you a respectable chance against any opponent. Tao’s ability prevents you from getting blown out or completely locked out of your game plan in almost every situation. Play aggressively and force rezzes so you can put their rezzed ice together where you won’t need to interact with it again. Or put their annoying ice on R&amp;D and then murder it, leaving their most important server unprotected. You should be able to close out by running R&amp;D with conduit a few times, hitting a khusyuk for the shuffle and then hitting it again with conduit. 
+
+The flex slots are khusyuk #2, Maker’s Eye, and the second T400. Possible includes are a second VRCation, a Harmony for some recursion, a second pantograph, or a jailbreak.]]></notes>
+</deck>

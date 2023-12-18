@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30059">Weyland Consortium: Built to Last</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30060">Above the Law</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30062">Ballista</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30063">Pharos</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30066">Malapert Data Vault</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30070">Superconducting Hub</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31058">Trick of Light</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31069">SanSan City Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31071">Hostile Takeover</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31072">Oaktown Renovation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31073">Project Atlas</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31075">Archer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31076">Hortum</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31077">Ice Wall</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31080">PAD Campaign</card>
+  </section>
+  <notes><![CDATA[Why go &#039;never advance&#039; if you can just advance everything instead? This list aims to abuse its [ID ability](https://netrunnerdb.com/en/card/30059) by running as much advanceable ice as possible. This deck also borrows Jinteki&#039;s [Trick of Light](https://netrunnerdb.com/en/card/31058) to fast advance its 3/2&#039;s using the abundance of advancement tokens lying on the board. In this sense, [Oaktown Renovation](https://netrunnerdb.com/en/card/31072) becomes a &#039;worse&#039; [Regolith Mining License](https://netrunnerdb.com/en/card/30071) that threatens to be scored at any moment, and thanks to Built to Last&#039;s ability, you don&#039;t mind too much if one or two of these get stolen in the early game.]]></notes>
+</deck>

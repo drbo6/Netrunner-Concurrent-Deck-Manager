@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30051">NBN: Reality Plus</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26114">Bellona</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26116">Gold Farmer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30055">Ping</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30057">Public Trail</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30058">AMAZE Amusements</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30065">Retribution</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30068">Orbital Superiority</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31067">Wraparound</card>
+  </section>
+  <notes><![CDATA[The game plan is very simple:
+
+1. Protect the servers with barriers.
+2. Use the [Public Trail](/en/card/30057) + [Retribution](/en/card/30065) combo to trash runner&#039;s fracters and lock them out.
+3. Profit.
+
+Additional thoughts:
+
+- Most of the cards are 3x for a consistent gameplay.
+- This is a tagstorm deck, so if the runner goes for a &quot;tag me, I don&#039;t care&quot; approach, [Orbital Superiority](/en/card/30068) becomes a sweet winning condition.
+- If the runner keeps bringing their fracters back via recursion, you can shift the strategy to Glacier via [Tollbooth](/en/card/31066) + [Gold Farmer](/en/card/26116).
+- [Spin Doctor](/en/card/30053) can recharge R&amp;D with [Public Trail](/en/card/30057) + [Retribution](/en/card/30065) combos (or anything you&#039;re in short supply).
+- [Hansei Review](/en/card/30048) + [Spin Doctor](/en/card/30053) combo can fix flooded HQs.
+- [AMAZE Amusements](/en/card/30058) is for handling resilience against [Public Trail](/en/card/30057).
+- The 12 &quot;gain money&quot; operations + [NBN: Reality Plus](/en/card/30051) ability should give you a solid econ to afford the game plan.
+- [Snare!](/en/card/31054) is for punishing random accesses and setting up baits/distractions when your servers are not safe yet.]]></notes>
+</deck>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31040">Haas-Bioroid: Architects of Tomorrow</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30037">Nico Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30038">Ansel 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31041">Project Vitruvius</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31043">Eli 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31045">Ravana 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31046">Rototurret</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31047">Archived Memories</card>
+  </section>
+  <notes><![CDATA[An archetypical glacier-style deck that runs all of the available bioroids to make use of the discount, while abusing the infamous [Skunk](https://netrunnerdb.com/en/card/30042)[Void](https://netrunnerdb.com/en/card/30050) combo. The influence constraints forced me to cut one [Spin Doctor](https://netrunnerdb.com/en/card/30053) for one [Government Subsidy](https://netrunnerdb.com/en/card/30064) for more burst economy, so I added two [Archived Memories](https://netrunnerdb.com/en/card/31047) for more and faster recursion of [Seamless Launch](https://netrunnerdb.com/en/card/30040), while one [Sprint](https://netrunnerdb.com/en/card/30041) helps with agenda management.]]></notes>
+</deck>

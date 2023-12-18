@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33057">Ob Superheavy Logistics: Extract. Export. Excel.</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26056">SDS Drone Deployment</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26058">Afshar</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26059">Sandstone</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26065">Rime</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26098">Bass CH1R180G4</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26105">Tranquility Home Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26122">Wall to Wall</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26125">Winchester</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30060">Above the Law</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31071">Hostile Takeover</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31073">Project Atlas</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31076">Hortum</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31077">Ice Wall</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31079">Crisium Grid</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33047">Mavirus</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33058">Azef Protocol</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33059">Svyatogor Excavator</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33060">Envelopment</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33062">Stavka</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33063">Extract</card>
+  </section>
+  <notes><![CDATA[Edit:  I can&#039;t change the decklist but I have modified the deck with -1 Marilyn, -1 Rime, -1 Sandstone, -1 Bass, -1 Government Subsidy -1 SDS; +1 Magnet, +1 Winchester, +1 Manegarm, +1 Svyatogor, +1 Hostile and +1 Atlas.
+
+I was moved to make this decklist because by nature I&#039;m a slow, greedy player who doesn&#039;t get the full value out of the tempo slipping through my fingers.  That, and I&#039;m appalled by all the mind-numbing HB:PD FA decks out there that seem to just mindlessly recur a seamless launch and milk 4/2 value agendas.  This deck is nothing like that, there are tons of decision points and cute ways to make plays beyond just grinding value.
+
+This is a fast advance deck using OB for solid value plays as well as cool tricks that can massively swing the game if the runner isn&#039;t prepared.  I often score out around turn 11, which I like to think of as 3 turns to get your ice and economy figured out, and then 2 turns per agenda the rest of the game.  This deck won&#039;t win in a grind (unless you trash irreplaceable breakers), so don&#039;t be content to sit behind all iced servers and just collect wall to wall value every turn.
+
+We run a bunch of 3/2 agendas, which can be scored in two turns without tipping our hand with advancement counters on the install turn, or in one turn with Bass, more on that later.  Most of our 3/2s come with a solid tempo swing, so as long as we don&#039;t bankroll ourselves scoring one, we can keep the tempo going (Atlas is our weakest scoring agenda as it&#039;s basically a vanilla 3/2).  We also run two hostile takeover since they can be scored in one turn without help, and getting one of these helps us get to 7 points efficiently.  Finally, the 2 SDS 5/3s are just there to meet the point requirement, and should be a bit of a nuisance for the runner to steal.  Only score these out if you don&#039;t have any other good play, or feel so far ahead that you can safely install advance advance.
+
+A lot of the cards are 1-ofs because of the OB ability to grab them from the deck when we need them.  Bass is a 2-of because he&#039;s amazing but also 3 influence.  There are a few ways to play Bass.  One is to play it down behind protected server 1 and pretend it&#039;s an agenda.  If the runner runs it, hopefully you taxed them a bunch for this.  If they don&#039;t you can rez and click Bass next turn (installing a Marilyn in an empty server), and then fast advance an agenda.  You never leave agendas in the open this way.  The sneakier way to use Bass is to leave it in the deck and grab it with an OB trigger, either off Stavka on a late-turn run, or Svyatogor at our start of turn.  This way we can give the runner no opening, and all in 1 turn pull out bass into 3/2 agenda scoring.
+
+Now, you may be thinking, with all this fast advancing, aren&#039;t we super vulnerable to clot?  That&#039;s where Mavirus comes in.  We can grab this by sacrificing a 4-cost ICE, preferably a Stavka that has already fired and will never again trash programs.  There&#039;s also a super neat trick when rezzing stavka where you can grab Mavirus with your ID and then immediately trash it to purge viruses, which can be a game-winning play if the runner has a botulus on said Stavka and assumes it to be subdued.  Suddenly it&#039;s a deadly threat and is wiping their breakers.  If we need to Mavirus multiple times, this gets tricky but we can Spin Doctor it back into R&amp;D and then repeat.  This is made slightly easier by the fact that the OB ID can easily grab Spin Doctor from the deck, but try not to get bogged down in multiple turns spent just trying to put down an unruly clot.  I would rather just threaten to score out agendas over 2 turns, and try to grind down the runner&#039;s resources forcing runs on server 1 every turn (while also moving forward on our Mavirus plans).
+
+Crisium is great for preventing runs, and can be brought out mid-run via Stavka for a clutch prevention of Chastushka, Khusyuk, Into the Deep, or whatever.  Tranquility is great on our scoring server, as we can frequently cycle through agendas or even just Marilyns and Wall to Walls.
+
+These cards are also somewhat carefully selected to give a good range of costs, to allow for flexible use of your ID.  To list all the ways we can trigger it, there&#039;s Stavka&#039;s rez effect, Azef scoring effect, self-sacrifice cards like Mavirus (instant speed), Bass (click), Regolith (click), Marilyn (upkeep), Envelopment (run), there&#039;s Extract for crazy money value and targeted removal (need to ditch the Envelopment that has ticked down and is now a liability?), and Svyatogor for flexible clickless upkeep trigger (Bass combo) as well as generally good value.
+
+Finally, I&#039;ll talk about the ICE.  It runs a bit cheap (most expensive is Envelopment at 5), which may sound strange given OB&#039;s ID, but there are 3 reasons for this.  First, don&#039;t just trash because you can, look for good value plays, like swapping out an &quot;exhausted&quot; ICE such as Envelopment, Sandstone, or Stavka, or just removing a botulus&#039;d ICE.  There&#039;s little reason to trash a Colossus or Pharos.  This brings up point 2, which is that expensive ICE is too expensive and slow for our fast advance strategy.  Having to rez an early Pharos to give a minimal face-check penalty is terrible for us.  And finally, since you can only get one OB trigger per turn (try to get triggers on the runner&#039;s turn and your own!), so it&#039;s not like we run out of high-value trash options with the package shown here.
+
+OK, so that explains why no expensive ICE, but what do we have?  It&#039;s mostly end the run triggers, with a few nasty face checks built in (Stavka, Winchester).  I picked it to have a range of costs as well as types, and to mostly avoid advancement-reliant ICE (Akhet) since we don&#039;t want to slow down to advance ICE.  Afshar and Winchester want to go on HQ, and this gives us a 3 and 4 cost option for flexible OB ID triggers.  Stavka is the best card of the deck, instant 3-of.  Envelopment is a massive wall when rezzed, and we are happy to trash and replace it later (but it&#039;s a bit expensive for just an &quot;end the run&quot; so I don&#039;t like 3-of).  Hortum is a mediocre code gate (we are short on code gates) and also gives us flexible 4-cost options to search for that aren&#039;t Stavka, since we don&#039;t want to bring out Stavka on the ID and ruin the ambush potential.  Sandstone is a fine 3-cost barrier, and if it gets worn down we can trash it (I could see swapping 1 for an enigma).  There&#039;s nothing at 2-cost but that&#039;s OK, just bring out a Marilyn.  Ice wall gives us a 1-cost ICE for when Marilyn leaves, and I might consider getting another because of how useful a cheap and simple gear check can be for fast advancing.  Finally, Rime is a cute trick but I&#039;m not sure how good it is.  It loves to sit on tall servers, but is expensive to install there (for its marginal value).  OB ID fixes this by waving the install cost (and an ICE option on 0 cost is nice).  Furthermore, it is a fun combo with Stavka to slap Rime above the Stavka you just rezzed, making it 8 strength, potentially catching runners off guard if they mathed it to survive Stavka at 7.  Idk how common this is, and I would be open to swapping it for another Ice Wall, or perhaps an Engram Flush (good code gate ICE, 1 influence, fills the 2 cost gap, but doesn&#039;t like to be brought out with OB ID since you lose the surprise) and cutting a Marilyn.]]></notes>
+</deck>

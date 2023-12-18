@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31026">Rielle &quot;Kit&quot; Peddler: Transhuman</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30016">Marjanah</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30023">Pantograph</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30024">Conduit</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30027">Telework Contract</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31018">Inside Job</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31022">Femme Fatale</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31023">Sneakdoor Beta</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31028">Test Run</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31032">Egret</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31033">Gordian Blade</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31036">Professional Contacts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31038">Prepaid VoicePAD</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[By making the first piece of ice she encounters into a Code Gate, [Kit](https://netrunnerdb.com/en/card/31026) has an easier time getting into a server the first time she runs in a turn. Therefore, you ideally want to make runs until your ID triggers and then spend the rest of the turn preparing for the next run, so you will pobably want to run exactly once per turn. To make that run count, this deck borrows tricks from the Criminals in the form of [Inside Job](https://netrunnerdb.com/en/card/31018), [Docklands Pass](https://netrunnerdb.com/en/card/30013), and [Sneakdoor Beta](https://netrunnerdb.com/en/card/31023). If the corp reacts by putting up Code Gates as the outmost piece of ice, you can install some [Egret](https://netrunnerdb.com/en/card/31032)s on the inner ice so you can keep benefitting off of [Gordian Blade](https://netrunnerdb.com/en/card/31033)&#039;s retained strength, and in the late game, you can use [Test Run](https://netrunnerdb.com/en/card/31028) to search for and install a [Femme Fatale](https://netrunnerdb.com/en/card/31022) to deal with big, problematic ice. Note that this list runs a [Marjanah](https://netrunnerdb.com/en/card/30016) for the expressed purpose of countering [Wraparound](https://netrunnerdb.com/en/card/31067), which in turns counters Kit&#039;s ability.]]></notes>
+</deck>

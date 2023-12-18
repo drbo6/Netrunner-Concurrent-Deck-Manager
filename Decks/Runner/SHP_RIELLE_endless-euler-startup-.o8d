@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31026">Rielle &quot;Kit&quot; Peddler: Transhuman</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26025">Pelangi</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26087">Euler</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30027">Telework Contract</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31028">Test Run</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31029">The Maker&#039;s Eye</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31035">Aesop&#039;s Pawnshop</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31036">Professional Contacts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+  </section>
+  <notes><![CDATA[Sometimes you just have to ask yourself: &quot;What if I could fit my entire breaker suite onto [one card](/en/card/26087)?&quot; Startup seems like Kit&#039;s chance to shine, with a strong primary breaker, good supplements in case the corp stacks ice ([Boomerang](/en/card/26075), [Pelangi](/en/card/26025)), and low-influence HQ pressure ([Jailbreak](/en/card/30028)).  
+
+Strengths: 
+You can run very aggressively even with a minimal rig (or none).  When you install Euler, you can readily deal with most ice in the game. If you are running with a stale Euler (or nothing), you don&#039;t have much to lose.  If breaking ice is expensive, you can just let subroutines fire! What are they going to do, trash one of your 11 Eulers? The only high-investment card is [Professional Contacts](/en/card/31036), which does hurt if you lose it before it pays off.  Play careful, I guess! Also there&#039;s a huge amount of [Aesop&#039;s](/en/card/31035) fodder in this deck. [Daily Casts](/en/card/26094), [Telework Contract](/en/card/30027), stale [Eulers](/en/card/26087), and empty [Pelangis](/en/card/26025)/[Imp](/en/card/31007) are all excellent things to sell toe Aesop.  There&#039;s not as much to sell as the Haley decks had, so I&#039;m only running 2 Aesop&#039;s.  Finally, you have 6 multi-access events.  If the corp doesn&#039;t put at least 2 ice on R&amp;D, you can easily keep sweeping it for new cards.  
+
+Weaknesses: Some ice lines up poorly.  [Wraparound](/en/card/04096) is particularly mean for the rez cost, but a fully advanced [Pharos](/en/card/30063) demands that you use [Boomerang](/en/card/26075) to deal with it.  If the corp gets 2, you&#039;re going to have to give up on that server.  Finally, if the corp can afford to stack gearcheck ice that you can&#039;t ignore, you can&#039;t easily deal with more than 3 ice.  
+
+Play tips: [Test Run](/en/card/31028) is the tutor of choice, because not only does it fetch Euler to prevent rush strategies, but it lets you recur these one-time programs... twice! Try to get the most out of these cards by using it one turn, selling it to Aesop&#039;s, test running it for another turn, then drawing it to use the following turn.  Also, run aggressively, and try to get the corp to rez everything.  You have a lot of tools to paint/cheat ice, but it only works if you know what you know what to target with boomerang! Don&#039;t be afraid to let ice fire if it&#039;s cheaper, your rig is pretty impermanent. If you run into combo/kill decks, you have one [Imp](/en/card/31007).  Grab it and try to knock things out of HQ. 
+
+Mulligan advice: you have 2 goals early on: be ready to challenge the first scoring attempt, and get [ProCo](/en/card/31036) as soon as possible.  If a hand has a 1-card breaking solution ([Euler](/en/card/26087), [Boomerang](/en/card/26075)) and a lot of money, I&#039;d consider keeping it.  Otherwise, I&#039;d mulligan in hope of [ProCo](/en/card/31036). 
+
+Cards I&#039;ve tried (and cut)
+
+[Cybertrooper Talut](/en/card/26091): Euler is already very efficient.  Adding another card to this combo only achieves what you already have: &quot;very efficient&quot;.  This went from 2 copies, to 1 copy (&quot;in case I draw it&quot;), to 0 copies (&quot;I don&#039;t even draw it anyways&quot;) Money in the bank account is more versatile. 
+
+[Paule&#039;s Café](/en/card/26092): This does offer a genuine benefit that can&#039;t be replaced by mere credits: not having to commit your limited uses of Euler/Boomerang/Pelangi until you have to use them.  In earlier iterations, Cybertrooper Talut/Aesop&#039;s Pawnshop made the numbers look good an paper, but in practice, neither card came online very quickly.  Eventually (especially after cutting cybertrooper), it became clear that installing multiple cards as a prerequisite to installing Euler/Boomerang wasn&#039;t playing to the strength of the deck: being ready to interact after installing a single Euler. If you play aggressively to make ice rezzes happen, you will already know if you can get in to servers. 
+
+[Docklands Pass](/en/card/30013): Having ongoing HQ pressure is attractive, but influence is too tight to spend on a card you may never see.  This was cut for [Jailbreak](/en/card/30028).  It&#039;s cheaper, replaces itself, and can impersonate copies 4, 5, and 6 of [The Maker&#039;s Eye](/en/card/31029).
+
+[VRcation](/en/card/30021): This deck is often holding 3 or so tools in hand for when the time is right.  VRCation pretty much always results in you discarding economy.  [Professional Contacts](/en/card/31036) flows smoother for this deck, since the only card you NEED to have in order to interact is [Euler](/en/card/26087).  As long as you&#039;ve got one, you can accumulate resources to prepare for the next run. 
+
+[Leech](/en/card/30008): After I included [Imp](/en/card/31007) to tech against kill decks, I only had 1 influence left.  You&#039;re never going to fetch this with [Test Run](/en/card/31028), and it&#039;s not particularly critical.  I cut it for...
+
+Dubious choices/season to taste: 
+
+[Buzzsaw](/en/card/30005): If I want an ongoing, efficient way to walk over servers with just 1 ice (maybe an asset spam deck wants to defend R&amp;D with just 1 copy of [Enigma](/en/card/31081)), Buzzsaw seems like an option.  I have yet to play a game where I was happy to have buzzsaw, and you can probably think of something better to do with 1 influence (ideally tutorable with Test Run).]]></notes>
+</deck>

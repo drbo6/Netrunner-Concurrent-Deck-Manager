@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30043">Jinteki: Restoring Humanity</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26044">Saisentan</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26063">Vulnerability Audit</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda27005">La Costa Grid</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30074">Whitespace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+  </section>
+  <notes><![CDATA[This deck attempts to port the popular PD rush strategy to Jinteki: Restoring Humanity. My record is 28 wins / 38 games on jnet casuals.
+
+For background, first check out CableCarnage&#039;s rush PD deck: https://netrunnerdb.com/en/decklist/66168/startup-rush-pd-undefeated-lazy-worm
+
+There&#039;s also a very nice cast of a high-level game played with this deck:
+https://www.youtube.com/watch?v=r_RyJvGnnzs
+
+(Here&#039;s also an interesting variation using MirrorMorph: https://netrunnerdb.com/en/decklist/66615/-startup-4-click-pd-2nd-and-unbeaten-july-tourney-)
+
+---
+
+The main idea here is to use the same tempo-positive agendas, but run the strategy out of Jinteki.
+
+* Anoetic void costs more influence than Manegarm Skunkworks, so in that sense, it&#039;s easier to do this in Jinteki.
+* Vacheron is very nice, but Jinteki has no 3 pointers. We use Vulnerability Audit instead, which is easier to score out with anyways.
+* Instead of Seamless Launch recurred using Precision Design, we have La Costa Grid in faction. Runners very rarely trash this because it is costly to trash and you can just play another.
+
+What&#039;s wrong with HB ice? It generally isn&#039;t scary to facecheck as long as you have a click, so the criminals aren&#039;t afraid to get in your face. Later, once the anarchs have leech, ice carver, cleaver, they will break your Eli 1.0 for pennies (and many of your other ice too) 
+
+However, the runners have to respect Saisentan, and Snare, or they just get flatlined. This often gives you breathing room vs. criminals to score your first agenda and get the money machine rolling.
+
+Also, it is great to have Engram Flush in faction, it is an extremely taxing and effective ice in centrals, with great synergy for Snare.
+
+Pilot&#039;s guide:
+
+* Play Bran, Palisade, or Whitespace on the scoring remote, at least to begin. Play Saisentan, Engram Flush, Tithe, on centrals generally. Usually my first ice is HQ and second ice is scoring remote.
+* Try to keep enough money to rez your ice and trigger Snare. Snare may feel very expensive but it costs the runner a lot of clicks to recover from Snare, so you are buying time, and at a favorable price. Also it can be game winning for you if they lose important cards. For instance if a Shaper hits Snare and discards 2x Khusyuk, you are probably going to win.
+* Try to keep your ID triggering, but it&#039;s okay if you can&#039;t for a while. It&#039;s usually alright to put a cheap ice like Whitespace, Tithe, or Engram Flush on Archives, but also usually not necessary.
+* If you get flooded with agendas, the right way to deal with it is draw for spin doctor, then install and rez him, and discard appropriately. Then, keep him around until they run him or archives. It is usually good to have one agenda in hand, don&#039;t put them all back in R&amp;D.
+* If you draw Snare, usually you should keep it in hand. It happened several times in testing that the runner throws down Docklands Pass, plays Leg Work, hits two Snares and is flatlined.
+* If all the draws are near-perfect, you are hoping to score out by like turns 10-12, the last agenda being Vulnerability Audit. After turn 15, you need to recognize that your prospects are somewhat reduced.
+* You need to try to score right from the get-go, you can&#039;t wait until you have all the La Costa, Skunk Void pieces, Bran, etc. in place to start trying to score. It is completely reasonable to try to score out behind Whitespace at the beginning. The only piece you really need is La Costa, or it&#039;s going to be very obvious, and you need one piece of ice. If you don&#039;t draw La Costa then you have to hard advance eventually, but you should get at least one defensive upgrade in there.
+* If they breach the scoring remote, try to answer right back with either another La Costa and an Agenda, OR, another upgrade and a Snare. If they spend a bunch of money again and access the Snare, it can create an excellent scoring window. If they don&#039;t, remember that installing over it will put it face down in archives and give you money. You can even install Snare over Snare -- the runners hate that :D
+* Similarly, once they have a decoder, Whitespace is usually useless. But if you install over it without rezzing it, that puts a facedown card in archives.
+
+---
+
+Flexible Card Choices:
+
+* 2x subliminal messaging is there because, I got used to it with the Mirror Morph deck linked earlier. (This card is much better in MM). It&#039;s still alright in this deck though because, sometimes you just play it normally, sometimes you trash it to Hansei Review (since it is coming back to your hand anyways later), sometimes you trash it to Anoetic Void.
+* 1x Regolith Mining License is sometimes really good, but you have to be careful because this is going to slow down your rush. In many games this is just fodder for Hansei Review. This should really be Celebrity Gift instead.
+* 1x Magnet. This is sometimes game-winning, if you can get chisel or botulus off of Bran. One spin doctor was cut in order to be able to play this card.
+
+One card that would help a lot is something like Predictive Planogram, because it helps you draw, but unfortunately we don&#039;t have influence for it.
+
+It would be nice to have 3x Manegarm Skunkworks, but it&#039;s hard to find influence. I would be very reluctant to cut Bran 1.0.]]></notes>
+</deck>

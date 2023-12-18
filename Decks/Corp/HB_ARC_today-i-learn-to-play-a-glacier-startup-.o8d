@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31040">Haas-Bioroid: Architects of Tomorrow</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26097">Project Vacheron</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26102">Týr</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26103">NEXT Activation Command</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26119">Ganked!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30037">Nico Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30038">Ansel 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31043">Eli 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31045">Ravana 1.0</card>
+  </section>
+  <notes><![CDATA[Fairly simple and straightforward deck to learn about playing a Glacier deck in the Startup format.
+
+Glacier are deck with 16 to 21 ices, which allow the player to have 3 ices on their scoring remote, R&amp;D and HQ by turn 10 (midgame).
+
+The ID is a source of pseudo credits, since you will be able to rez ices for much cheaper, as the runner start to run pass your bioroid ices (which account for 13 of the 16 ices). [Eli 1.0](/en/card/31043) and [Ravana 1.0](/en/card/31045) can be rez for zero .
+
+The biggest trick of this deck is [Ganked!](/en/card/26119). Making the runner go against an ice one more time than they intented really screw up their math. There are three cases where it bring in extra benefit.
+
+1. Against a Bran, it could allow you to install an ice clicklessly and maybe even end the run if the runner trigger [Ganked!](/en/card/26119) before the other cards. This is the least interesting.
+
+2. Encountering Tyr againt can let you do 2 brain damages and trash a runner card. This is huge and can really impact the runner. Pretty good.
+
+3. Encountering [Ansel 1.0](/en/card/30038), if the runner does not have enough  or , mean it will trigger entirely. Which mean that you get to trash a runner&#039;s card AND REINSTALL [Ganked!](/en/card/26119) from archive, which is then encountered again (from the new ruling 1.5). Then you rince and repeat until there is no more cards on the board for the runner, thus completely destroying the runner&#039;s board. This is EVIL but VERY impactful. I suggest that when you point out the ruling and force the runner to go throught this jank, you should be courteous and present this as a trick that is tough to pull off. We are all friends here :-)
+
+![Glacier](https://www.dictionary.com/e/wp-content/uploads/2018/11/gank-2.jpg)
+
+Otherwise, there is plenty of credits, with 6 agendas, 6 operations and 3 assets that bring you credits.
+
+Of note, [NEXT Activation Command](/en/card/26103) is pretty good here, since it make bioroid ices not breakable by clicks, on top of being stronger and immune to [Botulus](/en/card/30004) and [Boomerang](/en/card/26075). [Inside Job](/en/card/31018) still work, so beware of criminals.
+
+Enjoy and be nice.]]></notes>
+</deck>

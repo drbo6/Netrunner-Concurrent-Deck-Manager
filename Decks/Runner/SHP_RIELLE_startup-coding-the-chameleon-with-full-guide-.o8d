@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31026">Rielle &quot;Kit&quot; Peddler: Transhuman</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26091">Cybertrooper Talut</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26092">Paule&#039;s Café</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30027">Telework Contract</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31009">Ice Carver</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31028">Test Run</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31031">Chameleon</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31032">Egret</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31033">Gordian Blade</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31034">Paricia</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31036">Professional Contacts</card>
+  </section>
+  <notes><![CDATA[# The Chameleon deck of my dreams.
+
+[Chameleon.](/en/card/31031)
+
+## So what&#039;s so good about this deck?
+
+How would you feel if there was an icebreaker that said,
+
+&gt; 1: This card has 5 strength for the rest of the turn.  
+&gt; 1: Break ice subroutine.
+
+That&#039;s Chameleon in this deck.
+
+Is it too good to be true? Well, let&#039;s talk about the design. **Or you can just skip ahead to the &quot;how to play&quot; section.**
+
+## Everything wrong with Chameleon
+
+- Chameleon cannot increase its strength.
+- Each Chameleon has one type, so you need multiple Chameleons if a server has 2 or 3 ice types.
+- You must pay credits to install Chameleon on every turn where you want to run.
+- During a run, the corp can rez ice of a type that Chameleon isn&#039;t. Chameleon chooses its type when installed, installing takes a click, and you only have clicks before the run, not during it. Faceplant central.
+
+## How to make Chameleon good
+
+- [DZMZ Optimizer](/en/card/30022) makes it cheaper to install Chameleon. If you can get 2 of them installed, which you should really do every game, then it&#039;s free.
+- [Cybertrooper Talut](/en/card/26091) gives Chameleon +2 strength on the turn that it is installed, which is every turn. Chameleon is now 5 strength always.
+- [Ice Carver](/en/card/31009) reduces the strength of all ice by 1, so Chameleon basically has 6 strength now.
+- [Paule&#039;s Café](/en/card/26092) is the card that you&#039;ve probably never seen before. Basically, spent clicks to put stuff on it, then spend credits to get it off. This has two advantages.
+  - Credits can be spent mid-run. Host Chameleon, go run, the corp rezzes ice, _you can install Chameleon at instant speed and choose the correct type._ No more faceplants.
+  - When the corp is stalling, spend your clicks to charge up Paule, then when it&#039;s time to make a critical run, you can get them off at instant speed.
+  - Also, [Cybertrooper Talut](/en/card/26091) is a unique connection, so it&#039;s now net neutral to use Paule.
+- [Rielle &quot;Kit&quot; Peddler: Transhuman](/en/card/31026) transforms the first piece of ice to code gate, so you can set your chameleon to code gate and not care. (Except we actually have [Gordian Blade](/en/card/31033) - more on that later.)
+
+## How to play!
+
+### Getting the bits
+
+You&#039;ll want to install the following cards (in order of how critical they are, most critical first)
+
+- [Gordian Blade](/en/card/31033) will allow you to make some runs thanks to [Rielle &quot;Kit&quot; Peddler: Transhuman](/en/card/31026), but you _really_ want to hurry up and get the rest of these so you can use Chameleon
+- [Cybertrooper Talut](/en/card/26091) so you can actually break most ice in the game
+- [Paule&#039;s Café](/en/card/26092) so you can actually choose the right type
+- [DZMZ Optimizer](/en/card/30022) so you can get Chameleon out cheaper
+- [Ice Carver](/en/card/31009) so you can break [these specific cards](https://netrunnerdb.com/find/?q=e%3Asg%7Csu21%7Cdf%7Cur+p%3A6&amp;sort=set&amp;view=list&amp;_locale=en) if your opponent is running them, Archer and Bran probably being the most popular from there.
+
+To help you get stuff out faster, there&#039;s our lord and saviour [Professional Contacts](/en/card/31036) which I usually click multiple times on every turn after I get it out. Is that a good thing? I don&#039;t know. But it makes me feel good.
+
+### Shaping the ice
+
+Install [Egret](/en/card/31032) on things to line up their types so you can get through with a single Chameleon. Or make everything code gate so you can get through with just [Gordian Blade](/en/card/31033). But I recommend the former, since, well, this _is_ supposed to be the Chameleon deck...
+
+Egret can only be installed on rezzed ice, which is why you should host it on Paule first, then plop it out mid-run.
+
+If something has too high strength, then yeah, that&#039;s a problem. Either don&#039;t run that server again, or [Boomerang](/en/card/26075) it, or if you have enough money you can resort to Gordian Blade but that&#039;s not very sustainable.
+
+### Making runs
+
+Making cheap runs is the entire point of the deck. Once you&#039;re set up, just declare a run, they rez ice, you install Chameleon for 1 credit, it instantly gets 5 strength, and you pay 1 credit to break each subroutine.
+
+### Shenanigans
+
+Do you wish [Boomerang](/en/card/26075) was somehow even better? You can host it on Paule, install it mid-run on the ice you&#039;re encountering, and break 2 subroutines on that ice.
+
+Do you wish Boomerang was somehow even better than that? You can, in fact, host several Boomerangs on Paule. At the same time. Even though they&#039;re unique.
+
+You can also use Paule to install stuff on the corp&#039;s turn. You don&#039;t get the unique connection discount since it isn&#039;t _your_ turn, but if you have 2 or more [DZMZ Optimizer](/en/card/30022) installed, it doesn&#039;t matter at all. Did the corp just install-advance-advance, and you want to get an Egret _and_ a Chameleon off Paule on your next run? Install one on the corp&#039;s turn, get your dizzy dizcount, install the other one on your turn, and get your dizzy discount again.
+
+Chameleon comes back _after_ your discard phase. Fearing the double [Punitive Counterstrike](/en/card/31078) after you stole Weyland&#039;s 3 point agenda? Draw up to 5 while you have Chameleon installed. With little damage prevention in Startup, this might be one of the funniest ways to survive Punitive.
+
+## How to have a bad time
+
+You can have a bad time by playing against asset spam decks. [Paricia](/en/card/31034) helps, but it&#039;s really not enough when you need to make money and install 4/5/6 cards before you can even slightly function.
+
+## Developing the deck further
+
+I like this deck a lot, though I still think it has room for improvement. Here&#039;s what I want to do in the future, and you could also explore these for yourself if you want to.
+
+- Use [Pelangi](/en/card/26025) instead of [Egret](/en/card/31032) to change ice subtypes. Advantage: a lot more flexible! Disadvantage: literally every corp is packing virus counterplay due to Anarch, uh, existing. I think Egret is good enough anyway. You&#039;ll probably want to break into a server several times, and the ice subtypes aren&#039;t going to change in between runs, so it&#039;s not like you _need_ to be particularly flexible.
+- Replace [Test Run](/en/card/31028) with some other way of getting cards back from the heap. I added Test Run on instinct after a bad Punitive trashed all 3 of my Chameleons. Might be better to replace it with [Harmony AR Therapy](/en/card/26083), which would also help you survive longer against [Jinteki: Personal Evolution](/en/card/31050).
+- Make 3x everything a 2x everything and add draw. You could get make [Diesel](/en/card/01034) a 3x, or add [Verbal Plasticity](/en/card/30034), or [VRcation](/en/card/30021), or [DreamNet](/en/card/26095)...
+- Make Ice Carver a 1x or 0x. It makes some cards possible for Chameleon, but really, are they _that_ helpful?
+- Add [Leech](/en/card/30008) for strength reduction since that&#039;s a big Chameleon weakness and unlike Ice Carver you can use it multiple times. It&#039;s 1 influence. Hell yeah.
+- Add [Scrubber](/en/card/31011) to deal with upgrade spam, since [Paricia](/en/card/31034) is assets only. It depends on who you&#039;re playing against.
+- Use that newfound influence for another copy of [Boomerang](/en/card/26075).
+- [Conduit](/en/card/30024). When playing this deck, you instill fear in the corp in 3 stages. The first stage is when they see Kit. The second stage is when they see what a Chameleon run looks like. The third stage is when you install Conduit. You don&#039;t even have to USE it if you don&#039;t want to, the psychological factor is enough.
+- [Overclock](/en/card/30029) if 1 credit per subroutine without paying for strength doesn&#039;t seem good enough to you.
+
+Here&#039;s what I don&#039;t suggest:
+
+- [Self-modifying Code](/en/card/26090). Don&#039;t even THINK about it. You know what SMC is good for? It&#039;s good for tutoring the program you need, and it&#039;s good for installing mid-run, at a premium of 2 credits for the install. Well, the only programs here are Chameleon, and you can already install those mid-run with Paule&#039;s Cafe, which works better here because you can do it multiple times, because Chameleon comes back into your hand every turn, and SMC only pulls from stack. It&#039;s literally not good in this deck. Everyone tries to tell me to use SMC. It&#039;s not helpful. Stop. Resist the urge to put SMC in a deck because you&#039;re playing Shaper.
+- I can&#039;t think of a good use for [Simulchip](/en/card/26085) here either, except _maybe_ for changing the type of a single Chameleon mid-run, but like, just use Egret.
+
+## Conclusion
+
+That&#039;s all you need to know. Go forth into the world, and enjoy the look on people&#039;s faces when you put out Paule&#039;s Cafe and they say &quot;can I have a look at that card, what the hell is _this,_ I&#039;ve never seen _this_ before&quot; and then you put out Chameleon and run a server with 3x fully advanced [Akhet](/en/card/26123) for like 4 credits.]]></notes>
+</deck>

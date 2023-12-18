@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26120">Earth Station: SEA Headquarters</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26056">SDS Drone Deployment</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26058">Afshar</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26122">Wall to Wall</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26123">Akhet</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26124">Colossus</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda27005">La Costa Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30061">Clearinghouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30063">Pharos</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31064">Reversed Accounts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31071">Hostile Takeover</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31073">Project Atlas</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31075">Archer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31076">Hortum</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31078">Punitive Counterstrike</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31079">Crisium Grid</card>
+  </section>
+  <notes><![CDATA[I&#039;ve been playing Netrunner for about 2 months now and this is my first *second* serious crack at building a deck. [Here](https://netrunnerdb.com/en/decklist/66257/-startup-punitive-archers-feedback-wanted-) is the first list and its writeup. I changed so much from the last list that I decided to just make a new post, but to recap, the core idea is that with 6 strength and 4 relevant subroutines, Archer has an extremely favorable match-up against both [Boomerang](https://netrunnerdb.com/en/card/26075) *and* [Bukhgalter](https://netrunnerdb.com/en/card/26016), two of the best -- and most ubiquitous -- breakers in the Startup format.
+
+Shoutouts to Andrej (MetropoleGrid on Twitch and YouTube), Diogene, my Netrunner degen friends in meatspace, and all the people who left comments on the previous list for the feedback!
+
+The core is largely unchanged:
+
+* 3 Hostile Takeovers are fodder for our
+* 3 Archers, which also play nicely with our
+* 3 Send a Messages, which contribute to our alternate wincon of
+* 3 Punitive Counterstrikes, which are further supported by
+* 2 SDS Drone Deployments. 
+* 3 Magnet are much-needed anti-virus tech, since [Tranquilizer](https://netrunnerdb.com/en/card/30017) and [Botulus](https://netrunnerdb.com/en/card/30004) are both *super* effective against Archer and we aren&#039;t playing [Cyberdex](https://netrunnerdb.com/en/card/26128). Put these in front of your Archers so you can rez them and force a jack out! This is also usually the ICE I throw on archives in matchups where that matters.
+* The other holdovers from the previous list should be self-explanatory.
+
+Cut from the previous list:
+
+* [Building a Better World](https://netrunnerdb.com/en/card/01093) -- Spending most of our influence on operations didn&#039;t feel good, and as Andrej pointed out, BaBW&#039;s ability caps out at about 6 of value. Earth Station just fits our game plan much, much better.
+* [Divested Trust](https://netrunnerdb.com/en/card/26055) -- Another suggestion from Andrej was that Divested Trust just kind of sucks. I actually hadn&#039;t realized you can&#039;t use it to prevent game point, and they can always just run it in HQ if they have the econ for it. Its role as Archer fodder and the synergies with SaM and SDS just don&#039;t really put it into the playable territory by themselves.
+* [Spin Doctor](https://netrunnerdb.com/en/card/30053) -- We&#039;re playing Earth Station now, so this card is really awkward to install and even more awkward to use effectively since we can&#039;t just let it camp out waiting for an opportune time to pop it; we need that server for other things! And a Spin Doctor that requires you do immediately use it, well... At least [Action Howard](https://netrunnerdb.com/en/card/04015) would have drawn us cards. We&#039;ll miss the consistency and the recursion for sure, but it&#039;s just not that good here.
+* [Palisade](https://netrunnerdb.com/en/card/30072) -- Akhet is just better here, especially with Wall to Wall in the deck and [Tao](https://netrunnerdb.com/en/card/30019) in the meta.
+* [Hansei Review](https://netrunnerdb.com/en/card/30048) and [Predictive Planogram](https://netrunnerdb.com/en/card/30056) -- much less impressive with BaBW, plus we spend the influence better elsewhere.
+* [Subliminal Messaging](https://netrunnerdb.com/en/card/31082) -- This card was already pretty mediocre, and without Hansei Review it doesn&#039;t even have any synergies. I thought about playing 1, but... ehh....
+* 1 Afshar -- Drawing 3 feels terrible, and Tao makes this ICE look pretty silly. Still, it&#039;s nice to tax HQ runs since your ID incentivizes it.
+
+New cards:
+
+* Earth Station -- It was this or [Built to Last](https://netrunnerdb.com/en/card/30059), and I wanted to play La Costa Grid, so Earth Station seems cleaner since I doubt we&#039;re clicking advance enough for BtL to make us that much money. Plus, when you&#039;re tracing for lethal, -6 for the runner is effectively the same as +6 for the corp.
+* 2 La Costa Grid -- This is probably the biggest change from the last list. I love this card, and we usually charge 6 up front just to run our remote so it&#039;s pretty hard to trash once it&#039;s down.
+* 2 Clearinghouse -- This card rocks with La Costa, and can kill by itself or combine with a single Punitive for lethal meat damage.
+* 3 Reversed Accounts -- This is that sweet, sweet Diogene tech. Pressuring the runner&#039;s econ is really crushing with our ID&#039;s ability, and we play really strong 5/3 agendas *and* clearinghouse, so the runner kind of has to run it once it hits 2-3 advancement counters. It&#039;s also totally fine to just cash it in to make room for a better asset, you don&#039;t need to get that much value for the runner&#039;s econ to start withering against our scoring server.
+* 2 Regolith Mining License -- This is just worth so, so much money, and we spend a *lot* of credits installing ICE on our towers.
+* 1 Project Atlas -- This could honestly just be an SDS, but I don&#039;t think cutting a Hostile Takeover is viable so we&#039;d end up with 21 agenda points, which just feels wrong. We play this over [Above the Law](https://netrunnerdb.com/en/card/30060) because we actually take advantage of the over-advance ability pretty well. When we score out, we usually do it by going 3+3+1, it&#039;s usually not worth more than 1 effective agenda point unless you scored 2 Hostiles and didn&#039;t forfeit them (3+2+1+1, not super exciting); furthermore, our primary win condition is flatlining. All this is to say you shouldn&#039;t feel too bad forfeiting this to rez Archer.
+* 1 Crisium Grid -- I&#039;m still testing this, but it seems pretty mean to slap one on HQ when you&#039;re in space. This slot might ultimately be better served as an ICE, a Subliminal Messaging, or just a third Wall to Wall.
+* 2 Wall to Wall -- I shouldn&#039;t have to justify how much value this card provides, plus it&#039;s really nice that you can bounce it to your hand instead of trashing it when you change gears.
+* 2 Akhet, 2 Hortum, 1 Colossus -- We need some advanceable ICE for Wall to Wall. Don&#039;t click these unless it puts them to a relevant breaking point.
+
+Alright, that&#039;s my lengthy writeup of the second version of this deck. The next iteration should hopefully be small enough that I can just put a changelog at the top of this post. (lol changing published decklists is not a feature on nrdb, rip) 
+
+As always, feel free to provide feedback, and thanks to everyone that helps me learn this game!]]></notes>
+</deck>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31060">Near-Earth Hub: Broadcast Center</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26047">Remastered Edition</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26064">CSR Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26101">Drafter</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26114">Bellona</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26116">Gold Farmer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31048">Biotic Labor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31062">Project Beale</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31063">Daily Business Show</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31065">Pop-up Window</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31067">Wraparound</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31069">SanSan City Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31080">PAD Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31081">Enigma</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+  </section>
+  <notes><![CDATA[A relatively fast NEH deck, using the extra influence on fast advance and never advance tools.  The deck can go very fast, but doesn&#039;t need to, and if your opponent has enough money and can trash your assets your options for punishment are far more limited.  Seamless Launch-ing a Remastered Edition that was sitting on the table is something people sometimes don&#039;t expect you to be able to do, and that makes the rest of the scoring plan far easier.]]></notes>
+</deck>

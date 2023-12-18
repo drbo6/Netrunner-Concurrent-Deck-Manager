@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26019">Lat: Ethical Freelancer</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26014">Lucky Charm</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26016">Bukhgalter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26021">Khusyuk</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26024">Gauss</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26074">Bravado</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26083">Harmony AR Therapy</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26084">Aniccam</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26087">Euler</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26088">Mantle</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26089">Penrose</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26095">DreamNet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda27003">Cybertrooper Talut</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30021">VRcation</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31028">Test Run</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31031">Chameleon</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31038">Prepaid VoicePAD</card>
+  </section>
+  <notes><![CDATA[Hello,   
+
+I am quite a newb at the game and quite bad with that but that deck got me 8 wins and 1 loss on Jinteki (88%) when i was 19% win rate before that. So it cannot be too terrible!   
+  Most importantly it is very fun to play and some access feels like a puzzle.     
+
+Its an Annicam Lat that uses DZMZ, Rezeki and Khuysyuk as a solid staple base but the twist is that it uses some unconventional IceBreakers in synergy with Test Run and Cybertrooper Talut.  
+The strange IB suite is very fun :   
+Chameleon and Penrose being some sort of AI tricks and the other one being specialised tools.  
+
+CyberTrooper is a good synergy pivot with :  
+- Dreamnet   
+- Test Run  
+- Chameleon  
+- Euler  
+- Gauss  
+- Penrose  
+
+The idea is that you facecheck a lot till you know the ice you are facing and then you run the turn you installed the IB 90% of the time for very nice values.  Especially with Cybertrooper Talut as its installation bonus add to the builtin of these of Gauss Euler or Penrose  
+Maths with the best bro Talut :   
+- A freshly installed Gauss pass a Brann or an unadvanced Pharos for 3 creds  
+- A freshly installed Euler pass an Engram for 1 cred  
+- A freshly installed Chameleon pass a tollbooth for 1 cred (+3 unavoidable) and a pharos for 3  
+- Penrose can be used when there are a couple non rezzed ice if you want to maximise the chance of access as many times they just don&#039;t rez when the 4str IB that can pay for code gate and barrier just landed.  
+
+The econ is a mix of burst via events and drip econ wich seems to cover respectively the start of the game and the endgame.
+
+I tried Rejig but most of the time it is in hand waiting for the opportunity and it stays there the whole game is Test run is already some sort of reinstall potential to make the installation synergies work.  
+Test run also replace simulchip kinda being worst but working with the IB suite and trooper for a double installation turn. 
+
+Matchup versus Jinteki PE or punitive decks seems favorable because of Annicam and Lat draw potential. The matchup versus rush decks is ok-ish thanks to all the run events that encourage an aggressive behavior, still a bit draw dependant. Luchy Charm is here for Anoetic and you could make the Bukhgalter a Carmen to add another. Deck also has a lot of drip economy for these long matchs where it can camp the remote versus glacier. The game i lost was versus a FA deck so that might be one of the tougher matchup with Skunkvoid, and to be honest as these two decks seems to be some of the more prevalent in the format, maybe my deck is not very well suited for the meta :)
+
+Feedbacks and criticisms are more than welcome!  
+
+Also i&#039;d recommend trying it just for the satisfaction it provides when you Test Run (PPVP) a Penrose (DZMZ) under Cybertrooper Talut and Bravado with Dreamnet and see THE VALUE REACH THE STARTS as you access for cheap, get rich and draw cards in a couple clics.]]></notes>
+</deck>

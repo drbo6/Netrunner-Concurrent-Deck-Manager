@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30059">Weyland Consortium: Built to Last</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26123">Akhet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26124">Colossus</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26130">NAPD Cordon</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda27006">Digital Rights Management</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda27007">Cayambe Grid</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30060">Above the Law</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30062">Ballista</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31046">Rototurret</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31058">Trick of Light</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31071">Hostile Takeover</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31072">Oaktown Renovation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31073">Project Atlas</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31076">Hortum</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31077">Ice Wall</card>
+  </section>
+  <notes><![CDATA[First, a disclaimer: this won&#039;t work in Standard, because it&#039;s weak to [Apocalypse](/en/card/09030) and [Diversion of Funds](/en/card/21105) and because [Cayambe Grid](/en/card/26127) is banned there.  But it&#039;s scarily strong in Startup, beating pretty much everything on the jinteki.net casual lobby.
+
+It&#039;s also very easy to play, and the games are over quickly, so it&#039;s likely a good deck to try out if you want to practice your Startup skills.
+
+## Strategy
+
+### Plan A: Rush
+
+Some of my decks have lots of different plans that they can pivot to based on the gamestate. This is not one of those decks, and has a really well-defined strategy for the entire game, and for each turn of the game. It looks like this:
+
+1. Install [Oaktown Renovation](/en/card/31072). ICE it. Advance it.
+2. Score Oaktown Renovation.
+3. Install [Project Atlas](/en/card/31073) in your now-empty remote server. Place a second ICE on that server. Advance it.
+4. Score Project Atlas with one agenda counter.
+5. Install another agenda in the scoring server. Advance it. Depending on the game state, play [Hedge Fund](/en/card/30075), or play [NAPD Cordon](/en/card/26130), or triple ICE the scoring server.
+6. Score the third agenda.
+7. Project Atlas counter for [Hostile Takeover](/en/card/31071). IAA and score for the 7th point.
+
+#### What if Plan A goes wrong?
+
+Well, this plan is much more resilient than you might think. First things first, the &quot;obvious&quot; counterplay to this strategy is to spam accesses on R&amp;D. The Runner will steal a lot of agendas doing this. But stealing 7 points in 7 turns is really difficult, even with [The Maker&#039;s Eye](/en/card/31029). Even with [Stargate](/en/card/26004). Even with [Conduit](/en/card/30024). (If a Conduit gets really out of control, you may need a turn to purge, or to ICE R&amp;D. Spamming a Conduit rather slows down the Runner&#039;s setup speed, so this will hurt them more than it hurts you).
+
+The Runner might decide to spam accesses on HQ instead. You&#039;re normally happy with this, because they&#039;re less likely to hit than accesses on R&amp;D and slow the Runner down just the same, and it&#039;s not a big deal even if they steal an agenda (you win so quickly that the fact that the agenda isn&#039;t in your hand any more to be installed is normally a bigger deal than the missing points). Note that in this case, you may have to take a turn off to ICE HQ in order to turn [Digital Rights Management](/en/card/27006) on, to ensure you have access to enough agendas.
+
+The Runner might decide to try to get into your scoring server. This is surprisingly hard to do in the first few turns in Startup. It&#039;s possible (e.g. [Botulus](/en/card/30004), [Mayfly](/en/card/30032), [Boomerang](/en/card/26075), forcing a rez or guessing the correct breaker and using [Mutual Favor](/en/card/30011), randomly drawing the right breaker, etc.); but it costs significant resources and normally won&#039;t be repeatable for a few turns. If the Runner does steal an agenda from your scoring server, just put another piece of ICE there, put another agenda there, advance it, and try again. They&#039;ll almost certainly run out of either pseudo-bypass or credits. It&#039;s hard enough to steal an agenda on turn 1; doing it on turns 1 *and* 2 *and* 3 is near-impossible.
+
+You might not draw the cards you need. Still, it&#039;s pretty likely, given how high the density of the relevant cards in this deck is. It&#039;s a 40-card deck (not 44, you cowards, 40). It has 19 agenda points in it, the maximum possible, and 3-ofs of all the important cards. Past turn 1, you can normally use [Digital Rights Management](/en/card/26117) to fetch an agenda if you don&#039;t happen to have one in hand (or are being R&amp;D locked); even if you don&#039;t have the *right* one in hand. (Even if you *do* have the right one in hand, but are agenda-flooded; fetching more will dissuade the opponent from trying to grab the existing ones out of HQ.) You also have [Offworld Office](/en/card/30067) as an inferior (but still decent) [Oaktown Renovation](/en/card/31072) substitute, which is handy on turn 1 when you don&#039;t have Digital Rights Management available.
+
+The Runner might steal [Hostile Takeover](/en/card/31071). When this happens, you will need to rely on [Trick of Light](/en/card/31058) instead to score your 7th point. It&#039;s just as fast, but you will need to double-advance a piece of ICE at some point (you&#039;ll usually get an opportunity), and an Atlas counter will get you only half the combo (but you&#039;re highly likely to draw the other half naturally).
+
+The Runner might install a full set of breakers (or you might fail to find the right piece of ICE to stop the breaker they don&#039;t install), and also get enough economy to use them. This is unlikely, but it does happen on occasion, and this is why the deck has a Plan B.
+
+### Plan B: Glacier into fast advance
+
+If the Runner manages to stop your rush strategy, you&#039;ll need to change tactics, but the deck is set up to be able to play a medium-length game in addition to the hyper-fast version. The basic plan is to lightly ICE HQ, heavily ICE R&amp;D, and dedicate enough resources (ICE, advancement, upgrades, etc.) to your scoring server to force the Runner to focus there; [Cayambe Grid](/en/card/26127) is an all-star in this version of the strategy (due to how your ID ability works, normally you should use it to add additional advancements on ICE you advanced manually earlier, or on nonadvanceable ICE, and manually advance the remaining ICE on the server). Ensure you have at least two advancement counters on some piece of ICE (ideally on multiples). Then, try to score out 4/2s in your scoring server (ideally behind [NAPD Cordon](/en/card/26130) and [Cayambe Grid](/en/card/26127), possibly fetching them with [Digital Rights Management](/en/card/27006)) whenever the Runner can&#039;t get into it (or whenever it would cost them most of their resources to get into it and a steal wouldn&#039;t lose you the game), but actually win the game via fast-advancing 3/2s with [Trick of Light](/en/card/31058).
+
+It&#039;s very hard to stop this plan with the Startup card pool; the Runner needs to get lucky with when you draw your agendas and/or with their R&amp;D accesses, on the rare occasions they manage to get in. (You can make R&amp;D really expensive using things like a triple-advanced [Akhet](/en/card/26123) and/or a [Cayambe Grid](/en/card/27007) powering up a [Colossus](/en/card/26124) or [Ice Wall](/en/card/31077).) The best way to stop the [Trick of Light](/en/card/31058) victory is probably [Clot](/en/card/31005), and most Clot decks are fairly slow and will struggle with the scoring server instead.
+
+If this plan doesn&#039;t work either, you&#039;ll lose. But that doesn&#039;t happen very often; plan A wins most games by itself, and a &quot;failed plan A&quot; normally sets you up perfectly for plan B (because the main issue with this sort of glacier strategy is setup speed, and spending resources on getting into a rush deck&#039;s servers early tends to hurt a Runner deck in the long run).
+
+## Card choices
+
+### Agendas
+
+We run a lot of agendas; this deck has the highest agenda point density legally allowed in Netrunner, to maximise the chance that we always have agendas ready to install in the early game. All the agendas are 2-pointers apart from the one [Hostile Takeover](/en/card/31071), meaning that regardless of the agenda combination, we need to score four agendas to win and the Runner needs to steal four agendas to stop us.
+
+The most vital agendas are [Oaktown Renovation](/en/card/31072), which provides most of our economy (the first advancement is worth 3 in [Weyland Consortium: Built to Last](/en/card/30059)); and [Project Atlas](/en/card/31073), which provides the ability to close out games by fetching [Hostile Takeover](/en/card/31071) or [Trick of Light](/en/card/31058) or a 3/2 agenda to fast-advance.
+
+[Hostile Takeover](/en/card/31071) is included because it can be fast-advanced without the need of any support cards, and thus makes a perfect 7th point (you can also score it earlier in the game – the downside isn&#039;t that horrible in a short game, and it can help fix your economy – although the primary reason to do this is to get it out of your hand to stop the Runner stealing it), and because to get a high agenda density, we need an odd number of agenda points.
+
+The remaining agendas, [Offworld Office](/en/card/30067) and [Above the Law](/en/card/30060), aren&#039;t as good; they&#039;re basically inferior versions of [Oaktown Renovation](/en/card/31072) and [Project Atlas](/en/card/31073) respectively. But there aren&#039;t all that many choices for agendas in Startup, and despite being inferior, Offworld Office is nonetheless capable of fixing your economy, and Above the Law is nonetheless capable of being scored off [Trick of Light](/en/card/31058). (I&#039;ve also had pretty good experiences with trashing resources with Above the Law; in rushy games, it&#039;s quite likely to hit some of the Runner&#039;s early econ.)
+
+[Digital Rights Management](/en/card/27006) increases the deck&#039;s effective agenda density still higher, allowing us to sneak agendas past an R&amp;D lock, or ensure that we get the right agenda at the right time. It&#039;s a really good card for both rush and glacier, and easily worth the influence in this deck.
+
+In terms of possible changes or additions, [Vulnerability Audit](/en/card/26063) may be worth considering; it would make the deck even more explosive, but at the cost of somewhat increasing the risk of losing to the Runner randomly stealing more agendas than usual. So I haven&#039;t tried this out myself, but it might be interesting to try as a 1-of that you can [Digital Rights Management](/en/card/27006) out when the gamestate suggests it.
+
+### Economy
+
+This deck has a lot of economy from its agendas, and wins fast enough that the starting 5 is rather relevant. So it doesn&#039;t need to run much economy.
+
+Apart from the near-mandatory playset of [Hedge Fund](/en/card/30075), the primary economic card is therefore [Weyland Consortium: Built to Last](/en/card/30059), our identity. As long as we&#039;re playing the deck in a rushy style, this will typically give us 2 every other turn, as we advance our agendas. If we need to switch to glacier, or set up a [Trick of Light](/en/card/31058), it gives us free first advancements on ICE as we click for credits (i.e. you click to advance ICE rather than clicking for a credit), helping to mute the economic sting of getting the glacier set up.
+
+### Protection
+
+[NAPD Cordon](/en/card/26130) is probably the weakest card in this deck (if you&#039;re considering adding cards and want to cut some, this is probably the card to cut). It wins games, but maybe not often enough to be worth the slot. Its primary use is to score the third agenda when the Runner is low on credits (or at least force them to waste so many credits that you score the fourth agenda after the third agenda gets stolen). Against inexperienced Runners, it also serves as an indirect way of escaping an R&amp;D lock; often the Runners will trash it out of R&amp;D and not check the card below, making it possible to topdeck an agenda despite the R&amp;D lock.
+
+[Cayambe Grid](/en/card/27007) isn&#039;t great when rushing, but allows for a powerful plan B with just three deck slots (and has the advantage that in the early stage of the game while you&#039;re scoring out and your centrals are getting hammered, most Runners will trash it if they access it in R&amp;D, helping to drain their credits whilst increasing the effective density of cards that help the rush plan in your deck). This was a late addition to the deck, but I find the resilience it gives to be really helpful.
+
+The ultimate protection, though, is [Trick of Light](/en/card/31058). In practice, only [Clot](/en/card/31005) can stop this letting you score out a 3/2 as soon as you draw it (or even fetching a 3/2 with a [Project Atlas](/en/card/31073) counter and scoring that); Startup doesn&#039;t have much ICE-trashing, so your advancement counters will be safely able to fuel Trick of Light there. Your identity makes it cheap to set up, too. The main drawback of this is that you need double Trick of Light to fast-advance a 4/2; one of the deck&#039;s few failure modes is to switch to glacier, get remote-locked, and then get flooded with 4/2s before you have enough Tricks of Light to fast-advance them. Trick of Light is a mandatory 3-of in this deck, despite the influence hit, because you really want them in hand in the midgame in order to be able to close the game out.
+
+### ICE
+
+All we care about in our ICE is keeping the Runner out as securely as possible, ideally with a type of ICE they don&#039;t have an appropriate breaker for.
+
+To that end, we have five &quot; End the run.&quot; barriers and five &quot; End the run.&quot; code gates. Each **sentry** included in the deck can trash programs, so becomes an effectively hard &quot; End the run.&quot; if it isn&#039;t the innermost ICE on the server.
+
+The actual choice of ICE is based around what works best at keeping the Runner out. [Magnet](/en/card/31044) is the most secure because it blanks [Botulus](/en/card/30004), one of the main anti-rush cads in Startup (and I&#039;ve even managed to use it to save other pieces of ICE from a Botulus on occasion). [Ice Wall](/en/card/31077) and [Akhet](/en/card/26123) are perfectly acceptable early barriers, and both can be advanced into excellent late-game barriers too (it&#039;s even worth doing this manually for Akhet, although Ice Wall is more something to put your automatic advancements from Akhet and [Cayambe Grid](/en/card/27007) on). [Hortum](/en/card/31076) isn&#039;t as good, but it&#039;s still advanceable, still ends the run, effectively costs only 3 if you can rez it on a facecheck, and it has a triple-advancement option that&#039;s only rarely useful but can be great in a few specific gamestates (mostly related to [Mayfly](/en/card/30032), or to late-game facechecks when the Runner doesn&#039;t have a decoder).
+
+On the **sentry** side, [Rototurret](/en/card/31046) is a great facecheck ([Ballista](/en/card/30062) isn&#039;t nearly as good because it dies to [Botulus](/en/card/30004), whereas a Rototurret is still useful against a Botulus with one counter, but is included just because it&#039;s a **sentry** that can end the run). The primary sentry, however, is [Colossus](/en/card/26124); its main drawback (not being nearly as good if installed at the innermost position of a server) doesn&#039;t that matter much for this deck, and it has a few other useful properties which make it a good fit here. It&#039;s advanceable (powering up [Cayambe Grid](/en/card/27007) and [Trick of Light](/en/card/31058)), it scales unboundedly off advancement counters (thus being one of the best options to hyper-advance with [Cayambe Grid](/en/card/27007)), and it&#039;s much more expensive than the alternatives to break, whilst not being much more expensive to rez. So despite Colossus tending to underperform in most decks, it&#039;s been overperforming in this one, and that&#039;s encouraged me to move up to the entire set.]]></notes>
+</deck>

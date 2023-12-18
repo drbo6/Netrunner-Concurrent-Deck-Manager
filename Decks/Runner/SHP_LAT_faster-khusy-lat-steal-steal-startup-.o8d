@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26019">Lat: Ethical Freelancer</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26021">Khusyuk</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26024">Gauss</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26026">Rezeki</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26073">Paladin Poemu</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26074">Bravado</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26084">Aniccam</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26087">Euler</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26095">DreamNet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda27003">Cybertrooper Talut</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30025">Echelon</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+  </section>
+  <notes><![CDATA[After my Make-Money Zahya deck started to fail me, I&#039;ve moved out of my comfortable home in Criminal to see what Shaper has to offer in what is supposedly a very unfriendly Meta for Green, and this deck has been doing me very well.
+
+This deck is designed to, well, go fast, because that&#039;s where the game is now, even in Startup. I had turned my nose up at Lat for a while, thinking that his ability would get in the way of optimal play, and that his ability would be less impactful than Tão&#039;s while suffering from a 45-card minimum as opposed to Tão&#039;s 40. But experience has now shown me that:
+
+1. Tão&#039;s ability is great when you&#039;re dealing with positional ice, but chances to swap an Akhet and a Palisade don&#039;t come up as often as they should, so in Start-up, at least, his power remains theoretical a good amount of the time&gt;
+2. Firing off Lat&#039;s ability is way easier than it may at first appear, and thinking through how you plan to do so makes your turns way more efficient and impactful.
+3. If you&#039;re reliably setting up fast so that everything you do is drawing you cards, making you money, installing stuff at a discount or a combination of the three, that 45-card deck starts to feel a lot more consistent than a 40 card deck that&#039;s not built to do those things.
+4. Lat has 1 Link.
+
+That last bit doesn&#039;t come up too much in Startup, as the NISEI team has been moving away from traces, but it does mean that with the addition of Cybertrooper Talut, you&#039;ve got 2 Link, which turns on DreamNet&#039;s full capabilities. Both cards are useful in this deck  before the other one drops, so they&#039;re good to install whenever they first appear, as of course is Paladin Poemu. Sometimes, especially if you&#039;re hitting agendas fast, you&#039;ll run into an end of turn with an over-pumped Poemu. That&#039;s fine. This deck has redundancies for its key pieces so there will virtually always be something that&#039;s fine to trash that you can replace at a discount in your next turn, usually clicklessly. Gauss and Euler are ideal candidates for this, of course, but with Talut out even Echelon can be re-installed for value. Judiciously-applied re-installs with this set-up can cut through three-deep ice like butter, and are easier to manage than you might at first think. Which is important because this deck&#039;s win-con is pretty predictable. Namely, Khusyuk.
+
+I wish I wish I wish that Echelon were a 2c install, but it&#039;s not, and it&#039;s still easily the best killer for a deck like this that can&#039;t spare the influence for Bukhgalter. As is, your 2c installs are Gauss, Euler, Rezeki, Talut, and DZMZ. Because there&#039;s no reason not to install as many Rezeki&#039;s as your MU can handle (and you can always trash them if you need to during a run for another install) it&#039;s not tough to get up to 5-6 2c installs on the board so that you can knock out your Khusyuks. Going 6-deep on R&amp;D and getting to pick what you access is what wins you the game, clearly.
+
+This deck runs through the stack fast, and as it goes along you&#039;ll end up with some &quot;dead&quot; cards in your grip. I&#039;ve been seeing enough rig-sniping in Startup that I&#039;d prefer to have some backups clogging up the grip than go down to 1x for my key pieces, especially with no resource tutoring. This deck originally included Aesop&#039;s but It wasn&#039;t providing enough value and I was sacrificing good play to try to make it fit - you might find differently.
+
+I haven&#039;t run up against much PD at all with this yet, which is going to be one of its worst-matchups, I&#039;d guess (It can keep up with the pace here and also go to a six-card hand, whereas I&#039;m not packing any Memory Diamonds because I haven&#039;t found it worth teching around that and with the way discard at end-of-turn works it would actually do me more harm than good.) It&#039;s seen a good amount of MM, R+, GameNET, a lot of BtL and a whoooole lot of PE by now. This basically runs all over PE, because it draws so fast that it doesn&#039;t care about net damage until the stack is empty.
+
+Remember your triggers, and remember the weird rules for Simulchip (i.e. that there needs to be some program already in the Heap that you could possibly install with it at your current credit amount before you trash a program to pay its cost), and have fun!]]></notes>
+</deck>

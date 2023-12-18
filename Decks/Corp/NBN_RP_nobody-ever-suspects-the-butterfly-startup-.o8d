@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30051">NBN: Reality Plus</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26048">Daily Quest</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26050">Congratulations!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26099">Cerebral Overwriter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26114">Bellona</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26118">SYNC Rerouting</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30054">Funhouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30055">Ping</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30057">Public Trail</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30058">AMAZE Amusements</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30065">Retribution</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30068">Orbital Superiority</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30070">Superconducting Hub</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31068">Psychographics</card>
+  </section>
+  <notes><![CDATA[Nobody ever suspects the butterfly (Startup)
+I&#039;m at around 65% winrate on Jinteki after 30 games. I&#039;m sure someone better could get higher.
+&quot;Thankfully, your ice is all porous if a runner has just one Fracter and a few credits.&quot;
+
+I picked NBN because nobody ever suspects the butterfly: https://youtu.be/pJ_Pfuj9wPE?t=10
+
+Cerebral Overwriter looks like a Bellona behind porous ice. Once they have a 3 card max Grip, they either die from not being careful, or you score out from when they are too careful.
+
+
+Why Startup?
+
+There is no way to expose servers
+Engram Flush isn&#039;t banned
+Nothing like Boom, so tags arent as scary to runners.
+First Way to kill:
+
+Stack Snares in HQ and R&amp;amp;D.
+Ice with Engram Flush (s) and Tithe (s)
+Second Way to kill:
+
+Trigger a 2-advancement Cerebral Overwriter over the course of the first ~10 turns
+Prep a Remote Server with 1-2 ice so that when you draw this, you can play it immediately. there is nothing worse than the Runner trashing this from your hand.
+You will want to install, advance, advance behind ice all in one turn. Look at the enemy position and try to do it when you think they can break your ice. Thankfully, your ice is all porous if a runner has just one Fracter and a few credits.
+Get them full of tags. Every meaningful run they do should result in at least one tag.
+Psychographics into Orbital Superiority. If they have 3 tags and 2 brain damage, this will kill in one turn from HQ.
+If they refuse to keep tags. you can public trail into a 2x advanced Orbital Superiority.
+
+
+Edits: Replacement Cards:
+You want 3x of snare, cerebral overwriter, and engram flush. Thats impossible, so lately I go with 2 engram flush and lose the sprint. 
+
+Swap out the AMAZE and SYNC Rerouting with 2x public trail and one more economy card. I swapped Daily Quest for Regolith Mining as it is good for fakeouts and you have spare clicks when not advancing.
+
+Also I added 2 F2P ice which I super try to keep under Funhouse(or ping) in R&amp;amp;D or remote server when possible. I removed 1 Palisade and went down to 2 Engram Flush to make the space.
+
+ I added some Daily Business show somehow. 
+Ways to tag:
+
+Funhouse,Ping,F2P on R&amp;amp;D or remove server. Thats about 1-3 tags per run, which adds up.means that at least one will stick around until your turn.
+After they spend all their credits stealing a Bellona from a remote server and clearing the tags that came from it, use a Public Trail.
+Taunt them into running last click by not rezing Ping when they run over it. Ping is much better to only rez when they&#039;ll keep a tag into your turn.
+
+
+Final note. Dont keep agendas or overwriters in your HQ if you can help it. Spin Doctor or Sprint them into the R&amp;amp;D. Your hand is where Snare! lives.]]></notes>
+</deck>

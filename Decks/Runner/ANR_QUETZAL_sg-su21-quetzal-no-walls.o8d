@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31001">Quetzal: Free Spirit</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30002">Wildcat Strike</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30007">Fermenter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30009">Cookbook</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30011">Mutual Favor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30023">Pantograph</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30031">T400 Memory Diamond</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30034">Verbal Plasticity</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31004">Retrieval Run</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31005">Clot</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31008">Mimic</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31009">Ice Carver</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31024">Security Testing</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31031">Chameleon</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+  </section>
+  <notes><![CDATA[Because of her ability to break barrier subroutines, [Quetzal](https://netrunnerdb.com/en/card/31001) can get away with running with few fracters, which is why this deck runs only one [Cleaver](https://netrunnerdb.com/en/card/30006) to deal with barriers with many subrountines. To make running remotes even more threatening, this list includes two [Security Testing](https://netrunnerdb.com/en/card/31024), so the corp will have to think twice before putting that [Palisade](https://netrunnerdb.com/en/card/30072), [Ice Wall](https://netrunnerdb.com/en/card/31077), [Ping](https://netrunnerdb.com/en/card/30055) or [Wraparound](https://netrunnerdb.com/en/card/31067) on their servers. This ability also has an interesting synergy with [Chameleon](https://netrunnerdb.com/en/card/31031) in that you often don&#039;t need it to be a fracter. Since you want to get to your key cards as early possible and Anarch lacks good in-faction card draw in these sets, I&#039;ve also put in one [Verbal Plasticity](https://netrunnerdb.com/en/card/30034) while the [T400 Memory Diamond](https://netrunnerdb.com/en/card/30031)s give us the space to hold the cards we draw and give us some much needed MU. In order to save on some clicks, this deck includes a [Pantograph](https://netrunnerdb.com/en/card/30023) to install one of its many Resources of Programs, but if you often find yourself running short on credits, you can swap it out for one [Pennyshaver](https://netrunnerdb.com/en/card/30014).]]></notes>
+</deck>

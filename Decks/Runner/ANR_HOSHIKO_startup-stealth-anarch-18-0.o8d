@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26066">Hoshiko Shiro: Untold Protagonist</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26003">Chisel</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26007">Fencer Fueno</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26009">Trickster Taka</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26068">Devil Charm</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26069">Gachapon</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26070">Keiko</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26073">Paladin Poemu</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26079">Afterimage</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26095">DreamNet</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31010">Liberated Account</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+  </section>
+  <notes><![CDATA[[Self-modifying Code](/en/card/26090) + [Devil Charm](/en/card/26068) is a brutal combo. Always mulligan if your hand doesn&#039;t contain [DreamNet](/en/card/26095) or [Paladin Poemu](/en/card/26073). [Gachapon](/en/card/26069) is what makes this dependency manageable. [Devil Charm](/en/card/26068) can support [Afterimage](/en/card/26079) if you somehow don&#039;t have a [Leech](/en/card/30008) or your [Trickster Taka](/en/card/26009). [Gachapon](/en/card/26069) and [Self-modifying Code](/en/card/03046) + [Overclock](/en/card/30029) make your breakers come in at a smooth rate.
+
+[Botulus](/en/card/30004) and [Ice Carver](/en/card/01015) were cut to streamline the economy and ensure a 100% winrate vs [Near-Earth Hub: Broadcast Center](/en/card/31060). Tough Matchup is [GameNET: Where Dreams are Real](/en/card/26113) with [Rime](/en/card/26065) + [Lotus Field](/en/card/06003), but chiseling the [Rime](/en/card/26065) makes it winnable.
+
+-Steel City Grid-]]></notes>
+</deck>

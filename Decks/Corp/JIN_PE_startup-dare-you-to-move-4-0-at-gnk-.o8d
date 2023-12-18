@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31050">Jinteki: Personal Evolution</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26041">Sting!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26044">Saisentan</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26109">Konjin</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26126">Argus Crackdown</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30044">Longevity Serum</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30045">Urtica Cipher</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30047">Karunā</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31051">House of Knives</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31052">Nisei MK II</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31056">Swordsman</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+  </section>
+  <notes><![CDATA[I was very sad as I rejoined the Netrunner world to check out the startup format that my beloved Jinteki had a reputation as being unplayable.  I have always had the most fun playing a grindy damage game that allows for scoring windows due to the runner being low on cards or having spent all their money to avoid nasty damaging ice.  I&#039;ve found that this deck gives me that same satisfaction.  
+
+When I set out to build a new deck I wanted to avoid some of the pitfalls of Jinteki decks of the past:  trouble keeping money totals up, early game ice that would crumble in the late game, and fantasy trap cards that took up slots but never fired effectively.  My first iteration had three  [Urtica Cipher](/en/card/30045) and one [Cerebral Overwriter](/en/card/26099).  The zero trash cost of the [Cerebral Overwriter](/en/card/26099) made it my first cut.  I ended up taking [Urtica Cipher](/en/card/30045) down to one copy because most of the time I ended up pitching it to [Hansei Review](/en/card/30048) because I needed money and could not afford to lose the tempo of installing and advancing a card that usually did nothing.  Swordsman would be my next cut.  I did not get any significant use out of it, and almost always pitched it to [Hansei Review](/en/card/30048) or used it as a bluff ice.  It could easily be a third [Karunā](/en/card/30047) or even an [Enigma](/en/card/31081).  The [Tithe](/en/card/30073)s were great in the early game and when stacked with other sentries would slow down [Bukhgalter](/en/card/26016).  [Palisade](/en/card/30072) and [Tollbooth](/en/card/31066) are here to give a little stopping power to the remote for scoring, but sometimes I ended up putting the booth on R&amp;D to stop or slow down [Conduit](/en/card/30024) or [Stargate](/en/card/26004).  
+
+There were really three stars of the show that make this take work: [Sting!](/en/card/26041), [Regolith Mining License](/en/card/30071), and [Argus Crackdown](/en/card/26126).  Having a ramping damage agenda that I did not care to lose a copy of early was a delight!  I ended at least one game by scoring out the third copy as my opponent ended their turn on two cards and did not want to run through my remote.  As I said before, money has regularly been a problem for the Jinteki decks that I have loved playing.  [Regolith Mining License](/en/card/30071) provides a card slot efficient way of getting enough money to last long enough until you can draw your burst econ naturally.  Being able to take just one install that looks like it might be a [Snare!](/en/card/31054), and clicking nine off of it the next turn would be worth it.  Add to that six more credits the following turn after you now have enough money to rez all the nasty ice and still pay for [Snare!](/en/card/31054)s makes this card just what the doctor ordered.  Late game I usually pitch them to [Hansei Review](/en/card/30048) for the burst.  
+
+Lastly, [Argus Crackdown](/en/card/26126) gets it own paragraph.  I LOVE this card!  The amount of times that I was able to drop this on the table then install and advance a [Nisei MK II](/en/card/31052) alone made it worth the include.  Unless it looks like the winning agenda, nobody wants to take a guaranteed two meat damage to run a server that might have an [Urtica Cipher](/en/card/30045) in it.  The stopping power of the hosted agenda counter means that this deck can win scoring out in the late game just as much as grinding out your opponents deck to the point that they can no longer run or steal agendas without dying.  Another use was to plop one down early to protect the [Regolith Mining License](/en/card/30071) long enough to make a profit and set up.  The four trash cost means this card is a terror for your opponent to see on access and a lose/lose situation for all but the richest runners.  I played them pretty liberally because with three [Spin Doctor](/en/card/30053)s and a potential [Longevity Serum](/en/card/30044) recursion, [Argus Crackdown](/en/card/26126) and [Snare!](/en/card/31054) were always my first targets to shuffle back in.  Another benefit to using [Argus Crackdown](/en/card/26126) to make a scoring window, is that it also protects against central pressure runs to try to fork you.  Most runners just take a tempo turn or run an open archives for run effects if I haven&#039;t drawn enough ice to throw one over there.  
+
+If you&#039;re playing startup and you like grindy decks, give this one a try and let me know what you think!]]></notes>
+</deck>

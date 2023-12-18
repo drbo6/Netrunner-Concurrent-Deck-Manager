@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33001">Esâ Afontov: Eco-Insurrectionist</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26016">Bukhgalter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26067">Moshing</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26073">Paladin Poemu</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26083">Harmony AR Therapy</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26093">Buffer Drive</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30007">Fermenter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30031">T400 Memory Diamond</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30032">Mayfly</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31010">Liberated Account</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33003">Running Hot</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33004">Steelskin Scarring</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33005">Ghosttongue</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33006">Marrow</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33007">Begemot</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33009">Light the Fire!</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33010">The Twinning</card>
+  </section>
+  <notes><![CDATA[Played this deck to a 3-1 finish at our [July GNK](https://alwaysberunning.net/tournaments/3331/leisure-games-gnk-july-2022), ending in third place overall.
+
+You can find the latest version of this deck here: [Latest list](https://netrunnerdb.com/en/deck/view/ccc71a7c-c4c4-4489-9100-5fcf6de6d289)
+
+My Corp was [Divided Politics](https://netrunnerdb.com/en/deck/view/f6333c7e-77e7-40ab-a5b9-cd824301d428) which went 2-2.
+
+**The Core of the Deck**
+
+The idea is fairly straightforward; take a core damage every turn and access the top three cards of R&amp;D. People seem to be lightly defending R&amp;D because Sabotage makes them think Archives is the important server, but the main two centrals are still the main targets. Eventually there might be a bunch of cards in Archives and you can run it for some value, but you want to be locking R&amp;D out with this deck. [The Twinning](/en/card/33010) helps with this a lot by acting as an in-faction [R&amp;D Interface](/en/card/02107) which sometimes does even more. You can get extra charges on it here and there and do some quite silly accesses with it. [Running Hot](/en/card/33003) is a weird [Diesel](/en/card/01034) (to go alongside actual Diesel) in this deck. Your baseline for it is to bin a card then draw 4 cards. (One with Esa, 3 for clicks.) With all the core damage you&#039;re taking it&#039;s more likely &quot;Draw 3 cards then play one&quot;. If you draw 3 cards then play a Moshing you drew 2 then gained 3 credits? That&#039;s totally fine for what we&#039;re doing here, just constantly cycling cards and trying to find [Marrow](/en/card/33006) to keep going.
+
+There&#039;s a critical number of core damage effects you need for this to work. In here we have 10 total. I think this is the absolute lowest I could go. Light the Fire is actually not that reliable, you don&#039;t tend to _want_ to run the remote all that much, but people will commit 4 cards behind something and then you&#039;ll be able to use this and Mayfly to ruin their whole day. If the Corp puts something that costs like 4c to trash unprotected, LtF is very viable as an answer if you need to kill it. One thing I would be aware of, is if your opponent creeps up beyond like 15 credits, especially if they&#039;ve already got Ice rezzed, trashing something like [Ubiquitous Vig](/en/card/33052) is pointless. They have the money to keep you out and do their tricks now, let them have them. You win on a completely different axis.
+
+[Spin Doctor](/en/card/30053) is obviously a trash on site, so make sure you&#039;re dividing your clicks up to do that properly. I had turns where I sabotaged _then_ ran the remote which obviously has Spin in it simply due to careless planning. You can do so much with this deck and the Corp is pretty much never safe. Some super careful play towards the end of a game managed to let me snipe the last Agenda in a server from having no Breakers in play and no cards left in the stack (!!!), simply because I held back a [Mayfly](/en/card/30032) as my final card in hand.
+
+[Buffer Drive](/en/card/26093) helps you keep going essentially forever, and I think part of me wants a second one over the [Harmony](/en/card/26083). On the day I didn&#039;t play either, but Buffer has been good in the run up to the tournament. I don&#039;t think I&#039;ve played Harmony once. I started on three copies of both.
+
+This deck tends to run very poor. You have a lot of economy tied up in just applying a really weird form of pressure to the Corp, so they have to play in a weird pattern, which makes clicking for a credit not awful. That said, there&#039;s a lot of room for more money. Anarch is struggling for in faction clickless money. [Fermenter](/en/card/30007) (not technically clickless but whatever) does a decent job in the deck, and if it was supported by a little more money it would be so, so much better. I am having to take it at 3 counters far too often in this deck, and 4 is the sweet spot. 7c for 2 clicks and a card is very reasonable. A comparison here is a [Sure Gamble](/en/card/01050) into a click for 3c. At 3 counters it&#039;s Gamble into click for a credit, which is much closer to those [Creative Commission](/en/card/30020) turns where you can&#039;t figure out what to do with click 3 so just gain a credit. It&#039;s not _bad_, but you should be doing better.
+
+Casts, Paladin, Earthrise, these are all great Economy cards. The lack of a third [Liberated Account](/en/card/31010) sticks out a little, but if you don&#039;t have it alongside Career Fair it becomes very difficult to actually get into play. Click for a credit, play Liberated turns it into 6 clicks for 11 credits, which is... Fine? A play I&#039;ve always hated, but in this deck might just be good enough. I&#039;m not in the business of cutting it, and I think there&#039;s a world where I do find room for a third if I can get a second Career Fair in for example, but that creates a really weird tension between [Moshing](/en/card/26067) and the general core damage concept, and some cards that require this synergy to work. I&#039;m quite tempted by [Smartware Distributor](/en/card/30033) if I can&#039;t find more influence.
+
+The deck really needs to find room for Rezeki, an extra Twinning, and an extra Buffer Drive, and the two main candidates for being cut are Career Fair and Harmony. Harmony for Buffer is pretty straightforward, freeing up a couple of influence pips. Career Fair can come out for a Rezeki potentially, and Fermenter could even reduce in number for Rezeki and/or The Twinning in this spots.
+
+**The Tournament**
+
+_Round 1_
+
+My first game was against AceEmpress on [NEH mutually assured psychobeale](https://netrunnerdb.com/en/decklist/2cdab409-7af2-4abc-b4f2-2195dd29fa4a). They installed a bunch of cards, I checked some of them, ignored most. I was looking for Spin Doctors (and Agendas, I guess) and I think I trashed 2 Spins out of centrals, which was helpful. They landed an MAD for like 6c, and then I just ran Archives and R&amp;D with 3 Twinning counters. Their hand at the end of the game was 3 Psychographics, nothing else.  Click 2 Run play which is always nice. I burned through my deck extremely quickly in this game and got ahead pretty well to create this, but managed to lose a Mayfly and Bukhgalter to some core damage hits. I made a run on R&amp;D, knowing there was an Archer, and after it was rezzed just didn&#039;t have as many credits as I thought. I think I was expecting to spend a credit off Paladin during the run at some point. I had enough to break 1 subroutine, so I broke the ETR, got my Begemot trashed, and then Twinning&#039;d three cards seeing no Agendas. I ended up drawing the rest of my deck and going down to two cards in hand no cards in deck facing Archer on R&amp;D, no facedowns in Archives, an Ice wall on HQ, and a Sandstone on the remote. I sandbagged a Mayfly hoping they somehow misplayed their way into giving me two Agendas, but what _actually_ happened was they were playing 3 SDS Drone Deplyoments. They IAA&#039;d into a server, so I crack Fermenter, played a Gamble, Played a Mayfly, ran last click. They rezzed a tonne of cards, firing a Stavka, and I accessed, binning the not-long-for-this-world Mayfly to SDS and landing me 7 points. If their last 6 points were Azef&#039;s I can&#039;t win the game here. Super, super close.
+
+_Round 3_
+
+In round 3 I was against Mark on a MirrorMorph + Big Deal + Punitive deck. 6x 5/3&#039;s, 2x 2/1&#039;s. I misplayed early and lost the rights to my Sabotage by playing Ghosttongue _then_ running instead of checking a facedown (which was a Spin Doctor). They binned a Vacheron and Bifurcation, which they accidentally showed me as they Spun them back. They later IAA&#039;d a card onto the table and I ignored it. They scored a Send a Message and rezzed a Bran on Archives, which was fine. I stole 3 points at some point and eventually they were on around 40 credits. I saw and trashed a Big Deal off R&amp;D at some point, which they also spun back later. I was expecting that pressure alone would do the job, and while eventually it did, a Twinning run on HQ into a Twinning run on R&amp;D netted me 2 Vacherons, a second SaM and a Bifurcation (so I stole 10 points on that turn, but only 4 of them counted), they did reveal double Punitive in hand which I had absolutely no way of beating even from just the one steal.
+
+_Round 4_
+
+Sophie brought [Built to IAArge Ice](https://netrunnerdb.com/en/decklist/71007), which happens to be my least favourite archetype in the game; `Ambushes.dek`. She IAA&#039;d on turn one and I played some cards and ran it without thinking. I had a Diesel in hand, a Running Hot, and could also simply click for a card, but got Urtica&#039;d. I&#039;m extremely salty about this kind of card, so I&#039;m not going to go into it. I accidentally ran before playing my Diesel so I... Lose the whole game? Great. Excellent. Glad this exists.
+
+_OVERALL_ it was a good tournament, and a really great day. Sophie managed to take home the trophy (I wanted to get a picture but totally forgot to!), but I have an idea for a really special prize for the next GNK in August.
+
+Lots of things to think about for both this deck and my Corp side. A big thank you to everybody who came, and I can&#039;t wait for the next one.]]></notes>
+</deck>

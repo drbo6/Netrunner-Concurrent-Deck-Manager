@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30035">Haas-Bioroid: Precision Design</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26035">Hagen</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26044">Saisentan</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26097">Project Vacheron</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26103">NEXT Activation Command</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26105">Tranquility Home Grid</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26119">Ganked!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda27006">Digital Rights Management</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30037">Nico Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30038">Ansel 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31043">Eli 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33047">Mavirus</card>
+  </section>
+  <notes><![CDATA[[PDX Circuit Opener 2022](https://alwaysberunning.net/tournaments/3396/pdx-circuit-opener-2022) 2nd place of 17
+
+3 - 1 in swiss
+
+1 - 2 in top cut
+
+Paired with [Lat: Ethical Freelancer](/en/decklist/b7409874-6c47-4c3f-8ef9-34665f38051e/-startup-orb-s-last-dance-2nd-place-pdx-circuit-opener) (3-1, 2-0)
+
+Startup right now is a hostile place for corps, but [PD](/en/card/30035) is always a solid standby and [NEXT Activation Command](/en/card/26103) is really well positioned against the [Endurance](/en/card/33025)/[Boomerang](/en/card/26075)/[Botulus](/en/card/30004) meta. Despite that, I was unconvinced in my ability to pilot traditional PD decks to success with both [Pinhole Threading](/en/card/33013) around to knock out defensive upgrades and continuous losses to [Hoshiko](/en/card/26066) [Twinning](/en/card/33010) in testing. I figured if all corps are doing poorly, including a few dirty tricks could maybe steal a couple wins during swiss to sneak into the top cut.
+
+To that end, I cut the [Anoetics](/en/card/30050) and went in on [Saisentan](/en/card/26044) and [Ganked!](/en/card/26119) to either get some free flatlines on turn 1/2 or get a late game blowout when my opponent is forced to contest through a [NEXT](/en/card/26103) turn. [Saisentan](/en/card/26044) never connected through the whole event but the [Ansel 1.0](/en/card/30038) + [Ganked!](/en/card/26119) pseudo-apocalypse came through once in swiss against [Hoshiko](/en/card/26066) and once in the top cut versus [Lat](/en/card/26019).
+
+The [Saisentans](/en/card/26044) ended up feeling pretty bad against a room of [Bukhgalter](/en/card/26016) and [Afterimage](/en/card/26079), and the [Magnets](/en/card/10103), while good against some anarch tools, felt miserable against [Hyperbaric](/en/card/33026) and [Buzzsaw](/en/card/30005). Scoring was instead reliant almost entirely on a stack of bioroids with a bunch of upgrades behind it and a few good [lockdowns](/en/card/26103).
+
+ [Nico Campaign](/en/card/30037) was also nearly useless and would have served me much better as [Regolith Mining License](/en/card/30071) instead.
+
+The real MVP of the day however was [Digital Rights Management](/en/card/26117). This deck is especially susceptible to [R&amp;D](/en/card/33010) [Lock](/en/card/26004) and it both let me find agendas when needed and bluff jamming into the remote.
+
+Once again, thanks mystermerry for setting up the event, and big congrats to benticurus for the first place finish!]]></notes>
+</deck>

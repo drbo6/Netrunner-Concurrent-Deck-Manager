@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30051">NBN: Reality Plus</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26114">Bellona</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26115">F2P</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26116">Gold Farmer</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26129">False Lead</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda27006">Digital Rights Management</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30055">Ping</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31048">Biotic Labor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31062">Project Beale</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31064">Reversed Accounts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31069">SanSan City Grid</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31081">Enigma</card>
+  </section>
+  <notes><![CDATA[About
+Archetype: Fast Advance(FA) - Find a window. Score Bellona. Fast Finish!
+
+I originally wanted to make a [Focus Group](/en/card/26052) deck. I would use an [Engram Flush](/en/card/26108) &quot;bad type call&quot; to get a read on their hand and fast advance an agenda. When the combo landed, it felt awesome! However, the Focus Group clause &quot;Play only if the Runner made a successful run during their last turn&quot; limited my path to win too much.
+
+Abandoning Focus Group, the deck became &quot;unfocussed,&quot; hence the deck title BluR+. Blur also has a double meaning! It is still Fast Advance, and it can close out the game really fast.. and fast things are blurry... Ok, maybe it&#039;s not as clever as it sounds when I&#039;m explaining it.
+
+I enjoy the tense early game decisions that this deck forces on you. Piloting correctly to score an early Bellona is both challenging and exciting. There WILL be a window, through either the Runner&#039;s mistakes or my creative play. Reviewing replays have confirmed that it is a consistent opportunity.
+
+
+First Bellona to Win
+These are my main win conditions:
+
+1. [Bellona](/en/card/26114) + [Gold Farmer](/en/card/26116)/[Tollbooth](/en/card/31066)
+Scoring one early puts me in the position to score my last 2 agendas easily. Protected by Gold Farmer and/or Tollbooth, the 5 credit additional cost to steal is tough for the Runner to pay, especially during the early game where they are trying to get setup. It is very important that I find or create the window to score Bellona early ([Digital Rights Management](/en/card/26117) helps). If I am unable to score one by the time the runner is setup, it will be an uphill battle.
+
+2. [Biotic Labor](/en/card/31048) + [SanSan City Grid](/en/card/31069)
+[Project Beale](/en/card/02115) and [Tomorrow&#039;s Headline](/en/card/30052) are the agendas I finish with.
+7 Credits to score 1 agenda through Biotic Labor.
+8 Credits to score 1 agenda through SanSan City Grid.
+
+[Clot](/en/card/31005) Considerations:
+When Clot is a possibility (through [Simulchip](/en/card/26085), [Self-modifying Code](/en/card/26090), or [Gachapon](/en/card/26069)), remember to allow the runner to act when trying to score an Agenda.
+&amp;bull; [SanSan City Grid](/en/card/31069) - Install, Adv, Delay/ask for action, Adv, Rez, Score.
+&amp;bull; [Biotic Labor](/en/card/31048) - Install, Adv, Play Biotic, Adv, Delay/ask for action, Adv, Score.
+When necessary, [False Lead](/en/card/26129) and [Reversed Accounts](/en/card/31064) can bait out a Clot prematurely. SanSan City Grid is the cheaper option when baiting. In some rare situations, I can also use Bellona to bait and threaten a win at the same time.
+
+
+Absence of Common Cards
+[Daily Quest](/en/card/26048) (DQ) - This deck wants speed and DQ&#039;s are much slower than [Regolith Mining License](/en/card/30071). Regolith gives me +4 credits on the first turn I play it. The turn after, either +9 credits, or -7 credits for the Runner to trash behind a Gold Farmer. This aligns with the plan to score an early Bellona.
+
+[Funhouse](/en/card/30054) - I used to have 3. They annoyed the Runner immensely. This ice forces a runner to decide between going &quot;tag me&quot; where they collect tags OR clearing the tags. The deck can&#039;t punish the &quot;tag me&quot; decision because card slots are dedicated to Fast Advance. When I made this realization, [Tollbooth](/en/card/31066) replaced all the slots as my large code gate and it delivers on the plan to score an early Bellona. I had one flexible ice slot, and I went with [Enigma](/en/card/31081) over a Funhouse because it&#039;s cheaper and has an &quot;end the run&quot; subroutine that allows [F2P](/en/card/26115) to stack above it nicely.
+
+[Psychographics](/en/card/31068) - Because I no longer force the runner to go &quot;tag me,&quot; I don&#039;t have to use up card slots for multi-tag punishment.
+
+[Public Trail](/en/card/30057) + [Retribution](/en/card/30065) - As stated before, the fast advance tools require HQ storage so it&#039;s hard to justify these cards. Public Trail could be useful if it always drained runner credits. I can&#039;t punish the single tag without also including Retribution.
+
+Why [NBN: Reality Plus](/en/card/30051)? - 44 card deck size makes the plan to score an early Bellona very consistent. After which, finding copies of Biotic is also easier. [Ping](/en/card/30055) acts like [Vanilla](/en/card/10095)+, a gear check that forces them to clear a tag, which is great early game tempo.
+
+
+Influence and Agenda Notes
+[Snare!](/en/card/31054) + [Engram Flush](/en/card/26108) - Engram Flush is a cheap efficient central ice that can be a liability if the runner decides to let go of their hand. Snare complicates that decision, and is relatively cheap with [NBN: Reality Plus](/en/card/30051). Early iterations had influence spent on the very effective [Manegarm Skunkworks](/en/card/30042). It could be the better include, but Snare has just been an absolute fun time. The minimum deck size allows Snare to fire at least once, and [Spin Doctor](/en/card/30053)s can increase that number throughout the game.
+
+&amp;bull; Preferred Scoring Order: [Bellona](/en/card/26114), [Tomorrow&#039;s Headline](/en/card/30052), [Project Beale](/en/card/31062).
+&amp;bull; If the runner is poor: Bellona, Bellona, Any.
+I have to include a single 1 pointer to meet the deck requirement. NOT a 2 pointer because that would increase situations the Runner wins with 3 agendas stolen. I don&#039;t want to score the 1 pointer unless I&#039;m desperate. Of the options, I went with [False Lead](/en/card/26129) because the Runner has to play around it (and may also wonder about the deck if they steal it). [Superconducting Hub](/en/card/30070) could be better. [License Acquisition](/en/card/31061) is another option, but I&#039;ve found that if I&#039;m forced to score the 1 pointer, I&#039;m doing it with an already rezzed [SanSan City Grid](/en/card/31069).
+
+
+Timeline
+Opening Hand
+Best: Econ card, Remote Ice, [Digital Rights Management](/en/card/26117)/Bellona.
+Good: Econ card, Ice.
+
+Early Game: Bellona, Bellona, Bellona
+I want [Gold Farmer](/en/card/26116) or [Tollbooth](/en/card/31066) on the remote, and just enough money to jam a Bellona (5 to adv + 3/8 for ice). If [Regolith Mining License](/en/card/30071) is my early econ card, I prioritize being able to install, click for creds, click for creds behind remote ice. The leftover 9 could be sacrificed if I see a window to score Bellona.
+I pay attention to the Runner&#039;s turns, understand their need to setup, and know the cost of their early access tools ([Boomerang](/en/card/26075), [Inside Job](/en/card/31018), [Botulus](/en/card/30004), [Self-modifying Code](/en/card/26090) into a program, etc). The remote is the priority, but I&#039;ll ice R&amp;D/HQ as necessary. Icing HQ to protect Regolith (only econ in hand) can be common. If there is an early game [Snare!](/en/card/31054) trigger, I have to remember to keep enough creds for Bellona.
+
+Mid Game: Fast Advance Time?
+Hopefully I&#039;ve scored a Bellona - I can decide to score a second Bellona if the runner is poor, or start looking for economy to pay for my Fast Advance tools and protect R&amp;D/HQ. Putting a [Ping](/en/card/30055), [Engram Flush](/en/card/26108), or [Enigma](/en/card/31081) on Archives can also frustrate runners who rely on an open server. I also consider scoring normally through the remote. [Spin Doctor](/en/card/30053)s can cycle back in Fast Advance tools, Economy, and Snare&#039;s.
+If I have not scored a Bellona - I need to find more economy to pay for more ice. Hopefully I can tax out the Runner, and find that window to score Bellona.
+
+Late Game: Not so fast!
+Must be a rough game. [Reversed Accounts](/en/card/31064) is a tool that I can use to both handle Clot and open a window to score. If the runner is low on cards, [Snare!](/en/card/31054) becomes a possible win condition.
+
+
+Ice
+&amp;bull; [Gold Farmer](/en/card/26116), [Tollbooth](/en/card/31066) - Remote FIRST!!!, R&amp;D and HQ after Bellona - Primary remote defense.
+&amp;bull; [Ping](/en/card/30055) - HQ, R&amp;D, Archives, Remote desperation - Cheap gear-check that also causes the runner to clear a tag.
+&amp;bull; [Engram Flush](/en/card/26108) - R&amp;D, HQ, Archives - Preferably R&amp;D, but great on any central.
+&amp;bull; [F2P](/en/card/26115) - R&amp;D, HQ, Remote desperation - I only slotted two because it works best as 2nd layer ice on R&amp;D or HQ.
+&amp;bull; [Enigma](/en/card/31081) - HQ, Archives, Remote desperation - As mentioned above, the &quot;end the run&quot; can be important, which makes it more useful than [Funhouse](/en/card/30054) or [Whitespace](/en/card/30074).
+Note: The runner does not require a Killer icebreaker. If I was to change the Ice suite, I&#039;d consider adding a meaningful sentry. [Rototurret](/en/card/31046) may be worth the spash.
+
+
+If you&#039;ve made it this far, thanks for reading =)]]></notes>
+</deck>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31050">Jinteki: Personal Evolution</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26041">Sting!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26044">Saisentan</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26099">Cerebral Overwriter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30044">Longevity Serum</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30045">Urtica Cipher</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31051">House of Knives</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31057">Celebrity Gift</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31058">Trick of Light</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31059">Hokusai Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31065">Pop-up Window</card>
+  </section>
+  <notes><![CDATA[Shell game deck, using the iconic PE. Like the shell game it is, it is deceptively easy to think it is easy to play. It a lot of fun and doing mind games, especially on jinteki.net, is so much fun.
+
+! [Mind Game](https://www.exboyfriendrecovery.com/wp-content/uploads/2015/07/when-you-see-it.jpg &quot;Mind game&quot;)
+
+Mulligan plan : Have less than 3 agendas in hand OR at least one econ card (you need credits to play ambushes).
+
+Strategy.
+
+1. One ice per server. The point is to grind the runner, not really to protect the servers.
+2. [Hokusai Grid](/en/card/31059) goes first on R&amp;D.
+3. Advancements on [Urtica Cipher](/en/card/30045) and [Cerebral Overwriter](/en/card/26099) are there to use [Trick of Light](/en/card/31058).
+4. [Trick of Light](/en/card/31058) is to score a 2 points agenda.
+5. [Spin Doctor](/en/card/30053) is to bring back [Snare!](/en/card/31054) and [Trick of Light](/en/card/31058) (maybe [Hokusai Grid](/en/card/31059), sometime).
+6. Do not fear to put cards on the board without an ice to protect them. This is what doing a shell game is all about.
+
+Ice choice : [Pop-up Window](/en/card/31065) grind the runner and gives us creds. [Engram Flush](/en/card/26108) is just the best Jinteki ice and [Saisentan](/en/card/26044) is a good facecheck for the cost (you can even kill a runner early game with it).
+
+Agenda choice : The usual cards grinding, with [House of Knives](/en/card/31051) and [Sting!](/en/card/26041) (which as a very good kill rate). [Cyberdex Sandbox](/en/card/26128) and [Offworld Office](/en/card/30067) will give you econ, which is needed.
+
+This deck is my take on the very good Thousand Cut deck (https://netrunnerdb.com/en/decklist/65798).
+
+Bluffing with [Jinteki: Personal Evolution](/en/card/31050) is a great way to see another side of Netrunner. The ideas behind this deck is fairly simple : grind the runners cards, so that you have a chance to kill the runner simply by scoring an agenda. Otherwise, make the runner sweat about any run they will do. Tremendous fun.]]></notes>
+</deck>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33001">Esâ Afontov: Eco-Insurrectionist</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26003">Chisel</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26067">Moshing</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26068">Devil Charm</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26074">Bravado</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26075">Boomerang</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30032">Mayfly</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31010">Liberated Account</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33002">Chastushka</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33003">Running Hot</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33004">Steelskin Scarring</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33005">Ghosttongue</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33006">Marrow</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33013">Pinhole Threading</card>
+  </section>
+  <notes><![CDATA[This deck has been pretty fun to play with.
+
+We don&#039;t have any real breakers.  Devil Charm + Chisel is a fun one.  Dropping a Mayfly to run a necessary remote also works.  You want to keep central pressure - if the corp is poor you&#039;re doing it correctly.
+
+Your wincon is Sabotage, so the worst facecheck in startup you can hit is a drafter so they pull a spindoc back.]]></notes>
+</deck>

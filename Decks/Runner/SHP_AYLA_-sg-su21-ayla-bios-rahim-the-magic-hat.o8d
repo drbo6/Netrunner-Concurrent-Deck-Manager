@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31025">Ayla &quot;Bios&quot; Rahim: Simulant Specialist</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30016">Marjanah</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30022">DZMZ Optimizer</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30023">Pantograph</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30024">Conduit</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30025">Echelon</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30026">Unity</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30027">Telework Contract</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30033">Smartware Distributor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31004">Retrieval Run</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31005">Clot</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31018">Inside Job</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31022">Femme Fatale</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31028">Test Run</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31029">The Maker&#039;s Eye</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31030">Atman</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31035">Aesop&#039;s Pawnshop</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31036">Professional Contacts</card>
+  </section>
+  <notes><![CDATA[[Ayla](https://netrunnerdb.com/en/card/31025) adds an interesting spin to the Mulligan phase in that you can choose to use the cards set aside as an extra hand that you can pull cards out of at the time that you need them or remove cards from your deck that you think you don&#039;t need in your match up. For this reason, this decks features a big-rig set up with [Atman](https://netrunnerdb.com/en/card/31030), [Echelon](https://netrunnerdb.com/en/card/30025) and [Unity](https://netrunnerdb.com/en/card/30026), while [Marjanah](https://netrunnerdb.com/en/card/30016) and [Buzzsaw](https://netrunnerdb.com/en/card/30005) are there to deal with low-strength [barriers](https://netrunnerdb.com/en/card/31067) and [code gates](https://netrunnerdb.com/en/card/31081) efficiently. The primary way of this deck to deal with big, scary ice like [Brân 1.0](https://netrunnerdb.com/en/card/30039), [Archer](https://netrunnerdb.com/en/card/31075) and [Pharos](https://netrunnerdb.com/en/card/30063) is to cheat out [Femme Fatale](https://netrunnerdb.com/en/card/31022) with [Test Run](https://netrunnerdb.com/en/card/31028) and [Retrieval Run](https://netrunnerdb.com/en/card/31028) to circumvent the steep install cost. As this deck is rather slow, it also runs both [Clot](https://netrunnerdb.com/en/card/31005) to slow down the corp and [Professional Contacts](https://netrunnerdb.com/en/card/31036) to gather credits as you draw into your cards, which is why you want to get the latter down on the board as soon as you can. This is also why this list runs [Smartware Distributor](https://netrunnerdb.com/en/card/30033), since you can install it early where you can benefit from it the longest or install it later clicklessly using [Pantograph](https://netrunnerdb.com/en/card/30023), and if you find you don&#039;t have the clicks to stack the credits on them or need a burst of money, you can sell them in [Aesop&#039;s Pawnshop](https://netrunnerdb.com/en/card/31035) for 3 credits.]]></notes>
+</deck>

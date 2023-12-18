@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26031">MirrorMorph: Endless Iteration</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26034">Nanoetching Matrix</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26035">Hagen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26037">Red Level Clearance</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26038">Cold Site Server</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26097">Project Vacheron</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26101">Drafter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26105">Tranquility Home Grid</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26108">Engram Flush</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26128">Cyberdex Sandbox</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30038">Ansel 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31041">Project Vitruvius</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31082">Subliminal Messaging</card>
+  </section>
+  <notes><![CDATA[The last months I have mainly been playing Startup format. Getting a bit bored with the identities I had been playing I wanted to try out something new.
+I remembered that [Cold Site Server](/en/card/26038) used to combo ok with [MirrorMorph: Endless Iteration](/en/card/26031), especially with [Red Level Clearance](/en/card/26037). Throw some [Subliminal Messaging](/en/card/31082) into the mix, and we have a deck!
+
+It did surprisingly good, so I decided to post it here.
+
+If you have a server with [Tranquility Home Grid](/en/card/26105) in it, a turn could look like this:
+1. Play operation: [Red Level Clearance](/en/card/26037) to install a [Cold Site Server](/en/card/26038), gain a click to click the CSS
+2. Install [Project Vitruvius](/en/card/02051)
+3. Click CSS
+You can also have CSS along with [Manegarm Skunkworks](/en/card/30042) for further protection. 
+When you click your CSS it is fairly obvious what is going on, so never-advancing is possible with [Seamless Launch](/en/card/30040), but why not give yourself a vitruvious counter instead to bring seamless or RLC back?
+
+Also remember that clicking two different [Cold Site Server](/en/card/26038)s are two different actions, so installing multiple CSS in the same remote might seem unintuitive, but with a [Tranquility Home Grid](/en/card/26105) you are happy to have more targets for the same server. I won a game by installing [Project Vacheron](/en/card/26097) click 1, click CSS click 2, click a second CSS click 3 and then gain a click to click the 3rd one :) That is probably more fun than good, but it won me the game :)
+
+The deck is pretty solid, even though it stands as i threw it together in literally 5 minutes, but if you like it, push the ]]></notes>
+</deck>

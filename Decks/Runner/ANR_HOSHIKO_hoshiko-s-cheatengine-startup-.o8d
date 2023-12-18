@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26066">Hoshiko Shiro: Untold Protagonist</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26003">Chisel</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26004">Stargate</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26070">Keiko</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26073">Paladin Poemu</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26095">DreamNet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30002">Wildcat Strike</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30007">Fermenter</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30008">Leech</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30009">Cookbook</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30031">T400 Memory Diamond</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31007">Imp</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31008">Mimic</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31009">Ice Carver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31010">Liberated Account</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+  </section>
+  <notes><![CDATA[A shoutout to everyone on Jnet, GLC Discord, and the East Bay Slack group for helping me with this list.
+
+It&#039;s a lot of fun to pilot and versatile at granting ultra cheap runs and breaking apart RnD for Stargate or scoring remotes.
+
+Edit: -1 [Wildcat Strike](/en/card/30002), -1 [Botulus](/en/card/30004), +1 [T400 Memory Diamond](/en/card/30031), +1 [Chisel](/en/card/26003).
+
+This is a MU hungry deck and [T400 Memory Diamond](/en/card/30031) is more important than I thought. [Jinteki: Personal Evolution](/en/card/01067) kill decks are popping up so that extra hand size from [T400 Memory Diamond](/en/card/30031) will help keep you outside their [Neurospike](/en/card/30049) combo.
+
+The change to 3x [Chisel](/en/card/26003) is there to assist our [Mimic](/en/card/31008) with [Leech](/en/card/30008), [Ice Carver](/en/card/01015), and [Cookbook](/en/card/30009).
+
+You could also drop [Botulus](/en/card/30004) completely and add [Devil Charm](/en/card/26068) to bounce through servers with [Simulchip](/en/card/26085), which was the original strategy but I wanted to try a more balanced approach.
+
+I&#039;m still learning how to pilot this deck, but one thing I&#039;ve learned is not to be afraid to sac a [Simulchip](/en/card/26085) to reposition a [Botulus](/en/card/30004) or [Chisel](/en/card/26003) into a more favorable position late game when you are ready to start [Stargate](/en/card/26004) runs on RnD or challenge the scoring remote.]]></notes>
+</deck>
