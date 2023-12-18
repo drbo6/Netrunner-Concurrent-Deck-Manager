@@ -7,9 +7,10 @@ import copy
 import webbrowser
 
 class Data:
-    def __init__(self, csv_file="Cards/Runner Cards.csv", decks_folder="Decks/Runner"):
-        self.cards_file_path = csv_file
-        self.decks_folder_path = decks_folder
+    def __init__(self, csv_file="./Cards/Runner Cards.csv", decks_folder="./Decks/Runner"):
+        self.dirname = os.path.dirname(__file__)
+        self.cards_file_path = os.path.join(self.dirname, csv_file)
+        self.decks_folder_path = os.path.join(self.dirname, decks_folder)
         self.decks = self.load_decks_data_from_folder()
         self.cards_remaining = self.load_card_data_from_csv()
         self.cards_used = copy.deepcopy(self.cards_remaining) # This is a mutable list with a mutable dict inside. Copy() will only copy the list. Deepcopy will copy the list and the dict.
