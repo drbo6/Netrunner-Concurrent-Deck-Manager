@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30035">Haas-Bioroid: Precision Design</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30064">Government Subsidy</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31041">Project Vitruvius</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31048">Biotic Labor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33031">Élivágar Bifurcation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33035">Echo</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33037">Wave</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33047">Mavirus</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33096">Ontological Dependence</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33097">Nightmare Archive</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33098">Bloop</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33103">Mr. Hendrik</card>
+  </section>
+  <notes><![CDATA[This is the deck I took to our 14 people Startup GNK in Milan, I decided to take this one because I didn&#039;t like [Drago](/en/card/33051) nonsense (even if strong) but I had low expectations, it went undefeated.
+
+The basic idea is to play totally remoteless, in startup [Boat](/en/card/33025) is a staple so I wanted to give it as few target servers as possibile, this means a pile of ice on R&amp;D, some on HQ (depending on the agenda situation and opponent) and [Nightmare Archive](/en/card/33097) to protect Archives along with [Mavirus](/en/card/33047). 
+
+Ideally you want to FA three 3/2 and a 2/1 slowing the runner with the -1 from [Nightmare Archive](/en/card/33097), they are also needed to make the two [Ontological Dependence](/en/card/33096) at least 3/2. Whenever you FA an agenda you take back the [Biotic Labor](/en/card/31048) or an economy card if another copy of Biotic is in hand. This is possible just because at the moment [Clot](/en/card/31005) is unplayable in Startup without [instant](/en/card/26090) [speed](/en/card/26085) tools.
+
+The two [Mr. Hendrik](/en/card/33103) are there just to be installed togheter on a central server in order to give a single Core damage even to the most careful runners and activate [Ontological Dependence](/en/card/33096) as a 3/2. They never fired in the entire day but scared few runners avoiding me to spend money on ice.
+
+[Tollbooth](/en/card/31066), [Bran](/en/card/30039) and [Bloop](/en/card/33098) are enough taxing also for [Boat](/en/card/33025) and [Botulus](/en/card/30004) and make the runner check centrals less often.
+
+The single [Send a Message](/en/card/30069) is a liability in the deck, you will never score that but [Nightmare Archives](/en/card/33097) help even in case of steal.
+
+During the day I faced a [Padma](/en/card/33021), three [Esâ](/en/card/33001) and an [Ayla](/en/card/31025), most of the time the deck did exacly what it should and just in a couple of games I got flooded before finding a Biotic but I managed not to lose anyway.]]></notes>
+</deck>

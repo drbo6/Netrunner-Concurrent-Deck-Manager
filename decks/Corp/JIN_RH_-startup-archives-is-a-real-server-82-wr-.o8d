@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30043">Jinteki: Restoring Humanity</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30046">Diviner</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31046">Rototurret</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31069">SanSan City Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33039">Blood in the Water</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33040">Regenesis</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33043">Anemone</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33044">Bathynomus</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33045">Ivik</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33108">Hafrún</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33109">Vampyronassa</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33110">Simulation Reset</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33111">Nanisivik Grid</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33117">Unsmiling Tsarevna</card>
+  </section>
+  <notes><![CDATA[##[Regenesis](/en/card/33040) is really cool, ok?
+
+Here, we&#039;re trying to take full advantage of the whole &quot;facedown in Archives&quot; theme that has been released. And it is surprisingly decent.
+
+[Nanisivik Grid](/en/card/33111) is phenomenal at defending centrals or the occasional scoring server, and is especially good at defending Archives. [Restoring Humanity](/en/card/30043) makes us buckets of money, enough to fuel our expensive ICE. And of course [Regenesis](/en/card/33040) is the star of the show. Scoring only two Regenesis in a game in order to win is not only feasible, but a pretty good strategy.
+
+To support these shenanigans, we run a full suite of [Anemone](/en/card/32005) and [Hansei Review](/en/card/30048) alongside two [Hafrún](/en/card/33108) - being able to on demand trash cards into Archives is very good. 
+
+[SanSan City Grid](/en/card/01092) lets us FA Regenesis and the occasional Blood in the Water, plus it&#039;s very taxing to trash. The more time and resources runners spend on installed stuff, the fewer times they will check archives. And of course [Snare!](/en/card/01070) costs runners in tempo and cards, randomly kills them if they don&#039;t respect Red, and enables fast advance of Blood in the Water,
+
+You will need to defend Archives a lot with this deck. Like, you will often double or even triple-ice Archives to deter runs, or support it with Nanisivik Grid. With only 2-3 facedowns, it is rare for runners to actually bother running through to check.
+
+Worth mentioning is that this deck definitely gains a lot from the &quot;rogue factor&quot;, in that people don&#039;t know how to play against it. Just posting it here may reduce my winrates in the future, but it&#039;s still too much fun not to talk about :)]]></notes>
+</deck>

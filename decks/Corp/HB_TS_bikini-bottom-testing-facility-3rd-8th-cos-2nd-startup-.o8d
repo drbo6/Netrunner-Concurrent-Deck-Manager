@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33095">Thule Subsea: Safety Below</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31048">Biotic Labor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31065">Pop-up Window</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33031">Élivágar Bifurcation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33096">Ontological Dependence</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33097">Nightmare Archive</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33099">Pulse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33103">Mr. Hendrik</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34031">Salvo Testing</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda34034">Ablative Barrier</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34035">Jaguarundi</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34037">Greasing the Palm</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34038">Vovô Ozetti</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda34044">Tatu-Bola</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda34054">Virtual Service Agent</card>
+  </section>
+  <notes><![CDATA[
+
+This is the deck I brought to Worlds for the Crown of Servers and Startup Championship. I went 8-2 over both day loosing only to Pinsel playing my own [Runner deck](https://netrunnerdb.com/en/decklist/1bc216f4-80e4-4db6-a56a-87c8d494f57d/cats-orca-1rst-8th-cos-2nd-startup-championship-) and Startup- Champion Tradon on [Zahya](https://netrunnerdb.com/en/decklist/45e4e2a8-df0c-42b0-9df4-a144d4e922b0/who-needs-a-boat-anyways-1-at-startup-worlds-2023). I convinced lostgeek to play it at CoS as well were he also went 4-1 with the deck getting 3rd place with his team.
+
+Preparing for Startup I made a few observations:
+
+- Boat is legal -&gt; Ice is bad, scoring agendas in a remote is bad
+- Drago is legal, but every Runner techs heavily for him, so it is much less impactful
+- This generally felt like a Runner favoured Meta to me
+- Clot is legal, but no SimulChip or SMC. Despite this there are no good FA Strategies
+- There are no defensive Agendas, making Centrals incredibly soft
+- People have no idea how to play against Thule
+
+These observations let me to this list. It is a bit cheesy and would probably loose a bunch of its power in an open-decklist-cut against prepared opponents, but it is very good in Swiss against unprepared runners (and is much less of a known entity like Kill-NEH).
+
+
+The deck essentially presents a very simple Fork for the runner:
+
+
+Early game you can leave centrals very light (against run-econ crim some ice to keep them from getting value is important) as Thule and Nightmare make running Centrals very unattractive. Build a remote with [Hendriks](https://netrunnerdb.com/en/card/33103) and [Skunkworks](https://netrunnerdb.com/en/card/30042) and ice it either with [Pulse](https://netrunnerdb.com/en/card/33099) to tax clicks further or [some](https://netrunnerdb.com/en/card/34034) [gear](https://netrunnerdb.com/en/card/34044) [check](https://netrunnerdb.com/en/card/31044). Try to score a [Salvo](https://netrunnerdb.com/en/card/34031) in there asap. Most runners won&#039;t even contest (especially if you don&#039;t advance because you have two [Seamless](https://netrunnerdb.com/en/card/30040) in Hand) and when they do they hopefully take 2 core damage in [the process](https://the-process.org/). 
+
+After that ice up Centrals and dig for [Elivagar](https://netrunnerdb.com/en/card/33031) for the 2nd core and then more Elivagar or [Ontos](https://netrunnerdb.com/en/card/33096) to close out the game. The ice suite here is not designed to keep the runner out but to be cheap and as annoying as possible.
+
+Huge shoutout to all the folks at NSG who made the whole Worlds Weekend possible.
+
+Also thanks to the NWE folks for being amazing people.]]></notes>
+</deck>

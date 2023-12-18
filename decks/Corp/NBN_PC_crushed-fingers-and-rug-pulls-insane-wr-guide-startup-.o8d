@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33048">Pravdivost Consulting: Political Solutions</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30057">Public Trail</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30063">Pharos</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30065">Retribution</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31046">Rototurret</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31062">Project Beale</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31063">Daily Business Show</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31064">Reversed Accounts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31077">Ice Wall</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31081">Enigma</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33049">Artificial Cryptocrash</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33053">Mestnichestvo</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33054">Vasilisa</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33056">Vladisibirsk City Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33114">Gaslight</card>
+  </section>
+  <notes><![CDATA[# TL;DR
+I am confident this deck is strong given the current field in parhelion startup. Currently  27 - 6 with it, (Statistical outlier for me). Try it! But also let me know if it worked for you, as I am in desperate need of that sweet sweet nerd cred.
+
+# Overview
+My initial attempts with Pravdivost were grindier, tag focused versions. It was decent, but hard to justify vs [R+](/en/card/30051). 
+
+With a faster game plan, the id works for you by rewarding questionable plays like neglecting your central servers. The deck is very straightforward, built around the busted 4/2 agendas that [wins you the game](/en/card/33049) without [losing tempo](/en/card/30067) 
+
+# Game Plan
+Plan A is scoring a Beale as a 3/5. This is especially critical in matchups where the runner has less incentives to run often.
+The safest way to do so is never advancing it behind your best ices using your 6 copies of [Seamless Launch](/en/card/30040). But if you see a scoring window open, even half open, or blatantly imagined, just go for it. Get the pie. That pie is worth more to you than the runner. There will be more pies to grab with your bloodied, crushed, fingers.
+
+Oh yeah, [Gaslight](/en/card/33114) is Seamless launch with extra steps. Runners can deny themselves 2 credits if they want, makes no differences to you.
+
+# Tips
+Try to use your [best ice](/en/card/33053) for the scoring remote. You want a single remote that is as taxing as possible. Put as few resources as possible on centrals. This might end up being quite a bit, depending on the matchup, but you should feel bad about it. 
+
+As an example, if you see a single etr ice and a [Offworld Office](/en/card/30067) in your opening hand, it&#039;s a good hand. Install them right away.
+
+[Crypto crash](/en/card/33049) is trickier. You don&#039;t want to hit some curious runner holding a few bitcoins who might have lost his key. You want a crypto bro that is deep  in some obscure currency that claims to solves every issues under the sun. The crash needs to hurt. If you have one installed, consider waiting an extra turn. Use your ability on some ice as to not arouse suspicions.
+
+Don&#039;t put your [Regolith Mining License](/en/card/30071) in your scoring server. Instead, try to be especially careless with them. As they are, like most assets, actually Seamless Launch.
+
+# Tweaking
+Don&#039;t mess with Seamless Launch, don&#039;t mess with things that looks like a Seamless Launch. Everything else is fair game.
+
+Surprise performers:
+
+I would keep at least one [Daily Business Show](/en/card/06086). It accelerates your game plan, helps with RND locks, and can be helpful getting/avoiding the more situational cards in the deck.
+
+[Mestnichestvo](/en/card/33053) and [Ice Wall](/en/card/01103) are great. Ice strength is either useless ([Boat](/en/card/33025)) or busted ([fixed](/en/card/30006) [breakers](/en/card/30005)). These ices are useful no matter what.
+
+Worse performers:
+
+You&#039;d think [Vladisibirsk City Grid](/en/card/33056) is critical in that list, it&#039;s decent, allowing scoring 4/2 out of hand, sometimes. I never tried cutting it.
+
+[Reversed Accounts](/en/card/06066) is a worse crypto crash, meh. I just don&#039;t know what to replace it with. It&#039;s the 50th card in a 49 card list.
+
+You can switch the [Beales](/en/card/02115) for [Send a Message](/en/card/30069) which is the version I played with the most. It&#039;s strong, that being said I&#039;ve had better results since switching for Beales. Send a Message might be better but more swingy. (Runner not needing 4 agendas)]]></notes>
+</deck>

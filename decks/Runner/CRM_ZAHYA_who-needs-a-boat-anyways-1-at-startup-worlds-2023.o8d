@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30010">Zahya Sadeghi: Versatile Smuggler</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30011">Mutual Favor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30014">Pennyshaver</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30015">Carmen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30018">Red Team</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30026">Unity</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31018">Inside Job</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31024">Security Testing</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31029">The Maker&#039;s Eye</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33010">The Twinning</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33017">Cezve</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33020">No Free Lunch</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33078">WAKE Implant v2A-JRJ</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34018">Shibboleth</card>
+  </section>
+  <notes><![CDATA[I still can&#039;t quite believe it while sitting here and writing this - I&#039;m startup champion, I won.... wow... sounds crazy somehow :D 
+And I just can&#039;t keep myself from smiling :D
+
+Sry, for that introduction - but that&#039;s exactely how it feels now.
+
+
+This is part 1 of my write-up for startup-championship at worlds 2023. Part 2 can be found in my Corp-Deck. 
+
+1. About the deck - and startup in general:
+
+I don&#039;t normally play startup - that might sound crazy, considering I won, but I only play it a few times a year at tournaments and side-events etc. Mostly because I don&#039;t have as much time for Netrunenr as I want to have, so the time I do get is normally used for standard, especially before tournaments like worlds.
+So normally I do have one corp- and one runner-deck for the format that I play until it&#039;s not working anymore or rotating.
+I think in the case of this runner-deck that&#039;s a very good thing though, because by playing this deck for over two years now I got it refined card by card and trained how to play it game by game.
+
+It started with TheBigBoy&#039;s Startup Zahya for a smaller tournament in Ulm back then - I tried the deck, liked it and took it. It was fun to play, easy to learn and strong enough with it&#039;s multi-access. And I especially liked the &quot;symmetry&quot; of the three breakers in three colours, even more so after switching to cleaver later, so they all did cost three then :D 
+Later I changed it to include The Twinning after Midnight Sun, and these changes gave the deck a bit more late-game-power, when all the run-events are gone. 
+That was also basically the same version I took to worlds 2022 startup-championship. I became 27. back then and afterwards I always told people jokingly, that I was &quot;officially world&#039;s best startup-Zahya-player.&quot; 
+After Parhelion and it&#039;s rotation I had to change some things and then with TAI i di not change anything at all - as i said, no time for that with stadrad-preparations. Until Zaphod (whom i already infected with &quot;how powerful&quot; this deck was) suggestet to use Shibboleth instead of Cat&#039;s Cradle, because it&#039;s cheaper and stronger in the beginning, before it gets replaced with unity later in the game, so I changed that card on Saturday evening. :D 
+
+The deck does have a lot of strong run-economy and tends to get stronger and stronger over the game, the more pieces you build up and add by installing more breakers, more eco, more multi-access etc. It does threaten HQ and RND at the same time and also uses Archives for Red Team and Sec-Testing and to get twinning-counter. 
+It&#039;s small decksize and the two mutual favor both help for faster setup and consistency. 
+
+2. Some cardchoices: 
+About Red Team: I like this card - especially in startup crim, where the choice of economy-cards is somewhat limited. I had quite some discussions about it in the past, but I mostly do see it as a criminal Liberated Accounts. As long as you use the click for a run you would make anyways it&#039;s basically the same value as liberated, and it does get added value from synergising with other things in the deck, like Zahya, pennyshaver, sectesting etc.
+Pennyshaver: I did not test out Hermes at all - as stated above, I just didn&#039;t test a lot of startup anyways, so as long as the deck keeps working I tend to not change a lot. And I do feel like the 1 cred per run is still very strong, especially in this very-run-economy-oriented deck. 
+
+3. Startup Championship 2023: 
+First, let me tell you something about tournaments. I do already believe this (and tell people about it) for a dekade of Netrunner-tournaments now: 
+To win a tournament you need to be prepared (good decks, know the meta, etc.), play good (make no mistakes, etc.) - AND have some luck! You always need all three in the end. 
+Why do I emphasize this so much? Because I did have a lot of luck on that day! 
+
+I started by missing round 1 because I had to play one more round of standard to get enough points for all the prices, before I was willing to drop. I did however drop, because I was way more confident in my &quot;old-trusty&quot; startup-decks, than in winning 4 more standard-games in a row to just maybe make it into the bubble. 
+Round 2 the luck startet - I played with Zahya against Phil Earles with PD and just topdecked 5 points from an open RND with makers eye in the first turn, and then 2 more points with jailbreak in turn 2 - nice start and a welcome break after a very fast game :D 
+After winning round 3 with corp and a long lunch-break I arrived at the top tables and faced testrunning with Thule Subsea in round 4. I&#039;m missing a few notes here, but as far as I remember I got one early agenda from his server and the rest from HQ and in the end RND. I had to go up to 10 points though because of these pesky Nightmares and I got two minor headaches from the noise of him testing salvos, but in the end my rig was setup and I locked rnd enough to win. 
+Round 5+6 were corp-games again and in round 7 I faced Necrid with Weyland: Built to Last. The game went back and forth some time and a few minutes before time he was ahead with 4 to 2 agenda-points. I had however setup The Twinning, Docklands Pass and WAKE-implant - so I tried to gather as many counters as I could on HQ to do a final glorious Maker&#039;s Eye-Run for up to 8 cards on rnd when time was called.... at least that was the plan. The final two rounds took us just 10 seconds too long, so when time was called I was just on my 4 click wanting to take money of Pennyshaver and pass the turn again. I froze over and counted a dozen times, but I was short one credit to play Maker&#039;s Eye and still get into RND through Mestnichestvo (and Icewall), so I had to do the run without playing the event and hoping 5 cards would be enough - luck was with me again, as I found 3 points and got a timed win... whew. 
+Round 8 against The Robin with Jinteki: Restoring Humanity was the only game I lost on this day. Mostly because I got greedy and thought I could faceplant into some sentrys and will only eat some net-dmg - but Instead found a Stavka without Carmen to save me. I still managed to get into that server once with Insidejob for a Send a Message, but then lost against double-punitive (I had already seen one on RND before, and hoped he wouldn&#039;t have two - which he did....).
+Round 10 against Wikignometry playing NBN. Reality Plus was one of the most nervewrecking Netrunner-games I ever had - mostly because I knew we were playing for the champion-title, but also because the threat of some tags becoming my End of the Line for this year was looming over me. 
+I managed to steal something from an AMAZEing server without getting tagged due to my 3x skipping lunch but then she  found out all about meand still tagged me. As I was somewhat tagged anyways I startet to do as much multi-access on RND as I could and again - got lucky enough to find enough points before she found enough green cards to kill me. 
+
+That&#039;s it for this write-up. If you made it this far - thanks for reading. 
+And as I already postet everywhere on sunday Night after the event: 
+ Thank you everyone! 
+All opponents, all NSG, all players, all of my little team, all everyone!!!!  
+
+Corp-Write-Up here]]></notes>
+</deck>

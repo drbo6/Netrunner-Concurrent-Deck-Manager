@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26019">Lat: Ethical Freelancer</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26025">Pelangi</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26084">Aniccam</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26085">Simulchip</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26090">Self-modifying Code</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda27001">Mystic Maemi</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30015">Carmen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30026">Unity</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30027">Telework Contract</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31005">Clot</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31020">Networking</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31038">Prepaid VoicePAD</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33010">The Twinning</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33013">Pinhole Threading</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33022">Deep Dive</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33023">Into the Depths</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34011">Chrysopoeian Skimming</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34025">Pichação</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34030">Bahia Bands</card>
+  </section>
+  <notes><![CDATA[This is the [Deep Dive](/en/card/33022) Lat I took to UK Nats. I&#039;ve been playing some variation on [Aniccam](/en/card/26084) Lat for at least a year and a half - I should probably branch out at some point but I&#039;m always finding new tricks, tweaks, and reasons to love it. I won&#039;t turn this writeup into a 4000 word stream of thoughts about UK nationals (for that, see [my corp](https://netrunnerdb.com/en/decklist/1a2d56ee-0d16-4403-85e2-3046d2010937/elizabeth-mills-told-me-to-do-it-to-them-14th-at-uk-nats-)), this is just thoughts on the deck. (It&#039;s also a bit messy bc I made it in a rush before getting food, I might clean it up once I&#039;ve eaten.)
+
+I ended up mostly by chance with something pretty similar to the Deep Dive Shaper lists running around at Nats. You want to money up and set up as you need to. Threaten early pressure or light remotes if the option arises - otherwise just start deep diving to get the rest of the points. I fully never considered [Hannah &quot;Wheels&quot; Pilintra](/en/card/34008), but she&#039;s probably a very natural addition to the list. (I wouldn&#039;t cut [Pichação](/en/card/34025) though, simply because the [searchability](/en/card/03046) and [clickless](/en/card/34030) [install](/en/card/33023) are extremely helpful in setting up faster or threatening it more out of nowhere.)
+
+You have a lot of money events to accelerate your set up - use this with the Lat draw to get into the position of threatening deep dive as quick as possible. If you have the cards out, [The Twinning](/en/card/33010) poses a very respectable threat that can support or substitute your deep dives as appropriate.
+
+Against lists you suspect are running [Border Control](/en/card/23054), or games where the corp tries to score out early with unrezzed centrals ice, think about what the worst ice that can hit you is, then often you can play like you have the Deep Dive in hand regardless of whether you do. If you have the option, combining it with run events helps both really sell the threat and gives it more teeth if you don&#039;t draw the deep dive. In multiple cases, I&#039;ve done that play and drew into it off [Jailbreak](/en/card/30028) or [Aniccam](/en/card/26084). The threat of it can also either goad corps into rezzing and making them broke enough they can&#039;t rez the remote ice, or if they stay stoic jailbreak and dirty laundry make sure you don&#039;t fall behind regardless.
+
+[Pelangi](/en/card/26025) is a better [K2CP Turbine](/en/card/33090) for this deck. It enables threatening remotes and deep dives much earlier before you&#039;re set up, and once you are it lets [Cleaver](/en/card/30006) break [Drafter](/en/card/26101) for 1c rather than 4c with Carmen, or [Unity](/en/card/30026) break a triple advanced [Pharos](/en/card/30063) for *6 credits.* It even doubles as an answer to Stavka-Hafrun. You&#039;re not making that many runs, but they&#039;re high impact, so cheap and limited use is better than expensive and permanent. If you need to you can recur it with [Simulchip](/en/card/26085), and if you&#039;re feeling really tricksy, a line I only discovered earlier today (i.e. well after the tournament) is:
+
+* Install simulchip and pelangi.
+* Have a breaker in heap.
+* Run a server, paint the ice you encounter, then simulchip back your breaker for a cheaper install while also getting the painting effect.
+
+[Chrysopoeian Skimming](/en/card/34011) is a card all my opponents have to read. I&#039;m always a little unsure about it but the nature of the deck means it never feels bad to play - once you&#039;re at all setup its modes are 0 to look at the top 3 cards of R&amp;D or see an agenda in HQ and clicklessly draw a card or two. It&#039;s at its best when combined with Twinning, because then your ability to capitalise on the information you get is far better - you can steal an agenda from anywhere in the top 3, and you can see much more of HQ on the very rare chance someone reveals an agenda from it.
+
+[Carmen](/en/card/30015) is brilliant against almost every sentry not named [Drafter](/en/card/26101). In a more HB meta it should maybe change, but it just keeps earning its keep and [Echelon](/en/card/30025) takes too much setup to be usable for us.
+
+The rest of the deck is to my knowledge relatively standard? I would try and think of more to say beyond &quot;I haven&#039;t been following the meta enough to judge this deck&#039;s place in it&quot; but I need to finish both of these because I&#039;ve been typing deck writeups for apparently the better part of 9 hours at this point.
+
+Nats was awesome, shout out to everyone who made it so cool!]]></notes>
+</deck>

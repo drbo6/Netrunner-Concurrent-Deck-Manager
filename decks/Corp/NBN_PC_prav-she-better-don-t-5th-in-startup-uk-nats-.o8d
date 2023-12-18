@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33048">Pravdivost Consulting: Political Solutions</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30045">Urtica Cipher</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30054">Funhouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30055">Ping</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30065">Retribution</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30068">Orbital Superiority</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31062">Project Beale</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda32006">Vladisibirsk City Grid</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33051">Drago Ivanov</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33052">Ubiquitous Vig</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33053">Mestnichestvo</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33117">Unsmiling Tsarevna</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33119">Shipment from Vladisibirsk</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda34049">Oracle Thinktank</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34053">Starlit Knight</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda34055">Oppo Research</card>
+  </section>
+  <notes><![CDATA[I built this start-up deck myself in an act of stubbornness borne from a commitment to the power of evil consultancy work. 
+
+
+This deck is a work in progress and I am *delighted* that [Cobalt](https://netrunnerdb.com/en/profile/41523/Cobalt) won the [UK National Startup 2023](https://alwaysberunning.net/tournaments/3981/uk-nationals-2023-startup-side-event) title with this ID. The dream of Prav lives… and for those inspired, perhaps use [their decklist](https://netrunnerdb.com/en/decklist/d6b58965-13f2-4f47-930b-1e2d6a8de8a4) instead!! 
+
+###Backstory
+
+After my standard [Prav build for World&#039;s](https://netrunnerdb.com/en/decklist/07b9df65-2615-44c8-bf63-917145295991/prav-at-worlds) proved slow, I resigned myself to the fact that I wasn’t able to get my [beloved consultants](https://netrunnerdb.com/en/card/33048) to function reliably in a competitive standard format (for now!). At [UK Nats 2023](https://alwaysberunning.net/tournaments/3871/uk-nationals-2023-main-event), therefore, I opted for a taggier and snappier, [Reality+](https://netrunnerdb.com/en/card/30051) in standard, the foundations and best ideas of which are [Pinsel’s](https://netrunnerdb.com/en/profile/7514/Pinsel) [KANEHL+](https://netrunnerdb.com/en/decklist/f192dc7e-d3b2-4451-9d1e-eabfd5bff199/kanehl-14th-at-worlds) deck. This proved to be a wise choice, converting to 4 wins in the 6 games I played with it during the day. Shout out to Mike [(leachrode)](https://alwaysberunning.net/profile/17463) and [Ollie](https://netrunnerdb.com/en/profile/17901/Ollie) for bettering it, in two fantastic games. That deck is [here](https://netrunnerdb.com/en/decklist/a0388242-bd9a-419b-84e2-278ea8af86a4/kanehl-express-shipping-option-4-2-39th-in-uk-nats-2023-).
+
+###Playing Prav in Startup at UK Nats 2023
+
+The deck immediately felt better, and although I only closed one win across four games, all four went to five or six agenda points and were real nailbiters. I think that with a little more practice this deck has something going on.
+
+###Key ideas:
+
+#### 1. Try and score a [Big Beale](https://netrunnerdb.com/en/card/31062) if you get the window. 
+
+Get the window by getting it in [hand](https://netrunnerdb.com/en/card/30056) [early](https://netrunnerdb.com/en/card/30053), smashing it behind one of the [gear](https://netrunnerdb.com/en/card/30055) [check](https://netrunnerdb.com/en/card/33053) ices in a remote. You can Prav free advance on the runners turn, then [Seamless Launch](https://netrunnerdb.com/en/card/30040), advance, advance, score. [Beale](https://netrunnerdb.com/en/card/31062) is best as a 3/5 here. Go Get It! Yes your economy takes a hit, but silly consultancy tools like [prediction](https://netrunnerdb.com/en/card/30056) and artful [ubiquitiousness](https://netrunnerdb.com/en/card/33052) can fix that soon enough. 
+
+ 
+
+
+ 
+#### 2. Go for the Long Con
+
+Failing finding a Beale, focus on the [Offworld’s](https://netrunnerdb.com/en/card/30067) to get some long-con econ (con standing for for consultancy obviously... *evil side eyes*)
+
+
+
+
+The safest way to do this is to get a [Vlad Grid](https://netrunnerdb.com/en/card/33056) and an [Urtica](https://netrunnerdb.com/en/card/30045) out in one turn, and then advance the Vlad. Then, hopefully the runner will be too scared to run it and you can just get the second advancement on their turn as they run on a central/unprotected remote with something [distracting]([https://netrunnerdb.com/en/card/30053) [and/or](https://netrunnerdb.com/en/card/33051) [annoying](https://netrunnerdb.com/en/card/34049). 
+
+
+#### 3. Use [Spin Doctor](https://netrunnerdb.com/en/card/30053) to cycle back Economy
+
+Charge and invoice, cash it in, rinse and repeat. You&#039;ll need to spin back [Seamless Launches](https://netrunnerdb.com/en/card/30040) and also the economy cards - the limited number of these being a weaker part of this deck. You want and *need* the [Vig](https://netrunnerdb.com/en/card/33052) and it is worth using a [Tsarevna](https://netrunnerdb.com/en/card/33117) to protect it if the runner is canny/trashy. 
+
+
+
+
+#### 4. Embrace non-Killer Combos
+
+The first aim is for a diplomatic win, scoring out by draining the runner of the means to run wild. 
+
+* If you see the chance to [Starlit Knight](https://netrunnerdb.com/en/card/34053) ice one, [Funhouse](https://netrunnerdb.com/en/card/30054) ice two - do it. There are floaty agendas in this deck and you need them protected (this requires funds, see 3.) 
+
+* If you see a chance to double stack a [Ping!](https://netrunnerdb.com/en/card/30055) - do it. This and a slightly sleazy feeling [Drago](https://netrunnerdb.com/en/card/33051) will see you on your merry way to [shipping this thing out](https://netrunnerdb.com/en/card/33119).
+
+ 
+
+
+Mostly it feels better to protect R&amp;D over HQ but it kind of depends. Either way, use this ice on one of the centrals. Make the call of which based on gut instincts whether they are more likely to be [Legworking](https://netrunnerdb.com/en/card/31019) or using [Maker’s Eye](https://netrunnerdb.com/en/card/31029). In the case of [Esâ](https://netrunnerdb.com/en/card/33001) you might even go for Archives.
+
+#### 5. Embrace Killer Combos
+
+Sometimes consultancy needs a killer instinct. 
+
+If your opponent hasn&#039;t seen the [Urtica&#039;s](https://netrunnerdb.com/en/card/30045) and the [Vlad Grids](https://netrunnerdb.com/en/card/33056) are AWOL, you are permitted to load up and dispatch a &quot;gross Urtica&quot;, even using up a [Seamless](https://netrunnerdb.com/en/card/30040) in desperate times to try and draw a kill win.
+
+#### 6. Oppo is a Buzzword
+
+Use [Oppo Research](https://netrunnerdb.com/en/card/34055) as a NBN Buzzword threat. Say Oppo often. Then, actually deliver on this if/when you can afford the click to break your own pace. I didn’t feel like Oppo was as good here as in R+, but the fear of it can slow a runner down from trashing things you [really](https://netrunnerdb.com/en/card/33052) [need](https://netrunnerdb.com/en/card/33056)
+
+ 
+
+
+### Final Word
+
+&gt;Is this a great deck? No. 
+&gt; Is this a fun deck? *Yes!* 
+
+Will I continue to hone this piece of kit? Well, possibly.  So much depends on how much is being offered elsewhere by competing firms.
+
+
+
+
+### Gratitude
+
+Immense thanks to [Tradon](https://netrunnerdb.com/en/profile/23078/Tradon) for sharing their absolutely smashing [Runner list](https://netrunnerdb.com/en/decklist/45e4e2a8-df0c-42b0-9df4-a144d4e922b0/who-needs-a-boat-anyways-1-at-startup-worlds-2023) from World&#039;s. 
+I was scared of getting my ongoing project of a homebrew Sable startup deck confused with the Standard Sable I netdecked off [Odol](https://netrunnerdb.com/en/decklist/78255) so, to continue the logic, I instead netdecked Tradon&#039;s startup [Zahya](https://netrunnerdb.com/en/card/30010) list literally on the Wednesday before nationals, and played it three times on Jinteki before hitting the Startup on Sunday. *eek*  However, the deck is so fluid, playable, and went undefeated on the day. So chuffed with 4 / 4 wins, against a range of Corp IDs (Built to Last / Personal Evolution / Thule / Reality+). 
+
+Thanks also to my wonderful Midlands meta, for testing and teaching me how to play netrunner. I have only been playing since July and you&#039;ve all been very patient, generous, and kind! Having your own Queer Earth Hub is a powerful thing. So proud of the gang for all your successes at UK Nats.
+
+Thanks to TamiJo for drawing me in at the UK Games Expo and convincing me of the brilliance of this game, right at the end of the day, with so much enthusiasm and good humour. 
+
+Thanks to everyone I played with on Sunday in this startup tournament. [Harmonbee](https://netrunnerdb.com/en/profile/8221/harmonbee) your skills are undeniable, and your plays were perfect. Rowan, you didn&#039;t fall for the Urtica game, as the killer NBN player you are :). SeaRose, I love you and I am glad we didn&#039;t have to kill each other. Russ, thanks for two seriously tense games full of fun and danger at the end of a long weekend. I hope we can play again soon :)]]></notes>
+</deck>

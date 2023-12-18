@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34020">Arissana Rocha Nahu: Street Artist</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31006">Corroder</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33013">Pinhole Threading</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33020">No Free Lunch</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33022">Deep Dive</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33023">Into the Depths</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33025">Endurance</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33028">Daeg, First Net-Cat</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33030">Stoneship Chart Room</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33071">Hush</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33078">WAKE Implant v2A-JRJ</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33087">Flux Capacitor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33092">Dr. Nuka Vrolyck</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34025">Pichação</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34026">Slap Vandal</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34029">Urban Art Vernissage</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34030">Bahia Bands</card>
+  </section>
+  <notes><![CDATA[This is the deck I brought to Crown of Servers and Startup Championship going 9-1 across both events. Pinsel also took my decklist to CoS but changed Daeg to Orca. Despite winning he only played 3-2 with the deck, proving that Cats are better than Orcas (this has nothing to do with Pinsel not practising any Startup beforehand; and neither does us not installing Daeg or Orca during CoS invalidate that statement either).
+
+
+
+Preparing for Startup I made several observations about the Startup meta:
+
+- Boat is legal.
+
+There were also other observations, but they are pretty irrelevant in comparison. Also Arissana is the stronger ID for Boat than Padma.
+
+The only loss during the weekend was against belazor on Kill-NEH. I did not practise that matchup beforehand, but in hindsight I think that it is also runner favored (I won twice against Kill-NEH afterwards) after figuring out these key aspects for the matchup:
+
+- There are no defensive agendas, you just win of accesses, Kill-NEH doesnt even have a low agenda density
+- They can&#039;t kill you so long as you have [NFL](https://netrunnerdb.com/en/card/33020) and/or [Stonechip](https://netrunnerdb.com/en/card/33030) installed
+- They only play 1 [End of the Line](https://netrunnerdb.com/en/card/33125) as tag punishment. If you know were the [Reaper Functions](https://netrunnerdb.com/en/card/33107) are and trash them, they cant do anything as long as you keep 4 cards in hand.
+
+In other matchups your general Gameplan is to use boat supported by [Flux](https://netrunnerdb.com/en/card/33087) for charge, [Vandal](https://netrunnerdb.com/en/card/34026) for single-sub ice and [Hush](https://netrunnerdb.com/en/card/33071) for anything with annoying text. [Buzz](https://netrunnerdb.com/en/card/30005) and [Corroder](https://netrunnerdb.com/en/card/31006) are only backup breaker for mostly [Magnet](https://netrunnerdb.com/en/card/31044) and [Tatu](https://netrunnerdb.com/en/card/34044).
+
+Charging [Nuka](https://netrunnerdb.com/en/card/33092) or [WAKE](https://netrunnerdb.com/en/card/33078) is often correct.
+
+[Into the Depths](https://netrunnerdb.com/en/card/33023) is incredibly strong in this deck as you can land it very reliably and it helps you either with Money, Charge or getting key pieces (such as Hush or clicklessly tutoring Pichacao during a Deep Dive turn) ... or all three of these things in one.
+
+
+Huge shoutout to all the folks at NSG who made the whole Worlds Weekend possible.
+
+Also thanks to the NWE folks for being amazing people.]]></notes>
+</deck>

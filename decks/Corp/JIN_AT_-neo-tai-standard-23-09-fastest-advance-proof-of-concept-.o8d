@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34039">A Teia: IP Recovery</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26111">Kakurenbo</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30050">Anoetic Void</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30067">Offworld Office</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31056">Swordsman</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33040">Regenesis</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33042">Moon Pool</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33043">Anemone</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33105">Hybrid Release</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33109">Vampyronassa</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33110">Simulation Reset</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34040">Fujii Asset Retrieval</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34042">Attini</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34044">Tatu-Bola</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34045">Mindscaping</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda34056">Your Digital Life</card>
+  </section>
+  <notes><![CDATA[### Summary
+
+What happens when you can fast-advance (FA) a [Jumon](/en/card/22035)?
+
+Protect Archives for Clot-safe FA Regenesis+1 for up to 4 points with just 5 credits, using [Kakurenbo](/en/card/26111) paired with [Moon Pool](/en/card/33042).
+
+### Deck idea
+
+#### Riskier Regenesis route:
+Precondition: Regenesis +2 agendas in Archives. Kakurenbo and Moon Pool in HQ.
+
+- Kakurenbo: trash nothing, install Regenesis from Archives +2 adv.
+- A Teia triggers, install Moon Pool.
+- Activate Moon Pool. Again trash nothing. Shuffle 1 agenda you DON&#039;T want to score into R&amp;D, advancing Regenesis a third time and score.
+- Since both Kakurenbo and Moon Pool removes from game, no cards has entered Archives this turn, so Regenesis+1 is achieved.
+
+#### Safer 3-4/2 FA route:
+Precondition: with 2-3 agendas in Archives/HQ; Kakurenbo and Moon Pool in HQ:
+
+- Kakurenbo: trash agenda to score if in HQ, install it with 2 advancement.
+- A Teia triggers, install Moon Pool.
+- Activate Moon Pool: shuffle the 2 other agendas back, 2 more advancements -&gt; Score.
+- This is safer because it doesn&#039;t require agendas in Archives. You can have the 2-card combo ready, top-deck an agenda and fire.
+
+Advantage: 
+
+- Economical: the most economical FA there ever will be. For just 1 turn and 5c you get up to 4 points! Meaning the gameplay is to simply have enough credits to defend centrals, and draw up cards like there&#039;s no tomorrow until you find the combo pieces.
+- Non-interactive: This strategy is [Clot](/en/card/31005) safe because it&#039;s all happening following one triple-click action: the Corp holds paid ability priority after the Kakurenbo install for Moon Pool activation. If they install at the start of Corp&#039;s turn with [Simulchip](/en/card/26085) it&#039;s trading one turn purging for 1 program recursion.
+- Flexible agenda: You can score anything alongside Regenesis. Maybe in the future there are new agendas with [good](/en/card/12093) ongoing effects.
+- Laughs at [Esâ](/en/card/33001)!
+
+Drawback: 
+
+- Archives defence: we need to defend all three centrals. Storing agendas in Archives means runner have infinite multiaccess there. Also needs to defend HQ well (where agendas will flood while waiting for the combo and where Moon Pool could be trashed). The only server we can let loose is R&amp;D, potentially armed with Snares.
+- Blank ID: Essentially having a blank ID as we barely have anything to double install for benefit. In fact having leftover Asset is a downside as installing our agenda+Moon Pool will trash said Asset and thus deactivating Regenesis.
+- 2-piece combo: It being a 2-piece combo also makes assembling much harder, and be vulnerable to Imp while waiting. Most of the clicks will be spent drawing up and not getting credit/ICEing up.
+
+Comparison with [Sokka&#039;s Timely Teia](/en/decklist/76864) using [Timely Public Release](/en/card/28006)-[Seamless Launch](/en/card/30040) combo:
+
+- (+) Does not require scoring the first agenda to kickstart.
+- (+) In-faction combo.
+- (+++) Can score 4 points if uncontested compared to just 2 -&gt; ends the game 1 combo cycle faster.
+- (–) Both cannot be interrupted by Clot, but this deck needs purging Clot.
+- (––) Requires 4+ cards instead of just TPR + Seamless Launch.
+- (–––) Free multi-access to the Runner in Archives.
+
+### Some thoughts and discussion
+#### Agenda suite
+
+- Regenesis + 5/3 is the main reason to try this instead of Seamless TPR. The scoring plan should be these surprise 4 points + 3 points. The 3 points can come from another round of the combo (Regenesis + 2-pointer), or 2+1 points.
+- To round up the remaining points, in case we didn&#039;t get Regenesis, it&#039;s best to have a back-up one-pointer - [Hybrid Release](/en/card/33105) - to finish the game with the safe combo.
+- Choice of 2-pointer is flexible. In my opinion [Offworld Office](/en/card/30067), [Flower Sermon](/en/card/26106) and [Project Yagi-Uda](/en/card/26040) are all solid choices. 
+- OffOff refunds money, where deck has quite a lot of non-credit cards (combo &amp; card draw).
+- Flower Sermon provides even more speed and also an important 6-th hand size to accommodate the combo.
+- Yagi-Uda can trim down the &quot;safe&quot; combo by 1 card. It is sufficient to FA with just 2 agendas, alternatively using Moon Pool alone without Kakurenbo.
+
+#### Some mind-games
+
+- You can dump more than just 3 agendas in Archives if you&#039;re daring enough when triggering safe Kakurenbo. After you cleaned 3 agendas from Archives the runner will be less incentivized to check, yet your Archives is already fueled for another, potentially riskier round!
+- The deck basically changes how the game plays. Now you protect Archives as if it&#039;s the scoring remote and the scoring remote Archives. May mess with some runners&#039; minds.
+- When you have all combo pieces but suspects the runner will challenge HQ but not R&amp;D, it&#039;s possible to use [Mindscaping](/en/card/34045) or [Flower Sermon](/en/card/26106) to &quot;bury&quot; Moon Pool or an agenda to the top of R&amp;D until your next turn.
+
+#### Final thoughts
+
+- This is a super high-risk strategy and a very rushy playstyle. In one game I won in 7 turns drawing 35 cards.
+- Not having Archives poison really made the deck very risky, but perhaps there&#039;s a subliminal thought that Archives is a low-reward server for the runner that it&#039;s not often contested.
+- Is it possible to splash this FA package in other A Teia decks? I doubt it, but feel free to experiment if you find it interesting, and share with us the results!
+- What happens when you can FA a [Jumon](/en/card/22035)? Maybe it&#039;s just sweet FA in the end.]]></notes>
+</deck>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34048">Epiphany Analytica: Nations Undivided</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30037">Nico Campaign</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30054">Funhouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30055">Ping</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31062">Project Beale</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31069">SanSan City Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33041">Bladderwort</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33112">Freedom of Information</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33113">Post-Truth Dividend</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33119">Shipment from Vladisibirsk</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34049">Oracle Thinktank</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34050">Balanced Coverage</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda34051">Behold!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34052">Federal Fundraising</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34053">Starlit Knight</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34055">Oppo Research</card>
+  </section>
+  <notes><![CDATA[As @swiftie will tell anyone all white birds are Swans. So Epiphany, with the 2 White birds on the ID has become known, by the Aldershot degenerates, as the ‘Swan ID’. I tried to build many decks with this ID, chasing one jank idea after another until @Swiftie helped me hone these ideas into this [deck](https://netrunnerdb.com/en/decklist/77729) which did okay at a CO. I named that deck ‘Swiftie’s Swans’. I made minor changes (-1 Behold +1 Balanced coverage) - but the name will remain in honor of its inspiration. 
+
+This deck is very taxing for the runner, if you come across it here is some advice:
+It has loads of agendas and mostly rubbish ice (although late game a Funhouse into Starlight Knight is quite mean). Federal Fundraising and Balanced coverage are the real key to the deck ‘Trash on sight’ do not under any circumstances allow Federal Fundraising to survive it allows the corp to control R&amp;D and with Balanced Coverage becomes a useful economy engine. 
+This corp wants money the Bladderworts (they could easily be Pad Campaigns but hey you might as well spend the influence!) are a distracting econ engine - they can mostly be safely ignored this ID wants you to trash them for ID counters to allow it to have more control of R&amp;D. If you allow the corp to stay rich it will not deliberately make itself poor to just get incidental net damage. This deck is not a kill deck. 
+The deck will spam out assets (mostly econ) trying to get you to waste clicks and econ trashing stuff as it builds a pile of ID counters. When you get bored and start trying to focus, it will cheese out a little agenda, and try and lure you back to checking the board. 
+
+Plan - destroy all copies of Federal Fundraising then try not to trash anything else (except on a turn you trash a federal, if you are rich, killing the SanSan is priority two). Now that you have stopped giving to corp ID counters R&amp;D control is tricky - win off R&amp;D ideally with multi-access digs. 
+Be ready to clear tags, Shipment from Vlad/ FoI will be waiting if you leave more than 2 (floating one tag is usually fine). And if you don’t have Hush or a way to clear tags then Starlight Knight can be a real pain in the end game. Good luck have fun.]]></notes>
+</deck>

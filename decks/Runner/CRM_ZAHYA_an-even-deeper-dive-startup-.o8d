@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30010">Zahya Sadeghi: Versatile Smuggler</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30011">Mutual Favor</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30014">Pennyshaver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31017">Forged Activation Orders</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31024">Security Testing</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33004">Steelskin Scarring</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33010">The Twinning</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33014">PAN-Weave</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33016">Cat&#039;s Cradle</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33017">Cezve</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33066">Finality</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33078">WAKE Implant v2A-JRJ</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33079">Zenit Chip JZ-2MJ</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33083">Info Bounty</card>
+    <card qty="6" id="bc0f047c-01b1-427f-a439-d451eda33094">Matryoshka</card>
+  </section>
+  <notes><![CDATA[This deck went 3-0 in the latest Startup tournament here in Austin, TX. It’s been something I’ve been iterating since Parhelion was spoiled and it is consistently powerful and fun to play. 
+
+If everything falls into place you can pull off a 9-deep dig on R&amp;D, but the real beauty of the deck is that all of the cards stack together and make each other better. Almost any pair of cards makes a useful combo from turn one.
+
+With the exception of Matryoshka, you can mostly just play whatever the deck gives you to good effect. Between Zahya’s ID ability, Pennyshaver, Info Bounty, Cezve, Zenit Chip, and/or PAN Weave, you are usually gaining tempo and making money by making a run every turn. Use Forged Activation orders to clear ice early, prevent a painful face check, or just to generally ruin Ob’s day (Stavka + Hafrun really hurts, but if you force Ob to rez their ice outside of a run it really defangs them). 
+
+There are lots of flex spots in this deck to adjust to your personal taste. I included a Cat’s Cradle to handle Hortum, Botulus prevents the corp from taxing you out of a server completely with Archer or Pharos, the security testing is only good against asset decks, and you may prefer a different spread of the cybernetics. If you include more draw or some inside jobs you may not want the mutual favors in here at all. 
+
+Always interested in criticism or feedback if you try the deck. Sorry for the lack of gifs.]]></notes>
+</deck>

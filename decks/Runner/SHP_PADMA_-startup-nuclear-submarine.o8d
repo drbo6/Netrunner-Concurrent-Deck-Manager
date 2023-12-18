@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33021">Captain Padma Isbister: Intrepid Explorer</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30024">Conduit</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30027">Telework Contract</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31008">Mimic</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31034">Paricia</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31038">Prepaid VoicePAD</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33013">Pinhole Threading</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33020">No Free Lunch</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33022">Deep Dive</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33023">Into the Depths</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33024">Rigging Up</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33025">Endurance</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33078">WAKE Implant v2A-JRJ</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33090">K2CP Turbine</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33092">Dr. Nuka Vrolyck</card>
+  </section>
+  <notes><![CDATA[_[Captain Padma Isbister](/en/card/33021) removed her [digital mask](/en/card/31008) as she climbed aboard the [Endurance](/en/card/33025), clutching a freshly purchased [burner satellite VoicePAD](/en/card/31038). She was preparing for the most important voyage of her career, bringing [heavy](/en/card/30006) [machinery](/en/card/30005) and the [wrath of the sea](/en/card/31034) directly to bear [against the deepwater data-pipelines](/en/card/33023) of the mega-polluters who were ruining her research along with the environment._
+
+_Government grants had dried up once the Weyland Consortium bought off regulators, but Padma was used to the [hard work and hustle](/en/card/33020) that came with running an independent lab. Her team was ostensibly funded via [remote work](/en/card/30027) in the &quot;[gig economy](/en/card/30020)&quot;, though [stolen secrets are worth a hefty price](/en/card/31037) to interested parties and surely the crypto-casinos wouldn&#039;t notice a few [fixed wagers](/en/card/30030)._
+
+_Together with a crew of [impassioned postdocs](/en/card/33092) and an ocean of [energy drinks](/en/card/01034), Padma had [rigged up](/en/card/33024) a [nuclear turbine](/en/card/33090)-powered submarine aboard her ship. As she sat down at the sub&#039;s helm and activated her [WAKE Implant](/en/card/33078), dive calculations, topographic maps, and countless other preparations came surging back to her— she was ready to [thread the needle](/en/card/33013) on her [longest descent](/en/card/32003) to date. Ready to taste the raw datastream and [drink deep](/en/card/30024)._
+
+## Game Plan
+
+This is the runner deck I&#039;ve been having the most fun and success with early in the new Parhelion Startup rotation. The rest of this write up has mostly served as notes to myself, as a newer player. The general game plan is to set up a super efficient rig that is capable of looking deeply into R&amp;D to find agendas before the corp can draw into them.
+
+Early game, we&#039;re looking for money and card draw to set up our rig ([boat](/en/card/33025) + breakers + [turbine](/en/card/33090)). We&#039;ll need about 20 credits of value to get fully set up, so early money is key. We want to put some early pressure on the corp without overextending ourselves, forcing them to rez ice that we&#039;ll be able to safely break or face check. We can then transition into playing control while we get the rest of our rig set up, locking down the remote to discourage scoring while building up our engine. Finally, we can transition into running centrals. Preventing the opponent from scoring out means that agenda density in centrals has been building all game. [Conduit](/en/card/30024) lets us use brute force to lock down their deck and [Deep Dive](/en/card/32003) lets us get surgical about extracting the winning agendas.
+
+## Win Conditions
+
+#### [Conduit](/en/card/30024)
+This card is devastating and demands a response from the corporation or they&#039;ll get deeply R&amp;D locked. Install this on turns that you&#039;re going to use it, because this will make your opponent want to protect R&amp;D even more than they already do against Padma. With our efficient breaker suite, we can often afford to run multiple times per turn and fork the corp between purging or letting us access handfuls of cards off their deck next turn. We can tutor and install this with [Into the Depths](/en/card/33023). It will even get an immediate virus counter if we ran against R&amp;D, as Conduit is triggered when a successful run ends, even if it wasn&#039;t active to see the run declared successful (cf. [CR v22.12](https://nullsignal.games/wp-content/uploads/2022/12/Null-Signal-Games-Netrunner-Comprehensive-Rules-v22.12.pdf) 9.6.5.b-c).
+
+#### [Deep Dive](/en/card/32003)
+Between _Endurance_ counters and turbo-boosted breakers, our opponent cannot sufficiently protect a scoring remote and all three centrals. Deep Dive is excellent at closing out late games where single accesses are expensive, letting us see oodles of cards from just 3 runs. Alternatively, an early dive on under-protected centrals can be a huge head start. In match-ups where multi-access is dangerous (eg. Jinteki&#039;s [Snare!](/en/card/31054)), Deep Dive lets us set aside 8 cards but only access 1, so we can skip over the dangerous cards. 
+
+#### [WAKE Implant v2A-JRJ](/en/card/33078)
+We won&#039;t see this every game as it&#039;s a single include for influence reasons, but when we do, it provides a ton of extra accesses and might be the best charge target in the deck. Running HQ will place a power counter onto the implant, which will let us charge it with our ID ability when running R&amp;D, netting us two extra accesses while leaving us two clicks for archives and Deep Dive. WAKE Implant lets us clear HQ while building non-purgeable value towards establishing R&amp;D lock.
+
+#### [Pinhole Threading](/en/card/33013) and [No Free Lunch](/en/card/33020)
+Winning the game is also conditioned on not losing the game first. Both of these cards help deal with some of the nastier tricks that corps have up their sleeves right now. [NFL](/en/card/33020) will keep you safe from a surprise [End of the Line](/en/card/33125). On the other hand, [Pinhole](/en/card/33013) can let you deal with dangerous assets like [Dr. Vientiane Keeling](/en/card/33106) or taxing defensive upgrades.
+
+## Credit &amp; Card Economy
+
+3x [Dr. Nuka Vrolyck](/en/card/33092): Slightly more efficient than [Diesel](/en/card/31027) but slower to pay out. The two complement each other well and I call this draw engine Nuka-Cola. Dr. Vrolyck makes a great charge target, but don&#039;t be too afraid to use the first one up when there are 2 others and 3 Diesel in the list.
+
+3x [Rigging Up](/en/card/33024): When we use this to install a program (except Paricia), it&#039;s similar value to a [Dirty Laundry](/en/card/31037): 3 and a  on an action we generally want to do anyway. And it&#039;s even better when we use it to install [Endurance](/en/card/33025), which gets an extra power counter, worth 1 itself, giving us the value of a [Sure Gamble](/en/card/30030) that also installs a card.
+
+3x [Into the Depths](/en/card/33023): This card does double duty, allowing us to tutor for programs and/or refund the credits/power counters used to successfully run the server. Our efficient breakers usually make this a winning proposition for us.
+
+3x [Telework Contract](/en/card/30027): Fairly click inefficient; 9 over 4 clicks makes this just better than clicking for 2. However, Telework is very efficient for the card slots at 8 profit each. In addition, this can be played from low credit count to recover relatively quickly.
+
+1x [Prepaid VoicePAD](/en/card/31038): This shines when found early, where it can be one of the better single economy cards in the list. This pays out 1 credit most turns but needs at least 3 turns to break even (2 for the credits paid, 1 for the click to install). While the credit is recurring, the event cards are not, so this is capped at a theoretical 15 of value for us.
+
+1x [Paricia](/en/card/31034): You&#039;ll pay more than 0 credits trashing assets in almost every game of Netrunner. Useful tech for asset spam matchups like [NEH](/en/card/31060), where trash costs can tax out the economy we need to get set up and make runs on centrals. Fits neatly in the [boat](/en/card/33025)&#039;s 6 total along side 3x icebreakers and 1-2x [Turbine](/en/card/33090) / 1x [Conduit](/en/card/30024). The more assets we trash off the deck, the deeper we can look into R&amp;D with our multi-access tools. Be aware that Paricia can only be spent on _asset_ trash costs so you cannot use this on upgrades like [SanSan City Grid](/en/card/31069) or [Manegarm Skunkworks](/en/card/30042).
+
+3x _[Endurance](/en/card/33025)_: The boat is effectively an economy card because it generates free breaks from runs and charge triggers. We can use this to break sentries or high strength ice and save our credits for our efficient breakers. In this list, I value each power counter as a single credit of value because we often use the boat as a replacement for [Mimic](/en/card/31008). We can use the flexibility of the boat to pressure early and get set up with Into the Depths.
+
+[Captain Padma Isbister: Intrepid Explorer](/en/card/33021): Our ID ability can translate into cards via [Nuka](/en/card/33092), accesses via [WAKE Implant v2A-JRJ](/en/card/33078), or broken subroutines which saves us credits via _[Endurance](/en/card/33025)_. All good things, but our options are limited by which charge targets we&#039;ve actually got installed with a counter already.
+
+2x [K2CP Turbine](/en/card/33090): Normally breaker strength resets during each encounter, but the turbine pre-boosts every single breaker on every single encounter. This can be worth up to 6 per encounter, which is incredible value. We usually only want to install one of these, opting to rely on our [boat](/en/card/33025) to break the largest ice, but our double turbo-charged breakers are obscenely powerful and will let us get into very secure servers over and over.
+
+## Breaker Suite
+
+All of our icebreakers are notable for breaking subs efficiently but being either inefficient at or incapable of boosting strength by paying credits. Instead, we leverage [K2CP Turbine](/en/card/33090) to boost for us and we can efficiently break almost every ice in the format. Given a base strength of 3 for all breakers, we don&#039;t need to sweat the small stuff, and it&#039;s easier to think about which ice we&#039;ll need a turbine (or two) in order to efficiently break. For reference, we&#039;ll list each below along with the cost to break.
+
+#### [Cleaver](/en/card/30006)
+
+Breaks two barrier subs for a single credit. Turbine adds up to 4 worth of strength on every encounter.
+
+At base strength, Cleaver interfaces with [8 barriers](/find/?q=e%3Aph%7Cms%7Csu21%7Csg+p%3C4+s%3Abarrier&amp;sort=strength&amp;view=list&amp;_locale=en).
+
+Turbo-charged to 5 strength, this interfaces with: 
+
+- [Eli 1.0](/en/card/31043): 1
+- [Envelopment](/en/card/33060): 1-3
+- [Hákarl 1.0](/en/card/33036): 1
+- [Ivik](/en/card/33045): 1
+- [Pharos](/en/card/30063): 2
+- advanced [Akhet](/en/card/26123): 1
+
+Double turbo-charged to 7 strength, Cleaver breaks [Brân 1.0](/en/card/30039) for 2.
+
+A triple advanced Pharos is the only ice in the format that cannot be efficiently broken on double Turbine. However, two boat counters and a tag is a pretty good deal for a board state your opponent has invested four clicks and ten credits into.
+
+#### [Buzzsaw](/en/card/30005)
+
+Breaks two code gate subs for 1. Turbine adds up to 6(!!) of strength each encounter.
+
+At base strength, Buzzsaw interfaces with [9 code gates](/find/?q=e%3Aph%7Cms%7Csu21%7Csg+p%3C4+s%3A%22code+gate%22&amp;sort=strength&amp;view=list&amp;_locale=en).
+
+Turbo-charged to 5 strength, this interfaces with:
+
+- [Funhouse](/en/card/30054): 1
+- [Hortum](/en/card/31076): 1
+- [Lotus Field](/en/card/31055): 1
+- [Mestnichestvo](/en/card/33053): 1
+- [Ravana 1.0](/en/card/31045): 1
+- [Tollbooth](/en/card/31066): 1+3
+- [Vampyronassa](/en/card/33109): 2
+
+There are no code gates in format with a strength greater than 5.
+
+#### [Mimic](/en/card/31008)
+
+Despite breaking a sub for a respectable single credit, this is by far our worst icebreaker. We&#039;re often better off using our [boat](/en/card/33025) to break sentries and saving our credits for our ultra-efficient fracter and decoder. Mimic is also our only truly fixed strength breaker, which removes the optionality of paying our way out of a bad face check. Thankfully, there are only 4-5 sentries in the format that mimic cannot break on its own.
+
+At base strength, Mimic interfaces with [9 sentries](/find/?q=e%3Aph%7Cms%7Csu21%7Csg+p]]></notes>
+</deck>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30019">Tāo Salonga: Telepresence Magician</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30006">Cleaver</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30007">Fermenter</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30020">Creative Commission</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30024">Conduit</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30025">Echelon</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30026">Unity</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30027">Telework Contract</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31020">Networking</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31027">Diesel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33024">Rigging Up</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33090">K2CP Turbine</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33092">Dr. Nuka Vrolyck</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda34014">Hermes</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda34025">Pichação</card>
+  </section>
+  <notes><![CDATA[Boat? What boat? 
+
+This is the [Hermes](https://netrunnerdb.com/en/card/34014) [Tao](https://netrunnerdb.com/en/card/30019) list I slapped together the night before the Canadian Startup tournament which carried me through to the end, undefeated in three rounds. The game plan is as simple as simple gets: 
+
+* Get money
+* Get your breakers down fast and cheap with [Diesel](https://netrunnerdb.com/en/card/31027), [Nuka](https://netrunnerdb.com/en/card/33092), and [Rigging Up](https://netrunnerdb.com/en/card/33024)
+* Lock the remote
+* [Conduit](https://netrunnerdb.com/en/card/30024)
+
+In other words, the game plan is &quot;Play Netrunner.&quot; And as it turns out, if you just put a bunch of high-value cards in a 40-card deck, you end up pretty much always drawing into something useful! This deck took out two R+ and a PD on the way to the top. Despite the deck&#039;s name, I couldn&#039;t actually get a Pichacao down on the table because I was short on MU. These are the things that don&#039;t occur to you at 2AM, I suppose. Should have cut one for a DZMZ. Ah, well
+
+My personal highlight was my match against @oneiromancer, in which I got Ping&#039;d on the way to stealing a Cryptocrash out of the remote on Click 2. He drew two cards and I bounced the unrezzed ice off of HQ. Click 3, Jailbreak HQ, steal the second Cryptocrash, bounce an unrezzed ice off the remote. 
+
+At this point I&#039;m on 3 cards in hand and am also floating a tag. I completely forgot that I was tagged and sent it into HQ with a second Jailbreak, managing to grab the 1 remaining agenda out of 8 cards in HQ, ripping 6 points in one turn and stealing the win. That&#039;s Netrunner, baby. 
+
+I mentioned it in my corp writeup but thanks again to [@amvaric](https://netrunnerdb.com/en/profile/15815/amavric) and Mattie for running such a wonderful tournament and to Jon for overseeing the Startup tournament. You&#039;re all absolutely delightful people.]]></notes>
+</deck>

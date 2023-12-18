@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33011">Nyusha &quot;Sable&quot; Sintashta: Symphonic Prodigy</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26018">The Class Act</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26074">Bravado</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda26094">Daily Casts</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda27002">Swift</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30011">Mutual Favor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30015">Carmen</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31018">Inside Job</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31037">Dirty Laundry</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33012">Carpe Diem</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33013">Pinhole Threading</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33017">Cezve</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33018">Revolver</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33019">Backstitching</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33022">Deep Dive</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33083">Info Bounty</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34015">Curupira</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda34018">Shibboleth</card>
+  </section>
+  <notes><![CDATA[**&quot;Who needs influence anyways?&quot;**
+
+After Belgian Nats I knew my Conduit Aenas Lat deck was just not cutting it, and I needed an emergency backup runner for Worlds. I saw that my young Padawan AlPi had great succes with Deep Dive Lat, but I also knew I needed something more aggressive to fit my playstyle. So I decided to update an old startup deck of mine &quot;Triple Deep Dive Sable&quot;.
+
+It went 5-2 at the French nationals, and 6-2 at Worlds. And just to be correct, at the French nationals I was playing a [Concerto](/en/card/33075) instead of the third [Jailbreak](/en/card/30028).
+
+The oversimplified gameplan is to run once each turn with a run event on your mark, getting random accesses, while applying pressure and often gaining value as well. And later in the game set up the double [Deep Dive](/en/card/33022) turn, where you can even steal a second agenda in one those two. Which turns out to be a pretty good finisher. 
+
+[Backstitching](/en/card/33019) is the real MVP here, letting you face-check with impunity on your mark, as well as bypass the bigger ICE in the late game such as Brân and Pharos.
+
+And yes, the draw is abysmal, but what else are you gonna do with your 6 clicks a turn.]]></notes>
+</deck>

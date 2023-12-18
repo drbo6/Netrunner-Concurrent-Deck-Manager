@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33001">Esâ Afontov: Eco-Insurrectionist</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda26067">Moshing</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30005">Buzzsaw</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30029">Overclock</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33002">Chastushka</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33003">Running Hot</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33004">Steelskin Scarring</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33005">Ghosttongue</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33006">Marrow</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33007">Begemot</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33009">Light the Fire!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33012">Carpe Diem</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33066">Finality</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33068">Raindrops Cut Stone</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33069">Time Bomb</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33071">Hush</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33073">Num</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33074">Tsakhia &quot;Bankhar&quot; Gantulga</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33079">Zenit Chip JZ-2MJ</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34001">Strike Fund</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda34012">S-Dobrado</card>
+  </section>
+  <notes><![CDATA[*Gas Gas Gas! Go fast or go home!*
+
+![Gas Gas Gas!](https://i.imgur.com/k39BYVW.gif)
+
+Sabotage go brrr
+
+![Sabotage go brrr] (https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGl6bGtsbXJtYXd1YXh2eGlyZDdrMXFpOTVqMWY2bm8xaHlzaG9yciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vpW4XjrQIeiM8/giphy.gif)
+
+
+Right up until the Australian East Nats got announced, I was exclusively playing startup, both with mates and on jnet. But I was starting to get hungry for more and the timing was perfect. And so with just under two months to figure out standard, I dove into the card pool and started testing decks and getting a feel of the meta, such as it was in the wake of The Automata Initiative release and its accompanying banlist. Now, time to concoct my first gif fueled write up.
+
+Coming from the relatively chill ecosystem of startup to standard was a shock. Corps were icing up faster than I&#039;d seen before. WTF is Formicary, like actually. Are you allowed to score 5/3&#039;s that fast? Like legally? All hurdles I had to explore and over come. Like pretty much every other runner, I scoped out the initial Hoshiko lists that were popping up at an increasingly alarming rate. But she just didn&#039;t vibe with me, as much as I liked her friends. Which was when I saw [@amargo.retruco &#039;s Esa list](https://netrunnerdb.com/en/decklist/76654). 
+
+Running an event focused economy, fueled by ghost tongue for those sweet sweet discounts. And it felt like a curtain had been cleared from in front of me. If I was getting iced out and out tempo&#039;d, just go cat mode on RND and HQ. They can&#039;t get setup if half their deck in the bin.
+
+![cat mode](https://i.imgur.com/H9Cjvfs.gif)
+
+And thus the testing and grinding began, making changes as I got a feel for the meta. Pretty quickly I realized that Bravado just wasn&#039;t for me. While it is technically a more efficient card, it only grants 1c more than Carpe Diem and requires a run on an iced server. Something that even with Bankhar you don&#039;t always want to do, at least not before you have the chance to use the money you just bought. With Ghost tongue, your Carpe Diem is a low to the ground Sure Gamble which will sometimes give you a central run you want to do as a bonus. And as an added bonus it frees up 1 inf per copy.
+
+Second change I made pretty quick was swapping Dirty Laundry to Overclock. Because while most decks can at least rely on Archives to be sitting pretty, once you start sabotaging that avenue can often be closed to you. Plus, living and dying like an Anarch often means making the calculated risk of not actually paying for the rig setup when you still have the line with Bankar and so you don&#039;t need to the extra credits. 
+
+Que Overclock. 
+
+![overclock](https://c.tenor.com/t3JHwDi8CsQAAAAC/tenor.gif)
+
+While it didn&#039;t end up being prevalent in the AusEastNats, during testing Bellona was a common issue for me. With NBN frequently letting a copy or two sit in the bin since Esa so often runs so low to the ground I&#039;d never be able to steal them. Which was when I accidentally discovered I can pay for them with Overlock. And just like that, problem solved. It also pulled double duty when I need to break into servers that old fashioned way, though most of the time this was more of a back up plan.
+
+Next up, dropped the No Free Lunches and a Zenit chip in favor of this deck&#039;s Secret Weapon. S-Dobrado. No one expects it. Allow me to set the scene:
+
+&gt; Location Pub - game day
+
+&gt;1990/2000&#039;s pop music mingles in the air with good vibes. Friends and acquaintances alike sit across from each other having fun around the room
+
+&gt;Your devious corp opponent sits on the other side of the table. 15 minutes into the game and up 4 points, they are nervous as Esa continuously sabotaged them, ditching a concerning amount of points in the bin over course of the game. 
+
+&gt;&quot;To hell with these shenanigans&quot; They think to themselves as they cave in and install a Trebuchet and Envelopment over archives. Feeling safe and secure from Bankhar and my lack of money they pass.
+
+&gt;&quot;Click for credit.&quot; I say, a mischievous grin sneaking onto my face.
+
+&gt;&quot;Click two, S-Drobrado.&quot; My opponent&#039;s face drops as they realize they have been bamboozled. Tricked and out played.
+
+&gt;Everybody in the pub claps.
+
+![everybody claps](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljd256Y2JyZnl6MDd2d3AwbHo4cG9wNjRjYWxwajFiY2p4cnVlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5PhS19L1B0cxOyI1mB/giphy.gif)
+
+In most decks S-Dobrado is rarely if ever worth including due to being Central only and Threat 4 often being late enough in the game you&#039;re either setup or so behind it doesn&#039;t matter. But since we only need to get into Archives once it&#039;s at critical mass, that doesn&#039;t matter to us. In truth I only need it once the entire tournament. But it won me the game so it was worth the slots.
+
+Next up, the forbidden deck bloat. Despite swapping cards around, I still felt like I needed more stuff to work with. And so after conferring with @riverluna I added 2 Moshing, 1 Light the fire, 2 Time bombs, + 1 Botulus, -1 Bankhar, -1 Zenit chips and reverting the back from Abassy to Buzzsaw.
+
+Of these changes, I regret adding the Time Bombs and dropping a Bankhar. Both of the swiss games I lost were because Bankhar didn&#039;t sure up when I needed it and I only had a bomb go off in two games, top cut included. So while I liked the idea of more sabotage in testing. In meat space it just doesn&#039;t fit into Esa&#039;s tempo. You never want to run archives early just for the bomb install if RND and HQ are iced up and Bankhar isn&#039;t online yet. And if he is, you can&#039;t guarantee it&#039;ll survive the the net damage. So I&#039;d drop the bombs and add back the Bankhar 100% 
+
+Zenit is a tricky one. I loved having it out, so I can see why the original list had two. But it really is just more grease for the engine and I&#039;d rather have two S-Dobrado to ensure I have it when it matters than getting the extra cards.
+
+Botulus was never a huge component any of my games, but getting down early on a scoring server gave me more flexability if I missed a breaker install. Hush on the other hand was like my comfort blanky. I didn&#039;t use it once all tournement but I&#039;d never run a list without. Just knowing I could put it down if I felt threatened by a potential Envelopment or Tollbooth made me feel a lot safer. If I&#039;m being more objective, I think the Botulus could be dropped for a second hush. Especially if your meta is heavy on Encounter/rez triggers.
+
+Light the fire was very much a Hail Mary include. I don&#039;t typically run remotes since most of my pressure comes from Chatushka and Finality and sometimes checking Archive if game state suggests it. But while the corp is fretting over my shenanigans they can still line up a score server. Dropping this and running with the right tools is sometimes all you need to put the corp on full tilt. I only used it once and it got border controlled post Ob shenanigans. But it was still worth it to see them start sweating. Plus I still got an Esa core proc out of it.
+
+Being as this was my first tournament, I really didn&#039;t expect to even get into the top cut let alone make it to second. I had a lot of fun researching and prepping my decks. Thanks again to @riverluna for giving me advice while I entered the format and for #TeamCanberra for the support on the day. And of course everyone that came out for creating a great energy that day and for all the amazing games especially with my oppanents in the top cut. Special shout out to my top cut round 5 matchup [HaverOfFun](https://netrunnerdb.com/en/profile/41571/HaverOfFun) that I absolutely blitzed in 3.5 minutes. Stealing an Ikawah Project off RND turn 1 then running Finality into RND turn two, scoring 2 3/2&#039;s for the win. Wild stuff.
+
+Esa gang rise up 
+
+![Chatushka](https://static.nrdbassets.com/v1/large/33002.jpg)]]></notes>
+</deck>

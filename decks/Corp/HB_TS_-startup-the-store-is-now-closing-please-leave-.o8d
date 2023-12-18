@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33095">Thule Subsea: Safety Below</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30036">Luminal Transubstantiation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30037">Nico Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30039">Brân 1.0</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30054">Funhouse</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33035">Echo</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33037">Wave</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33096">Ontological Dependence</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33098">Bloop</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34031">Salvo Testing</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34032">Stegodon MK IV</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34034">Ablative Barrier</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda34038">Vovô Ozetti</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34065">B-1001</card>
+  </section>
+  <notes><![CDATA[![B-1001 calmly asks a runner to leave.](https://media.discordapp.net/attachments/506183939250192394/1145798864335548528/leavethestore.png?width=400&amp;height=400 &quot;Please Leave&quot;)
+
+This a Thule list that I brought to the [Netbrummers Startup Tournament](https://alwaysberunning.net/tournaments/3841/netbrummers-startup-2nament-its-the-second-one) and piloted to a 3-0 corp finish. My runner deck was Reina and went 1-1-1, leaving me with a 2nd place finish overall.
+
+Game 1 was against a Deep Dive Sable. Taxing ice early denied them a lot of tempo, and a number of unlucky Identify your Mark rolls on a 3 ice thick R&amp;D was quite unfortunate for my opponent. Classic purple glacier stuff gets the win.
+
+Game 2 was against a spicy Femme Fatale Mercury list. I had played against it at a meetup on the previous week and knew that my out was chucking as much ice as i could on centrals and denying Security Testing credits as much as I could. I scored out a first agenda Salvo Testing, and then my opponent saw two Stegodon&#039;s off a last click multiaccess on R&amp;D, leaving them with an unmanageable amount of core damage and letting me score 0/2 Ontologicals. 
+
+Game 3 vs Arissana was an absolute slugfest. A draw into spin doctor turn 1 saves one of the worst mulligans I&#039;ve ever had, but my slow start meant my opponent could set up most of her board before I could get going. A lucky score on a naked install Stegodon set me up for my combo, but I had about 7 turns in a row of not seeing a single agenda to get to the necessary threat 3. I had to put 5 ice on R&amp;D to keep my opponent out, and eventually managed to draw into my agendas for the win in this 55 minute grindfest.
+
+Shoutout to milk_geologist for their [Startup Operating Procedures](https://netrunnerdb.com/en/decklist/5bf50df4-ee8a-4fc6-8122-21f1856e8bb9/startup-operating-procedure-startup-) list, the core of which I used with a few minor adjustments. I swapped some Cybersand Harvesters and Nightmare Archives for an extra Magnet, x2 Bran 1.0 and Manegarm Skunkworks. 
+
+The spicy combo in the deck is both pretty funny and surprisingly effective.
+
+Step 1: Get two remotes. One is protected by Funhouse and Ablative Barrier, the other has B-1001 inside it. You can ice the B-1001 server if wanted, but it&#039;s not necessary.
+
+Step 2: Have scored a Stegodon MK IV. Multiple Stegos are helpful against persistent runners but not strictly necessary. Also, have threat 3 be online.
+
+Step 3: Enjoy your unbreakable remote. If the runner runs your agenda, rez funhouse and then use B-1001 to end the run. Remember not to rez ablative on this first run. The runner will go trash your B-1001, and if they return to your remote, we now rez Ablative to recur our copy of B-1001. We have Stegodon to then derez Ablative, allowing us to pull the whole thing off again. 
+
+Hush can shutdown Ablative and Funhouse. In this case, have a magnet on the remote to pull the Hush over, which you can derez with Stegodon to re-use as needed. And of course, we still lose on centrals against strong multiaccess.
+
+Vovo is the best guy, the greatest guy. And Skunkworks is good in glacier. News at 11. 
+
+I ended up floating influence for this list. Slots are hard, and nothing jumped out to me as strictly necessary. A future list probably features some number of Simulation Resets are flood insurance and to help dig for our combo pieces.]]></notes>
+</deck>

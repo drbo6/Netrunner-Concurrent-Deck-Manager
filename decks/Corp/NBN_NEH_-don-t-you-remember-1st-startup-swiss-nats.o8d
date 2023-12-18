@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31060">Near-Earth Hub: Broadcast Center</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30052">Tomorrow&#039;s Headline</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30055">Ping</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30056">Predictive Planogram</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30057">Public Trail</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31062">Project Beale</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31063">Daily Business Show</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31066">Tollbooth</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31069">SanSan City Grid</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31080">PAD Campaign</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33051">Drago Ivanov</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33107">Reaper Function</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33112">Freedom of Information</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33114">Gaslight</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33117">Unsmiling Tsarevna</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33125">End of the Line</card>
+  </section>
+  <notes><![CDATA[# &quot;Don’t you remember?&quot;
+
+To be honest, starting the day, I didn’t expect to win anything. My head was kind of spinning from the day before, and I brought a deck I have played before the weekend exactly once. I have never even played NEH, I think. I am a Jinteki player at heart. My thoughts were more in the line of: hey, Startup, what should I bring? Oh, I got this shiny golden ID from Jakuza, and I want to play that. Then I got a deck from Tugtetgut via lostgeek and I thought, uuu, I like that. Sounds fun. But let’s get to the point. Or rather the line:
+
+![Draw the Line](https://cdn.discordapp.com/attachments/710538941995941898/1075069626880364667/Worte_im_wind_2.png)
+
+I went 4-0 on the tournament, all kills. So here is the usual gameplan: 
+
+-Install [Snares](https://netrunnerdb.com/en/card/31054) and [Reapers](https://netrunnerdb.com/en/card/33107) for the accidental kill (I have seen it happen ;-) or for facilitating the final blow. If you meet a central focused Runner it is also good to keep them on HQ.
+
+-Install [Gaslight](https://netrunnerdb.com/en/card/33114), usually to find End the line, or, if the Drago is missing, a Public Trail would do fine.
+
+-Install / advance [Drago](https://netrunnerdb.com/en/card/33051), preferably behind ice for protection.
+
+-[End of the line](https://netrunnerdb.com/en/card/33125), because, well, you have to draw the line somewhere.
+
+## Possible changes
+
+-1 or -2 [SanSan City Grid](https://netrunnerdb.com/en/card/31069). I never even came close to considering to score out an agenda and usually just hid them somewhere, or shuffled them back with Spin doctors.
+
++1 [Public Trail](https://netrunnerdb.com/en/card/30057) and / or +1 or +2 [Funhouse]( https://netrunnerdb.com/en/card/30054). Maybe you can stick tags.
+
+## As a side note
+Because I was so focused on damage, tag, kill, I forgot (especially in the final), that tags are also good for trashing resources. I was lucky, it didn’t bite me. But there is always some realization you have after a tournament and it is always good to give it some afterthought. I had a lot of discussion about certain moves.
+
+## Thanks 
+To Tugtetgut for the pleasure playing this deck and letting me publish it, and thanks to all the players at Swiss Nationals, especially the lovely TOs lukenukem and oggbonaian.]]></notes>
+</deck>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31001">Quetzal: Free Spirit</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30002">Wildcat Strike</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30004">Botulus</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30007">Fermenter</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30013">Docklands Pass</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30028">Jailbreak</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30030">Sure Gamble</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31010">Liberated Account</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31011">Scrubber</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31015">Career Fair</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31039">Earthrise Hotel</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33004">Steelskin Scarring</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33006">Marrow</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33020">No Free Lunch</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33066">Finality</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33071">Hush</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33077">Poison Vial</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33082">Asmund Pudlat</card>
+    <card qty="6" id="bc0f047c-01b1-427f-a439-d451eda33094">Matryoshka</card>
+  </section>
+  <notes><![CDATA[##Aim of the Deck
+- Threaten remotes and centrals with a full compliment of [Russian Dolls](/en/card/33094), with support from [Quetzal&#039;s ability](/en/card/31001). Speaking of...
+- Avoid costly Barrier ice with a combination of [Quetzal&#039;s ability](/en/card/31001) and [Poison Vial](/en/card/33077) - making [Pharos](/en/card/30063) trivial.
+- Tutor what you need with [Asmunds](/en/card/33082):
+  * They placed a barrier in your way (and not in the bin)? Go get your [Poison Vial](/en/card/33077).
+  * Need some cash? get your [Fermenter](/en/card/30007).
+- Surprise Multi-access with [Finality](/en/card/33066), [Jailbreak](/en/card/30028) and support with [Docklands Pass](/en/card/30013)
+- [Annoying](/en/card/33062) [on](/en/card/33108) [rez](/en/card/33124) [text](/en/card/33117) [ice](/en/card/31066)? Go get your [Hush](/en/card/33071).
+- Good solid anarch draw and economy engine with [Career Fair](/en/card/08023) targets like [Earthrise Hotel](/en/card/31039) [Liberated Account](/en/card/31010).
+
+##Starting Hand
+_Ideally, some economy and draw or access to [Poison Vial](/en/card/33077)._
+
+##Possible Changes
+- **Twinning Engine:** possible inclusion of a [Twinning](/en/card/33010) with [PPVP](/en/card/04029) for more sustainable multiaccess pressure on centrals You may want to [rejig the draw and economy engine](https://www.netrunnerdb.com/en/decklist/514a021d-0f60-4351-8ff7-489e2432b795/quetzoxic-startup-) to fit this in.
+- **Sell your programs when not needed:** - 2 influence and -2 [Scrubber](/en/card/31011) to add +1 [Aesop&#039;s Pawnshop](/en/card/31035) and +2 [Imps](/en/card/02003) and maybe [Cookbook](/en/card/30009)
+
+##Why this Deck is for YOU!
+- You like aggressive decks that undermine big barrier and annoying NBN ice.
+- You are too proud to play with [boats](/en/card/33025)
+- You are not proud enough to play [Criminal](https://www.netrunnerdb.com/en/deck/view/6ba16698-b412-4727-9c7d-003c25b98b6e)
+- You like something different and you enjoy underdog IDs.]]></notes>
+</deck>

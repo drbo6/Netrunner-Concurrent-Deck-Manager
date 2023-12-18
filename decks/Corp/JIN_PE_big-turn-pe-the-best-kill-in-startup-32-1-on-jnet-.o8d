@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31050">Jinteki: Personal Evolution</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30040">Seamless Launch</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30041">Sprint</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30045">Urtica Cipher</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30048">Hansei Review</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30049">Neurospike</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30069">Send a Message</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31054">Snare!</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31078">Punitive Counterstrike</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33039">Blood in the Water</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33043">Anemone</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33044">Bathynomus</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34040">Fujii Asset Retrieval</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34042">Attini</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34043">Phoneutria</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34044">Tatu-Bola</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda34045">Mindscaping</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda34047">Daniela Jorge Inácio</card>
+  </section>
+  <notes><![CDATA[##I really wanna kill Runners, but they always end up winning before I do. What can I do?
+
+Don&#039;t you worry. The OG killer ID is back, and better than ever.
+
+[End of the Line](/en/card/33125) can hide in a ditch somewhere. [Thule](/en/card/33095)s Core Damage is already in a ditch, so good job there. If you wanna kill runners in Startup, look no further. During my testing with this deck, I&#039;ve taken 32 W&#039;s and a single L. Runners fold like origami paper in front of this monster.
+
+##32-1? Really?
+
+Yep. I don&#039;t know how it happened either. Either the Jinteki.net lobby is unreasonably easy to kill, or I&#039;ve accidentally broken the format. Maybe both. I would upload picture evidence if I knew how to ^^&#039;
+
+##But how?
+
+The fork is [Neurospike](/en/card/30049) and [Punitive Counterstrike](/en/card/04079). If they steal a 3-pointer, you shoot them to death with Punitive. If they don&#039;t steal it, you Neurospike them to death. Either way, you get a cooked runner. Everything else in this deck serves to feed that wincon.
+
+##Haven&#039;t those cards been legal a while? Why now?
+
+Because [Fujii Asset Retrieval](/en/card/34040), that&#039;s why. It&#039;s everything this deck wanted and more. With it, you can dome people for 6 with a single Neurospike, It makes it very hard to draw up out of [Punitive Counterstrike](/en/card/04079) range. It&#039;s a 3-pointer that lets us run a decent agenda spread.
+
+##What&#039;s with all the traps?
+
+[Snare!](/en/card/01070) keeps runners honest since the core set, and more importantly it really hurts the runner&#039;s tempo. And that&#039;s the point of all the traps. [Daniela Jorge Inácio](/en/card/34047) and [Urtica Cipher](/en/card/30045) both serve the same function, to impede the runner and force them to spend time drawing up instead of punishing your earlygame.
+
+##But how do I play this deck?
+
+Carefully. If the runner ever steals 5-6 points, you&#039;re kinda toast. Luckily, between [Sprint](/en/card/30041) and [Spin Doctor](/en/card/30053), you&#039;re pretty good at hiding your Agendas until you&#039;re ready to shoot. Play it slow, click for credits if you&#039;ve nothing better to do, draw for your kill pieces a lot, and don&#039;t be afraid to just advance agendas when you&#039;re set up.
+
+##But what about Anarchs with Sabotage and [Steelskin Scarring](/en/card/33004)?
+
+They are your hardest matchups, for sure. The one L I&#039;ve taken with this deck was to an [Esâ](/en/card/33001) who milled two [Send a Message](/en/card/30069) off the top in the first three turns. 
+
+You have to play even more careful, looking for opportunities when they damage themselves or hurl themselves at your ICE. Anarchs do tend to damage themselves on occasion, shooting themselves for temporary advantages. Make use of that and bulldoze your way through the rest of their protection. Plus, if you leave cheeky agendas in Archives when they go to check, you can surprise them with a [Fujii](/en/card/34040) and a [Punitive](/en/card/04079) to the dome.
+
+##Any upgrades you&#039;re considering?
+
+[Seamless Launch](/en/card/30040) hasn&#039;t been pulling it&#039;s weight as hard as I want it to, and I&#039;m looking for replacements. [Angelique Garza Correa](/en/card/34063) was in an earlier iteration, and I may put one of her back in alongside the third [Spin Doctor](/en/card/30053) for the next version.
+
+##Well dang, I guess I&#039;ll try it out then.
+
+Good luck. May the Punitive math be ever in your favor :)]]></notes>
+</deck>

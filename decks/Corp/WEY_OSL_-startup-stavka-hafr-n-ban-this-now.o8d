@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="0f38e453-26df-4c04-9d67-6d43de939c77">
+  <section name="Identity">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33057">Ob Superheavy Logistics: Extract. Export. Excel.</card>
+  </section>
+  <section name="R&amp;D / Stack">
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30042">Manegarm Skunkworks</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30053">Spin Doctor</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30060">Above the Law</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30066">Malapert Data Vault</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda30071">Regolith Mining License</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30072">Palisade</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30073">Tithe</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda30074">Whitespace</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda30075">Hedge Fund</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31042">Marilyn Campaign</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda31044">Magnet</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31071">Hostile Takeover</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31072">Oaktown Renovation</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31073">Project Atlas</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda31077">Ice Wall</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda31081">Enigma</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33047">Mavirus</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33058">Azef Protocol</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33059">Svyatogor Excavator</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33060">Envelopment</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33062">Stavka</card>
+    <card qty="3" id="bc0f047c-01b1-427f-a439-d451eda33063">Extract</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33108">Hafrún</card>
+    <card qty="2" id="bc0f047c-01b1-427f-a439-d451eda33124">Anvil</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33126">Yakov Erikovich Avdakov</card>
+    <card qty="1" id="bc0f047c-01b1-427f-a439-d451eda33127">ZATO City Grid</card>
+  </section>
+  <notes><![CDATA[The game in a nutshell:
+![alt text](https://i.imgur.com/FKrDsgQ.png &quot;Game in a Nutshell&quot;)
+
+Imagine the shock on the Runner&#039;s face when you pull out the evilest of all plans. It is the cruelest combo ever seen in Startup. It is the one where you do it once and you could say &quot;GG&quot; almost every time. Except, you&#039;re not _that_ evil; you wouldn&#039;t say that out loud. But in your mind, you know the Runner is _toast_.
+
+## Welcome to Ob rigshooting deck ##
+
+True, it never became a haymaker in Startup during the Midnight Sun era. It lacked much support to fuel its scrapping strategy. Plus, Retribution was one of the few ways to rigshoot your opponent but requires tagging them which is _really_ annoying. And the Runner had an abundance of recursion tools such as Simulchip and Harmony AR Therapy; it&#039;s like they&#039;ll never run out of breakers! But with the release of Parhelion and the rotation of Ashes cycle, Ob became not only better; it became a monster and a horror to all Runners.
+
+If you&#039;re the type of person who don&#039;t mind being called “horrible” and “monster”, this is _the_ deck to try out.
+
+
+
+## The Combo ##
+
+The first combo piece you need to know is called Hafrún. Yes, it&#039;s a Jinteki card so you&#039;ll have to spend some influence on it, but read its effect:
+
+&gt; &quot;When you rez this ice during a run against this server, you may trash 1 card from HQ. If you do, choose 1 installed Runner card. That cardʼs abilities cannot break subroutines for the remainder of that run.&quot;
+
+Now normally, when you rez it, the Runner can just jack out and run again since it only stops a card for 1 run. That&#039;s pretty nifty on its own. But what if you can prevent the Runner from breaking one of your _other_ piece of ice? What if you can disarm their killer while they engage with your sentries? Is that even possible?
+
+That&#039;s where Ob&#039;s effect comes in. If you can manage to trash one of your rezzed 3-cost cards mid-run, you can use Ob to search for Hafrún (a 2-cost ice), install it in the same server, and disarm their killer, their Botulus, or their boat. Now your sentry ice is ready for a meal, and it&#039;ll be delicious. :)
+
+The main way to do that is to rez Stavka. It is the second combo piece that lets you search and rigshoot at the same time, completing the package. It has a very devastating effect: trash 2 programs. (Yes, any 2 programs of your choosing, including icebreakers) As long as the Runner has no other means to break Stavka, the rigshooting is guaranteed.
+
+Does the Runner have only a single Carmen to break sentries? Bye-bye, seeya!
+
+Does the Runner also have a fracter or a decoder? Adiós amigo!
+
+Drink their tears. Laugh maniacally. The Runner is _toast_. If they have backup breakers or a recursion card, just do it again. :)
+
+![alt text](https://i.giphy.com/media/l1AvALOphoaWbxeRa/giphy.webp &quot;Evil Laugh.gif&quot;)
+
+* Or pitch the Stavka to ZATO for a triple kill.
+* Or pitch the Hafrún to ZATO for a guaranteed end the run (while searching for Ice Wall for another End the Run).
+* Or use Mavirus paid-ability to search for another copy of Hafrún and repeat the rigshooting cycle.
+* Or trash it using Extract and fetch for another card.
+
+If the Runner is still alive and isn’t letting you have any more rigshooting fun, your Plan B is to create a monstrous glacial server so that it become impenetrable. With Ice Wall, Enigma, Magnet, and Envelopment, you have plenty of ways to force End the Run using ZATO City Grid. Keep scrapping your ice from other servers so that your remote server is so tall, even Earth Station would be jealous.
+
+![alt text](https://i.imgur.com/gFJdimZ.png &quot;Big Tower&quot;)
+ 
+ 
+ 
+Enough chatting, let&#039;s get rigshooting!]]></notes>
+</deck>
