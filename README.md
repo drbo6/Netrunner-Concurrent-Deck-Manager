@@ -4,7 +4,7 @@ This Python script can check Netrunner decks against a card collection so that y
 
 ## Instructions
 
-1. Windows users can run the executable provided in the "dist" folder. Non-windows users can Install Python (3.10.5) and run the script manually (which requires installing the items at the top of the script).
+1. Windows users can run the executable provided in the "dist" folder (or the releases section). Non-windows users can Install Python (3.10.5) and run the script manually (which requires installing the items at the top of the script).
 
 2. File > "Load Collection" to load a card collection. This should be a UTF-8-SIG-formatted CSV file. If you have MS Excel, saving your spreadsheet as a CSV-file will do this for you. 
    
