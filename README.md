@@ -1,4 +1,4 @@
-# Netrunner Concurrent Deck Manager
+# Netrunner Concurrent Decks Manager
 
 This Python script can check Netrunner decks against a card collection so that you can build multiple decks at the same time (given that you have multiple core sets or some proxies for commonly used cards).
 
