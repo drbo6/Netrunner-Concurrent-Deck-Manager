@@ -8,6 +8,7 @@ import webbrowser
 
 class Data:
     def __init__(self, csv_file="./Cards/Runner Cards.csv", decks_folder="./Decks/Runner"):
+        self.acronyms = False
         self.dirname = os.path.dirname(__file__)
         self.cards_file_path = os.path.join(self.dirname, csv_file)
         self.decks_folder_path = os.path.join(self.dirname, decks_folder)
@@ -57,6 +58,16 @@ class Data:
             root = tree.getroot()
 
             deck_name = os.path.splitext(deck_filename)[0]
+
+            if self.acronyms:
+                for section in root.findall(".//section"):
+                    for card in section.findall(".//card"):
+                        card_words = card.text.replace('"', '').split()
+                        card_name = ''.join(word[0] for word in card_words)
+                        break
+                    break
+                deck_name = f"{card_name} - {os.path.splitext(deck_filename)[0]}"
+
             decks_data[deck_name] = {}
 
             for section in root.findall(".//section"):
@@ -139,6 +150,13 @@ class NetrunnerConcurrentDecksManager:
         reset_menu.add_command(label="Reset Deck 3", command=self.reset3)
         reset_menu.add_command(label="Reset Deck 4", command=self.reset4)
         reset_menu.add_command(label="Reset All", command=self.reset)
+
+        settings_menu = tk.Menu(menubar, tearoff=0)
+        menubar.add_cascade(label="Settings", menu=settings_menu)
+        if self.data.acronyms:
+            settings_menu.add_command(label="Acronyms Off", command=self.toggle_acronyms)
+        else:
+            settings_menu.add_command(label="Acronyms On", command=self.toggle_acronyms)
 
         help_menu = tk.Menu(menubar, tearoff=0)
         menubar.add_cascade(label="Help", menu=help_menu)
@@ -349,6 +367,12 @@ class NetrunnerConcurrentDecksManager:
 
     def about(self):
         messagebox.showinfo("About", "Netrunner Concurrent Decks Manager v1.0\nBy DrBo6\n\nDeveloped in Python 3.10")
+
+    def toggle_acronyms(self):
+        self.data.acronyms = not self.data.acronyms
+        self.data.decks = self.data.load_decks_data_from_folder()
+        self.createGUI()
+        self.update_listboxes()
 
 if __name__ == "__main__":
     root = tk.Tk()
