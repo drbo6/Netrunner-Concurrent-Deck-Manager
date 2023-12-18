@@ -343,7 +343,7 @@ class NetrunnerConcurrentDecksManager:
         self.reset_listbox(4)
 
     def open_documentation(self):
-        url = "http://www.google.com"
+        url = "https://github.com/drbo6/Netrunner-Concurrent-Deck-Manager"
         webbrowser.open(url)
 
     def about(self):
